@@ -11,10 +11,14 @@ Q: Who all likes pizza?
 A: Alice and Bob like pizza.
 
 Q: Who all likes sushi?
-A: Claire likes sushi.
+A: Claire and Bob like sushi.
 
 Q: What do Alice and Bob both like?
 A: Alice and Bob both like pizza.
 
 Q: What do Bob and Claire both like?
 A: Bob and Claire both like sushi.
+
+Q: Does Bob like sushi?
+A: Yes
+
