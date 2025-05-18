@@ -1,0 +1,13 @@
+% --- TYPE HIERARCHY ---
+type food :: noun.object
+
+% --- FACT METADATA ---
+relation like(A: person, B: food)
+  verb_phrase = "likes"
+  question_template = binary_relation
+  description = "A likes B"
+
+% --- RULE METADATA ---
+relation friend_of(A: person, B: person, F: food)
+  question_template = shared_preference
+  description = "A and B both like F"
