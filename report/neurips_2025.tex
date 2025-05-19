@@ -31,6 +31,24 @@
 \usepackage{nicefrac}       % compact symbols for 1/2, etc.
 \usepackage{microtype}      % microtypography
 \usepackage{xcolor}         % colors
+
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{float}
+
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  keywordstyle=\color{blue},
+  commentstyle=\color{gray},
+  stringstyle=\color{red},
+  showstringspaces=false,
+  frame=single,
+  breaklines=true,
+}
+\usepackage{caption}
+\DeclareCaptionLabelFormat{filename}{#2} % only show the caption text
+\captionsetup[lstlisting]{labelformat=filename}
 %\usepackage{graphicx}
 
 
@@ -119,7 +137,58 @@ The generated datasets will be both quantitatively and empirically evaluated.  W
 Below is a small sample of the Prolog constraints and the Natural Language Constraint annotations provided by the user.
 
 
---insert the files logic.pl and annotations--
+\noindent
+\begin{minipage}{0.48\textwidth}
+\captionof{lstlisting}{logic.pl}
+\begin{lstlisting}[language=Prolog]
+% Facts
+person(alice).
+person(bob).
+person(claire).
+
+food(pizza).
+food(sushi).
+
+like(alice, pizza).
+like(bob, pizza).
+like(bob, sushi).
+like(claire, sushi).
+
+% Rule
+friend_of(A, B, F) :-
+    like(A, F),
+    like(B, F),
+    A \= B.
+\end{lstlisting}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\textwidth}
+\captionof{lstlisting}{annotations.txt}
+\begin{lstlisting}[language=Python]
+% --- BUILT-INS SAMPLE ---
+type noun
+type verb
+type pronoun
+type adverb
+type adjective
+
+% --- TYPE HIERARCHY ---
+type food :: noun.object
+type person :: noun.object
+type like :: verb.object
+
+% --- FACT METADATA ---
+relation like(A: person, B: food)
+  verb_phrase = "likes"
+  question_template = binary_relation
+  description = "A likes B"
+
+% --- RULE METADATA ---
+relation friend_of(A: person, B: person, F: food)
+  question_template = shared_preference
+  description = "A and B both like F"
+\end{lstlisting}
+\end{minipage}
 
 The logic.pl file defines a set of facts and relations.  Facts associate words with user defined data types (eg. person(Alice)), or can define
 a relation between two words (eg. like(alice, pizza)).
@@ -131,7 +200,33 @@ The user can also map these relations to some high level templates such as binar
 prompts.  Below is a set of sample questions and answers from the above constraints and natural language annotations:
 
 
--- insert prompt.txt -- 
+\noindent
+\captionof{lstlisting}{prompts.txt}
+\begin{lstlisting}[language=Prolog]
+Q: What does Alice like?
+A: Alice likes pizza.
+
+Q: What does Bob like?
+A: Bob likes pizza and sushi.
+
+Q: What does Claire like?
+A: Claire likes sushi.
+
+Q: Who all likes pizza?
+A: Alice and Bob like pizza.
+
+Q: Who all likes sushi?
+A: Claire and Bob like sushi.
+
+Q: What do Alice and Bob both like?
+A: Alice and Bob both like pizza.
+
+Q: What do Bob and Claire both like?
+A: Bob and Claire both like sushi.
+
+Q: Does Bob like sushi?
+A: Yes
+\end{lstlisting}
 %\includegraphics[width=5cm]{annotations.png}
 
 \section{Related Work}
