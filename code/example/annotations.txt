@@ -1,5 +1,14 @@
+% --- BUILT-INS SAMPLE ---
+type noun
+type verb
+type pronoun
+type adverb
+type adjective
+
 % --- TYPE HIERARCHY ---
 type food :: noun.object
+type person :: noun.object
+type like :: verb.object
 
 % --- FACT METADATA ---
 relation like(A: person, B: food)
