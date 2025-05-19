@@ -131,7 +131,7 @@ Our goal is to create a domain-specific compiler that can dynamically generate h
 For the chosen domain, our key insight is aiming to encode constraints using Prolog, which is a logic-based programming language that allows the user to specify relationships in a declarative way.  Our system will take these Prolog predicates, and natural-language metadata per predicate to be able to generate a large variety of natural language prompts and answers which can then be used to verify LLMs or even fine-tune them.  
 
 \subsection{Evaluation and Expected Outcomes}
-The generated datasets will be both quantitatively and empirically evaluated.  We’ll use quantitative scores such as the BLEU score to determine how similar the NLG prompts are to human written prompts.  For empirical evaluation, we’ll run both generated and human written prompts into an LLM such as Llama or NanoGPT.  The purpose of this evaluation is to determine the effectiveness of the generated prompts by seeing how many of those prompts cause hallucinated outputs by the LLM compared to the handwritten prompts.  Our expectation is the generated prompts will be closely related to the human written prompts in terms of natural language, and the generated prompts will be more likely to detect hallucinations in an LLM because of its large quantity of prompts.
+The generated datasets will be both quantitatively and empirically evaluated.  We’ll use quantitative scores such as the BLEU score to determine how similar the NLG prompts are to human written prompts.  For empirical evaluation, we’ll run both generated and human written prompts into an LLM such as Llama or NanoGPT.  The purpose of this evaluation is to determine the effectiveness of the generated prompts by seeing how many of those prompts cause hallucinated outputs by the LLM compared to the handwritten prompts.  Our expectation is the generated prompts will be closely related to the human written prompts in terms of natural language, and the generated prompts will be more likely to detect hallucinations in an LLM because of its large quantity.
 
 \subsection{Examples}
 Below is a small sample of the Prolog constraints and the Natural Language Constraint annotations provided by the user.
@@ -196,7 +196,7 @@ a relation between two words (eg. like(alice, pizza)).
 
 The annotations.txt file is where the user can define the type inheritance structure from the built in classes.  It is also where the user can define the meta data associated with the
 facts and relations, which essentially provides information on some natural language constraints.  For example, the user can specify some temporal constraints for relations (eg. verb phrase = "likes" tells the system that the relationship is of present simple tense).
-The user can also map these relations to some high level templates such as binary relation.  In our backend, we'll have some database of different of English, such as adjectives, verbs, nouns, pronouns, etc.  The high level templates will map to certain permutations of these sets to create natural langauge 
+The user can also map these relations to some high level templates such as binary relation.  In our backend, we'll have some database of different of English components, such as adjectives, verbs, nouns, pronouns, etc.  The high level templates will map to certain permutations of these sets to create natural langauge 
 prompts.  Below is a set of sample questions and answers from the above constraints and natural language annotations:
 
 
