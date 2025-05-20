@@ -1,0 +1,17 @@
+{
+    "types": {
+        "food": "object"
+    },
+
+    "relations": [
+        {
+            "name": "like",
+            "args": [
+                {"var": "A", "type": "person"},
+                {"var": "B", "type": "food"}
+            ],
+            "meta_template": "binary_relation",
+            "verb_phrase": ["like", "likes"]
+        }
+    ]
+}
