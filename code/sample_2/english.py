@@ -91,7 +91,7 @@ for wh in gc["WH"]:
                 obj = (deque(prolog.query(f"{wh}(X, {subj.name})")))
                 if not obj:
                     break
-                print(f"Q: {wh.capitalize()} {aux} {subj} {v}?")
+                print(f"Q: {wh.capitalize()} {aux.present_simple()} {subj} {v}?")
                 print(f"A: {subj} {v.present_simple()} {obj[0]['X']}.")
                 print(" ")
 
@@ -105,12 +105,11 @@ for aux in gc["AUX"]:
                 ans = "No."
                 if(deque(prolog.query(f"verb_relation({v}, {subj.name}, {obj.name})"))):
                     ans = "Yes."
-                print(f"Q: {aux.name.capitalize()} {subj} {v} {obj}?")
+                print(f"Q: {aux.present_simple().capitalize()} {subj} {v} {obj}?")
                 print(f"A: {ans}")
                 print(" ")
                    
                 
-
 
 
 
