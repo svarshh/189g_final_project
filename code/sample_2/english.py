@@ -72,7 +72,7 @@ def select_auxiliary(subject_person, subject_number, tense):
 
 gc = {
     "WH": ["who", "what"],
-    "AUX": [verb("do","does"), verb("is", "are")],
+    "AUX": [verb("do","does")],
     "SUBJ": [person("alice"), person("bob"), person("claire") ],
     "VERB": [verb("like", "likes")],
     "OBJ": [things("pizza"), things("sushi")],
