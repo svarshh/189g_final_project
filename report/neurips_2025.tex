@@ -163,30 +163,15 @@ friend_of(A, B, F) :-
 \end{minipage}
 \hfill
 \begin{minipage}{0.48\textwidth}
-\captionof{lstlisting}{annotations.txt}
-\begin{lstlisting}[language=Python]
-% --- BUILT-INS SAMPLE ---
-type noun
-type verb
-type pronoun
-type adverb
-type adjective
+\captionof{lstlisting}{annotations.pl}
+\begin{lstlisting}[language=prolog]
+% Type Hierachy
+subclass(food, noun).
+subclass(person, noun).
 
-% --- TYPE HIERARCHY ---
-type food :: noun.object
-type person :: noun.object
-type like :: verb.object
-
-% --- FACT METADATA ---
-relation like(A: person, B: food)
-  verb_phrase = "likes"
-  question_template = binary_relation
-  description = "A likes B"
-
-% --- RULE METADATA ---
-relation friend_of(A: person, B: person, F: food)
-  question_template = shared_preference
-  description = "A and B both like F"
+% Annotations
+binary_relation(like, ["like", "likes"]).
+shared_preference(friend_of).
 \end{lstlisting}
 \end{minipage}
 
@@ -194,7 +179,7 @@ The logic.pl file defines a set of facts and relations.  Facts associate words w
 a relation between two words (eg. like(alice, pizza)).
 
 
-The annotations.txt file is where the user can define the type inheritance structure from the built in classes.  It is also where the user can define the meta data associated with the
+The annotations.pl file is where the user can define the type inheritance structure from the built in classes.  It is also where the user can define the meta data associated with the
 facts and relations, which essentially provides information on some natural language constraints.  For example, the user can specify some temporal constraints for relations (eg. verb phrase = "likes" tells the system that the relationship is of present simple tense).
 The user can also map these relations to some high level templates such as binary relation.  In our backend, we'll have some database of different of English components, such as adjectives, verbs, nouns, pronouns, etc.  The high level templates will map to certain permutations of these sets to create natural langauge 
 prompts.  Below is a set of sample questions and answers from the above constraints and natural language annotations:
