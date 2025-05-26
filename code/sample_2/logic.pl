@@ -56,7 +56,7 @@ inherits(compound_noun, noun).
 inherits(gerund, noun).
 inherits(possessive_noun, noun).
 
-inherits(number, common_noun).
+inherits(number, concrete_noun).
 
 % ----------------------- auxiliary section ----------------------------
 
@@ -203,6 +203,7 @@ tense('go', _{
 % VERB RELATIONS
 
 verb_relation(present_simple, 'like', '36a', 'Bob').
+verb_relation(present_simple, 'like', '36a', 'Alice').
 verb_relation(past_simple, 'take', 'medicine', 'Bob').
 verb_relation(past_simple, 'like', 'Alice', 'Bob').
 verb_relation(past_simple, 'go', 'San Francisco', 'Bob').
@@ -222,18 +223,31 @@ property("36b", prerequisites, [["36a"]]).
 property("36c", prerequisites, [["36b", "20"]]).
 
 
+
+% POSSESSIVE RELATIONS (tense, relation, owner, owned)
+possessive_relation(Tense, friend, A, B) :- verb_relation(Tense, 'like', C, A), verb_relation(Tense, 'like', C, B), 
+                                            type(class, C), type(person, A), type(person, B), A \= B.
+
+
+% ------------------------BUILTI-IN------------------------------
 lex(subject, X) :- verb_relation(_, _, _, X).
 
 match(X, Y, Z) :- is_type_of(X, 'person'), Y = 'who', Z = Y;
                 is_type_of(X, 'noun'), Y = 'which', type(Z1, X), choice(Z1), atomic_list_concat([Y, " ", Z1], Z);
                 is_type_of(X, 'noun'), type(Z1, X),  \+ choice(Z1), Y = 'what', Z=Y;
                 is_type_of(X, 'place'), Y = 'where', Z=Y.
+
+match_possessive_tense(X, Y, Z) :-  Y = 'present_simple', possessive_relation(Y, X, _, _), Z = 'is'; 
+                                    Y = 'present_progressive', possessive_relation(Y, X, _, _), Z = 'is';
+                                    Y = 'past_simple', possessive_relation(Y, X, _, _), Z = 'was'; 
+                                    Y = 'past_progressive', possessive_relation(Y, X, _, _), Z = 'was'.
+
              
 
-% ------------------------BUILTI-IN------------------------------
 % QUESTION ANSWER CONSTRAINTS.  BUILT-IN
 % wh + (OBJ) + aux + subj + verb 
-
+% wh + aux/verb + possessive_noun + noun?
+% how + modifier + aux + subj + (verb )?
 question(Q, A) :-  
                 lex(wh, Wh), 
                 verb_relation(Tense, Verb, Obj, Subj), 
@@ -244,10 +258,29 @@ question(Q, A) :-
                 aux_tense_map(Aux, Question_tense), 
                 tense(Verb, V), 
                 get_dict(Question_tense, V, Verb_final),
-
-                atomic_list_concat([W, " ", Aux, " " , Subj, " ", Verb_final, "? "], Q),
-
                 get_dict(Tense, V, Ans_verb), 
 
-                atomic_list_concat([Subj, " ", Ans_verb, " ", Obj,"."], A).
+                atomic_list_concat([" Q: ", W, " ", Aux, " " , Subj, " ", Verb_final, "? "], Q),
+                atomic_list_concat([" A: ", Subj, " ", Ans_verb, " ", Obj,"."], A);
+
+                lex(wh, Wh), 
+                possessive_relation(Tense, Relation, PN, Noun), 
+                match(Noun, Wh, W),
+                match_possessive_tense(Relation, Tense, Aux), 
+
+                atomic_list_concat([" Q: ", W, " ", Aux, " " , PN, "'s ", Relation, "? "], Q),
+                atomic_list_concat([" A: ", PN, "'s ", Relation, " " , Aux, " ", Noun, ". "], A).
+
+
+
+prompt :-
+    setof((Q, A), question(Q, A), Prompts), writeln(Prompts).
+    
+
+
+
+
+
+
+
 
