@@ -1,3 +1,7 @@
+:- consult("fact.pl").
+:- consult("annotations.pl").
+:- initialization(main).
+
 /* Resolve Type Predicate */
 resolve_type(person, person).
 resolve_type(location, location).
@@ -151,13 +155,17 @@ generate_qas(Predicates, QAList) :-
     findall(QA, generate_predicate_qa_tuple(H, QA), HeadQAList),
     append(HeadQAList, TailQAList, QAList).
 
-print_questions([]).
-print_questions([[Question, Answer] | T]) :-
-    format("Q: ~w~n", [Question]),
-    format("A: ~w~n~n", [Answer]),
-    print_questions(T).
+print_questions(_, []).
+print_questions(Stream, [[Question, Answer] | T]) :-
+    format(Stream, "Q: ~w~n", [Question]),
+    format(Stream, "A: ~w~n~n", [Answer]),
+    print_questions(Stream, T).
 
 generate_qa :-
     generate_predicates(Predicates),
     generate_qas(Predicates, QAList),
-    print_questions(QAList).
+    open("prompts.txt", write, Stream),
+    print_questions(Stream, QAList),
+    close(Stream).
+
+main :- generate_qa.
