@@ -128,20 +128,14 @@ generate_subtype_qa(possessive, Predicate, Question, Answer) :-
     /* Convert the list of values to oxford common list */
     oxford_comma_list(VariableArgVals, CommaVariableArgVals),
 
-    (
-        ArgsValLen =:= 1 ->
-            /* Construct the question string */
-            format(string(Question), "~w ~w ~w's ~w?", [WhWord, AuxVerb, SubjectVal, Verb]),
+    /* Choose which form of verb to use */
+    (ArgsValLen =:= 1 -> EffectiveVerb = Verb; EffectiveVerb = PluralVerb),
+    
+    /* Construct the question string */
+    format(string(Question), "~w ~w ~w's ~w?", [WhWord, AuxVerb, SubjectVal, EffectiveVerb]),
 
-            /* Construct the answer string */
-            format(string(Answer), "~w's ~w ~w ~w.", [SubjectVal, Verb, AuxVerb, CommaVariableArgVals])
-        ;
-            /* Construct the question string */
-            format(string(Question), "~w ~w ~w's ~w?", [WhWord, AuxVerb, SubjectVal, PluralVerb]),
-
-            /* Construct the answer string */
-            format(string(Answer), "~w's ~w ~w ~w.", [SubjectVal, PluralVerb, AuxVerb, CommaVariableArgVals])
-    ).
+    /* Construct the answer string */
+    format(string(Answer), "~w's ~w ~w ~w.", [SubjectVal, EffectiveVerb, AuxVerb, CommaVariableArgVals]).
 
 generate_predicate_qa(Predicate, Question, Answer) :- 
     predicate_bucket(Predicate, SubType),
