@@ -296,25 +296,25 @@ all_relation(A, B, Verb, Tense) :-
 % wh + aux/verb + possessive_noun + noun?
 % how + modifier + aux + subj + (verb )?
 question(Q, A) :-  
-               lex(wh, Wh), 
-               verb_relation(Tense, Verb, Obj, Subj), 
-               match(Obj, Wh, W), 
-               pov(Pov, Subj), 
-               collective(Collective, Subj), 
-               auxiliary(Tense, Pov, Collective, Aux), 
-               aux_tense_map(Aux, Question_tense), 
-               tense(Verb, V), 
-               get_dict(Question_tense, V, Verb_final),
-               get_dict(Tense, V, Ans_verb), 
-
-               atomic_list_concat([" Q: ", W, " ", Aux, " " , Subj, " ", Verb_final, "? "], Q),
-               atomic_list_concat([" A: ", Subj, " ", Ans_verb, " ", Obj,"."], A);
-
+               % lex(wh, Wh), 
+               % verb_relation(Tense, Verb, Obj, Subj), 
+               % match(Obj, Wh, W), 
+               % pov(Pov, Subj), 
+               % collective(Collective, Subj), 
+               % auxiliary(Tense, Pov, Collective, Aux), 
+               % aux_tense_map(Aux, Question_tense), 
+               % tense(Verb, V), 
+               % get_dict(Question_tense, V, Verb_final),
+               % get_dict(Tense, V, Ans_verb), 
+% 
+               % atomic_list_concat([" Q: ", W, " ", Aux, " " , Subj, " ", Verb_final, "? "], Q),
+               % atomic_list_concat([" A: ", Subj, " ", Ans_verb, " ", Obj,"."], A);
+% 
                lex(wh, Wh), 
                possessive_relation(Tense, Relation, PN, Noun), 
                match(Noun, Wh, W),
                match_possessive_tense(Relation, Tense, Aux), 
-
+% 
                atomic_list_concat([" Q: ", W, " ", Aux, " " , PN, "'s ", Relation, "? "], Q),
                atomic_list_concat([" A: ", PN, "'s ", Relation, " " , Aux, " ", Noun, ". "], A);
 
@@ -327,7 +327,7 @@ question(Q, A) :-
 
                 % all the subjects need to have a verb relation with the same object or objects.
 
-                [H|T] = S, % get the first element of the subset.
+                [H|_] = S, % get the first element of the subset.
 
                 verb_relation(Tense, Verb, _, H), % get the tense and verb form of the head relations
 
@@ -342,9 +342,10 @@ question(Q, A) :-
                 % so now we have all the subjects and respective answers.
 
                 length(S, L), 
-                (L > 1 , CollectiveSubj = plural ; CollectiveSubj = singular),  % decide whether the subject subset is singular or plural
+                
+                (L = 1 , CollectiveSubj = singular ; L > 1, CollectiveSubj = plural),  % decide whether the subject subset is singular or plural
                 length(O_set, L_obj),
-                (L_obj > 1 , CollectiveObj = plural ; CollectiveObj = singular),  % decide whether the object subset is singular or plural
+                (L_obj = 1 , CollectiveObj = singular ; L > 1, CollectiveObj = plural),  % decide whether the object subset is singular or plural
 
                 % get the lex based on object type
                 Obj = [First|_],
