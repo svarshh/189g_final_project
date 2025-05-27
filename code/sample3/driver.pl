@@ -59,7 +59,7 @@ generate_subtype_qa(cannonical, Predicate, Question, Answer) :-
     resolve_predicate_type_info(Predicate, Types, BaseTypes, VerbInfo),
 
     /* Extract Types for Fixed Argument and Variable Argument */
-    [SubjectType | [VariableArgType | _]] = Types, 
+    [SubjectType | [_ | _]] = Types, 
     [SubjectBaseType | [VariableArgBaseType | _]] = BaseTypes,
 
     /* Find the wh-word */
@@ -103,14 +103,11 @@ generate_subtype_qa(possessive, Predicate, Question, Answer) :-
     resolve_predicate_type_info(Predicate, Types, BaseTypes, VerbInfo),
 
     /* Extract Types for Fixed Argument and Variable Argument */
-    [SubjectType | [VariableArgType | _]] = Types, 
-    [SubjectBaseType | [VariableArgBaseType | _]] = BaseTypes,
+    [SubjectType | [_ | _]] = Types, 
+    [_ | [VariableArgBaseType | _]] = BaseTypes,
 
     /* Find the wh-word */
     wh_word(VariableArgBaseType, WhWord),
-
-    /* Find the aux word */
-    /*aux_word(SubjectBaseType, AuxVerb),*/
 
     /* Find the verb */
     get_singular_verb(VerbInfo, Verb),
