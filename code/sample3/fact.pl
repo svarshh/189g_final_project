@@ -19,6 +19,8 @@ course(ecs50).
 
 sport(basketball).
 
+country("India").
+
 /* Parent Relations */
 parent(bob, alice).
 
@@ -64,3 +66,5 @@ course_before(ecs50, ecs36c).
 
 birthday(divyansh, "July 9th").
 birthday(nidhi, "July 9th").
+
+capital("India", "New Delhi").
