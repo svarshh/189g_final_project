@@ -17,6 +17,8 @@ course(ecs36b).
 course(ecs36c).
 course(ecs50).
 
+sport(basketball).
+
 /* Parent Relations */
 parent(bob, alice).
 
@@ -35,15 +37,30 @@ like(mahipal, dosa).
 like(asha, roti).
 like(divisha, pizza).
 
+car_like(divyansh, ferrari).
+
 play(divyansh, basketball).
+play(divyansh, badminton).
+play(divyansh, "pickle ball").
 play(divisha, badminton).
 play(mahipal, badminton).
 play(rajesh, "pickle ball").
 
+play2(basketball, divyansh).
+play2(basketball, divisha).
+
 like2(divyansh, mythri).
 like2(rajesh, nidhi).
+like2(rajesh, divyansh).
 like2(nidhi, rajesh).
 
 course_after(ecs36b, ecs36a).
 course_after(ecs36c, ecs36b).
-course_after(ecs50, ecs36b).
+course_after(ecs36c, ecs50).
+
+course_before(ecs36a, ecs36b).
+course_before(ecs36b, ecs36c).
+course_before(ecs50, ecs36c).
+
+birthday(divyansh, "July 9th").
+birthday(nidhi, "July 9th").

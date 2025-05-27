@@ -39,6 +39,9 @@ possessive_aux_word(Subjects, Aux) :-
 get_singular_verb(VerbInfo, SingularVerb) :- [SingularVerb | _] = VerbInfo.
 get_plural_verb(VerbInfo, PluralVerb) :- [_ | [PluralVerb | _]] = VerbInfo.
 
+get_singular_modifier(Modifier, SingularModifier) :- [SingularModifier | _] = Modifier.
+get_plural_modifier(Modifier, PluralModifier) :- [_ | [PluralModifier | _]] = Modifier.
+
 oxford_comma_list([One], One) :- !.
 oxford_comma_list([One, Two], Joined) :-
     !,
@@ -69,17 +72,30 @@ generate_subtype_qa(cannonical, Predicate, Question, Answer) :-
     get_singular_verb(VerbInfo, Verb),
     get_plural_verb(VerbInfo, PluralVerb),
 
+
     /* Bind FixedArg to a concrete value */
     SubjectTerm =.. [SubjectType | [SubjectVal]], call(SubjectTerm),
 
     /* Query the database for the information */
-    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], call(QueryTerm),
+    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), VariableArgVals),
+    
+    length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
+
+    oxford_comma_list(VariableArgVals, CommaVariableArgVal),
+    
+    ( modifier(Predicate, Modifier) -> get_singular_modifier(Modifier, SingularModifier), get_plural_modifier(Modifier, PluralModifier); SingularModifier = "", PluralModifier = ""), 
+
+    ( ArgsValLen =:= 1 -> EffectiveModifier = SingularModifier; EffectiveModifier = PluralModifier),
 
     /* Construct the question string */
-    format(string(Question), "~w ~w ~w ~w?", [WhWord, AuxVerb, SubjectVal, Verb]),
+    (
+        EffectiveModifier == "" -> format(string(Question), "~w ~w ~w ~w?", [WhWord, AuxVerb, SubjectVal, Verb])
+        ;
+        format(string(Question), "~w ~w ~w ~w ~w?", [WhWord, EffectiveModifier, AuxVerb, SubjectVal, Verb])
+    ),
 
     /* Construct the answer string */
-    format(string(Answer), "~w ~w ~w.", [SubjectVal, PluralVerb, VariableArgVal]).
+    format(string(Answer), "~w ~w ~w.", [SubjectVal, PluralVerb, CommaVariableArgVal]).
 
 
 generate_subtype_qa(possessive, Predicate, Question, Answer) :-
@@ -143,8 +159,14 @@ generate_qas(Predicates, QAList) :-
     [H | T] = Predicates, generate_qas(T, TailQAList),
     findall(QA, generate_predicate_qa_tuple(H, QA), HeadQAList),
     append(HeadQAList, TailQAList, QAList).
-    
 
-generate_qa(QAList) :-
+print_questions([]).
+print_questions([[Question, Answer] | T]) :-
+    format("Q: ~w~n", [Question]),
+    format("A: ~w~n~n", [Answer]),
+    print_questions(T).
+
+generate_qa :-
     generate_predicates(Predicates),
-    generate_qas(Predicates, QAList).
+    generate_qas(Predicates, QAList),
+    print_questions(QAList).
