@@ -1,5 +1,5 @@
 
-% ------------Builtins--------------
+/* ------------Builtins-------------- */
 % ANDS DCG
 
 % name//1: generate one name token
@@ -33,7 +33,7 @@ names_with_commas_tail([N1,N2|Rest]) -->
     [','],
     names_with_commas_tail([N2|Rest]).
 
-% lex
+/* lex */
 lex(wh, 'who').
 lex(wh, 'what').
 lex(wh, 'where').
@@ -68,7 +68,7 @@ lex(object, 'food').
 lex(object, 'sushi').
 
 
-% -------------- Inheritance Structure ---------------
+/* -------------- Inheritance Structure --------------- */
 
 inherits(common_noun, noun).
 inherits(concrete_noun, common_noun).
@@ -91,7 +91,7 @@ inherits(possessive_noun, noun).
 
 inherits(number, concrete_noun).
 
-% ----------------------- auxiliary section ----------------------------
+/* ----------------------- auxiliary section ---------------------------- */
 
 % choose_auxiliary(+Tense, +Person, +Number, -Aux)
 
@@ -119,22 +119,21 @@ auxiliary(past_perfect, _, _, 'had').
 % Choose the tense of the question verb based on the auxillary used.
 
 % Simple aspect
-aux_tense_map(do, base).
-aux_tense_map(does, base).
-aux_tense_map(did, base).
+aux_tense_map(do,   base, plural).
+aux_tense_map(does, base, singular).
+aux_tense_map(did,  base, _).         % Past tense (number-neutral)
 
 % Progressive aspect
-aux_tense_map(am, present_progressive).
-aux_tense_map(is, present_progressive).
-aux_tense_map(are, present_progressive).
-aux_tense_map(was, past_progressive).
-aux_tense_map(were, past_progressive).
+aux_tense_map(am,   present_progressive, singular).  % 1st person singular
+aux_tense_map(is,   present_progressive, singular).
+aux_tense_map(are,  present_progressive, plural).
+aux_tense_map(was,  past_progressive, singular).
+aux_tense_map(were, past_progressive, plural).
 
 % Perfect aspect
-aux_tense_map(has, past_participle).
-aux_tense_map(have, past_participle).
-aux_tense_map(had, past_participle).
-
+aux_tense_map(has,  past_participle, singular).
+aux_tense_map(have, past_participle, plural).
+aux_tense_map(had,  past_participle, _).  % Past perfect (number-neutral)
 
 
 % check whether an object is inherited from a super class.  example: check whether bob is a noun.
@@ -151,7 +150,7 @@ inherits_or_same(SubType, SuperType) :-
 
 
 
-% ----------------------------------------------USER-DEFINED---------------------------------------------------------- 
+/* ----------------------------------------------USER-DEFINED----------------------------------------------------------  */
 
 % INHERITANCE
 
@@ -183,7 +182,10 @@ type(person, 'Bob').
 type(person, 'Alice').
 type(person, 'Claire').
 
+
 type(place, 'San Francisco').
+type(place, 'Sacramento').
+type(place, 'California').
 
 type(countable_noun, 'medicine').
 
@@ -193,21 +195,27 @@ pov(first, 'user').
 pov(third, 'Bob').
 pov(third, 'Alice').
 pov(third, 'Claire').
+
+
+
 % TELLS WHETHER THERE IS A FINITE CHOICE OR NOT
 
 choice(person).
 choice(class).
 choice(place).
 
-% SINGULAR/PLURAL SPECIFICATION FOR NOUNS
+
+/* SINGULAR/PLURAL SPECIFICATION FOR NOUNS */
 
 collective(singular, 'Bob').
 collective(singular, 'Alice').
 collective(singular, 'Claire').
 collective(singular, 'San Francisco').
+collective(singular, 'Sacramento').
+collective(singular, 'California').
 collective(plural, prerequisite).
 
-% TENSE DEFINITION FOR ANY VERB
+/* TENSE DEFINITION FOR ANY VERB */
 
 tense('take', _{
     base: take,
@@ -263,9 +271,10 @@ property("36c", prerequisites, [["36b", "20"]]).
 % POSSESSIVE RELATIONS (tense, relation, owner, owned)
 possessive_relation(Tense, friend, A, B) :- verb_relation(Tense, 'like', C, A), verb_relation(Tense, 'like', C, B), 
                                             type(class, C), type(person, A), type(person, B), A \= B.
+possessive_relation('present_simple', capital, 'California', 'Sacramento').
 
 
-% ------------------------BUILTI-IN------------------------------
+/* ------------------------BUILTI-IN------------------------------ */
 lex(subject, X) :- verb_relation(_, _, _, X).
 
 match(X, Y, Z) :- is_type_of(X, 'person'), Y = 'who', Z = Y;
@@ -291,45 +300,33 @@ all_relation(A, B, Verb, Tense) :-
         forall(member(T, B),
             verb_relation(Tense, Verb, T, P))).
 
-% QUESTION ANSWER CONSTRAINTS.  BUILT-IN
-% wh + (OBJ) + aux + subj + verb 
-% wh + aux/verb + possessive_noun + noun?
-% how + modifier + aux + subj + (verb )?
+/* QUESTION ANSWER CONSTRAINTS.  BUILT-IN
+
+wh + (OBJ) + aux + subj + verb 
+wh + aux/verb + possessive_noun + noun?
+how + modifier + aux + subj + (verb )? */
+
 question(Q, A) :-  
-               % lex(wh, Wh), 
-               % verb_relation(Tense, Verb, Obj, Subj), 
-               % match(Obj, Wh, W), 
-               % pov(Pov, Subj), 
-               % collective(Collective, Subj), 
-               % auxiliary(Tense, Pov, Collective, Aux), 
-               % aux_tense_map(Aux, Question_tense), 
-               % tense(Verb, V), 
-               % get_dict(Question_tense, V, Verb_final),
-               % get_dict(Tense, V, Ans_verb), 
-% 
-               % atomic_list_concat([" Q: ", W, " ", Aux, " " , Subj, " ", Verb_final, "? "], Q),
-               % atomic_list_concat([" A: ", Subj, " ", Ans_verb, " ", Obj,"."], A);
-% 
-               lex(wh, Wh), 
-               possessive_relation(Tense, Relation, PN, Noun), 
-               match(Noun, Wh, W),
-               match_possessive_tense(Relation, Tense, Aux), 
-% 
-               atomic_list_concat([" Q: ", W, " ", Aux, " " , PN, "'s ", Relation, "? "], Q),
-               atomic_list_concat([" A: ", PN, "'s ", Relation, " " , Aux, " ", Noun, ". "], A);
 
+                /* possessive questions */
                 lex(wh, Wh), 
+                possessive_relation(Tense, Relation, PN, Noun), 
+                match(Noun, Wh, W),
+                match_possessive_tense(Relation, Tense, Aux), 
+                atomic_list_concat([" Q: ", W, " ", Aux, " " , PN, "'s ", Relation, "? "], Q),
+                atomic_list_concat([" A: ", PN, "'s ", Relation, " " , Aux, " ", Noun, ". "], A);
 
-                setof(P, verb_relation(_, _,_, P), Subj), 
-                subset(Subj, S), S \= [], % set of all subjects
-                same_type(S, _), % check whether all subjects are of the same type
+                /* verb relation with chaining */
                 
+                lex(wh, Wh), 
+                setof(P, verb_relation(_, _,_, P), Subj), 
+                subset(Subj, S), S \= [],                       % set of all subjects
+                same_type(S, _),                                % check whether all subjects are of the same type
+                
+                [H|_] = S, % get the first element of the subset. % all the subjects need to have a verb relation with the same object or objects.
 
-                % all the subjects need to have a verb relation with the same object or objects.
 
-                [H|_] = S, % get the first element of the subset.
-
-                verb_relation(Tense, Verb, _, H), % get the tense and verb form of the head relations
+                verb_relation(Tense, Verb, _, H),                % get the tense and verb form of the head relations
 
                 setof(O, verb_relation(Tense, Verb, O, H), Obj), % get all the objects that have the same relation and tense from H
 
@@ -341,25 +338,35 @@ question(Q, A) :-
 
                 % so now we have all the subjects and respective answers.
 
-                length(S, L), 
-                
-                (L = 1 , CollectiveSubj = singular ; L > 1, CollectiveSubj = plural),  % decide whether the subject subset is singular or plural
-                length(O_set, L_obj),
-                (L_obj = 1 , CollectiveObj = singular ; L > 1, CollectiveObj = plural),  % decide whether the object subset is singular or plural
+                /*Decide collectvity of subjects and objects */
 
-                % get the lex based on object type
+                length(S, L), length(O_set, L_obj),
+
+                (L = 1 , CollectiveSubj = singular; 
+                L > 1, CollectiveSubj = plural),  
+                
+                (L_obj = 1 , CollectiveObj = singular ; 
+                L > 1, CollectiveObj = plural),  
+
+                /* get the lex based on object type */
                 Obj = [First|_],
                 match(First, Wh, W), 
 
-                % get aux
+                /* get aux */
 
                 S = [First_subj|_],
+
                 pov(Pov, First_subj), 
                 auxiliary(Tense, Pov, CollectiveSubj, Aux), 
-                aux_tense_map(Aux, Question_tense), 
+                aux_tense_map(Aux, Question_tense, CollectiveSubj), 
+
+
                 tense(Verb, V), 
                 get_dict(Question_tense, V, Verb_final),
-                get_dict(Tense, V, Ans_verb), 
+
+                aux_tense_map(Aux, Answer_tense, CollectiveObj), 
+                get_dict(Answer_tense, V, Ans_verb), 
+
                 phrase(names_list(S), Subj_tokens),
 
                 % subjects
@@ -374,14 +381,24 @@ question(Q, A) :-
 
 
 prompt :-
-    setof((Q, A), question(Q, A), Prompts), writeln(Prompts).
+    setof((Q, A), question(Q, A), Prompts),
+    forall(member((Q, A), Prompts),
+           format("~w~n~w~n~n", [Q, A])).
 
 subsets :- 
     setof(P, type(person, P), People),
     findall(S, (subset(People, S), S \= []), Subsets),
     writeln(People),
     writeln(Subsets).
-    
+
+trace_to_file(Goal, File) :-
+    tell(File),       
+    leash(-all),     
+    trace,            
+    call(Goal),       
+    notrace,          
+    told.             
+
 
 
 

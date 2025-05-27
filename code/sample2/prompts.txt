@@ -1,0 +1,73 @@
+ Q: what did Bob take? 
+ A: Bob took medicine.
+
+ Q: where did Bob go? 
+ A: Bob went to San Francisco.
+
+ Q: which class do Alice , Bob , and Claire like? 
+ A: Alice , Bob , and Claire likes 36a.
+
+ Q: which class do Alice and Bob like? 
+ A: Alice and Bob likes 36a.
+
+ Q: which class do Alice and Claire like? 
+ A: Alice and Claire likes 36a.
+
+ Q: which class do Bob and Claire like? 
+ A: Bob and Claire likes 36a.
+
+ Q: which class does Alice like? 
+ A: Alice likes 36a.
+
+ Q: which class does Bob like? 
+ A: Bob likes 36a.
+
+ Q: which class does Claire like? 
+ A: Claire likes 36a.
+
+ Q: which person did Bob like? 
+ A: Bob liked Alice.
+
+ Q: which person is Alice's friend? 
+ A: Alice's friend is Bob. 
+
+ Q: which person is Alice's friend? 
+ A: Alice's friend is Claire. 
+
+ Q: which person is Bob's friend? 
+ A: Bob's friend is Alice. 
+
+ Q: which person is Bob's friend? 
+ A: Bob's friend is Claire. 
+
+ Q: which person is Claire's friend? 
+ A: Claire's friend is Alice. 
+
+ Q: which person is Claire's friend? 
+ A: Claire's friend is Bob. 
+
+ Q: which place did Bob go? 
+ A: Bob went to San Francisco.
+
+ Q: who did Bob like? 
+ A: Bob liked Alice.
+
+ Q: who is Alice's friend? 
+ A: Alice's friend is Bob. 
+
+ Q: who is Alice's friend? 
+ A: Alice's friend is Claire. 
+
+ Q: who is Bob's friend? 
+ A: Bob's friend is Alice. 
+
+ Q: who is Bob's friend? 
+ A: Bob's friend is Claire. 
+
+ Q: who is Claire's friend? 
+ A: Claire's friend is Alice. 
+
+ Q: who is Claire's friend? 
+ A: Claire's friend is Bob. 
+
+[{}]
