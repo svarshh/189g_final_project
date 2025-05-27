@@ -1,0 +1,17 @@
+Different Question Formats:
+
+Base Types:
+1. person
+2. location
+3. date / time
+4. number
+5. object
+
+Wh-Word Mapping:
+1. person -> Who
+2. location -> Where
+3. date / time -> When
+4. number -> How many
+5. object -> What
+
+Wh-word + aux verb + subject + main verb
