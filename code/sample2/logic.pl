@@ -241,7 +241,12 @@ tense('go', _{
     past_progressive: was_going  
 }).
 
-
+choose_tense('present_simple', 'third', 'singular', 'present_simple').
+choose_tense('present_simple', 'first', 'singular', 'base').
+choose_tense('present_simple', 'third', 'plural', 'base').
+choose_tense('past_simple', _, _, 'past_simple').
+choose_tense('past_simple', _, _, 'past_simple'). 
+choose_tense('past_simple', _, _, 'past_simple').
 
 % VERB RELATIONS
 
@@ -363,8 +368,9 @@ question(Q, A) :-
 
                 tense(Verb, V), 
                 get_dict(Question_tense, V, Verb_final),
-
-                aux_tense_map(Aux, Answer_tense, CollectiveObj), 
+                
+            
+                choose_tense(Tense, Pov, CollectiveObj, Answer_tense), 
                 get_dict(Answer_tense, V, Ans_verb), 
 
                 phrase(names_list(S), Subj_tokens),
