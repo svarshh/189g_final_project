@@ -27,3 +27,17 @@ inherits(gerund, noun).
 inherits(possessive_noun, noun).
 
 inherits(number, concrete_noun).
+
+
+/* Check base type of an instance*/
+
+is_type_of(Instance, SuperType) :-
+    type(Type, Instance),
+    inherits_or_same(Type, SuperType).
+
+inherits_or_same(Type, Type).
+inherits_or_same(SubType, SuperType) :-
+    inherits(SubType, Parent),
+    inherits_or_same(Parent, SuperType).
+
+
