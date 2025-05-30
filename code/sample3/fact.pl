@@ -73,7 +73,9 @@ birthday(nidhi, "July 9th").
 capital("India", "New Delhi").
 
 /* Geobase Example Facts and Predicates */
-myriver(River) :- river(River, _, _).
+riverformat(River, FormatRiver) :- river(River, _, _), format(string(FormatRiver), "~w river", [River]).
+
+myriver(River) :- river(RiverName, _, _), riverformat(RiverName, River).
 mystate(State) :- state(State, _, _, _, _, _, _, _, _, _).
 
 population(State, Population) :- state(State, _, _, Population, _, _, _, _, _, _).
@@ -109,5 +111,6 @@ notmyborder2(BorderStates, NegState, States) :-
     subtract(Common, NegBorders, States).
 
 
-riverflow(River, States) :-
+riverflow(FormatRiver, States) :-
+    riverformat(River, FormatRiver),
     river(River, _, StatesList), member(States, StatesList).
