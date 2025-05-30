@@ -65,12 +65,8 @@ question(Q, A) :-
                     wh('place', W),
                     collect_subject(X, 'neighbors', Subjects), ! ,
                     member(Subj, Subjects),
-
                     collect_object(Subj, Objects),
-
                     union_all(Objects, Obj),
-
-                    
                     length(Subj, L), (L = 1, Collective = 'singular'; L = 0, Collective = 'none'; Collective = 'plural'),
                     phrase_list(Subj, Subject_chain, 'and'),
                     phrase_list(Obj, Object_list, 'and'),

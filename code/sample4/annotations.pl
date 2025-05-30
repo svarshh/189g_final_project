@@ -81,19 +81,27 @@ type(mountain, 'Mount Hood').
 type(mountain, 'Gannett Peak').
 type(mountain, 'Kings Peak').
 
-verb_relation(present_simple_passive, locate, ['Alaska'], ['Denali']).
-verb_relation(present_simple_passive, locate, ['California'], ['Mount Whitney', 'Mount Shasta', 'Mount Baldy']).
-verb_relation(present_simple_passive, locate, ['Colorado'], ['Mount Elbert', 'Pikes Peak', 'Mount Princeton', 'San Juan Mountains']).
-verb_relation(present_simple_passive, locate, ['New Mexico'], ['San Juan Mountains']).
-verb_relation(present_simple_passive, locate, ['Washington'], ['Mount Rainier', 'Mount Saint Helens', 'Mount Baker', 'Mount Adams']).
-verb_relation(present_simple_passive, locate, ['Oregon'], ['Mount Hood']).
-verb_relation(present_simple_passive, locate, ['North Carolina'], ['Mount Mitchell']).
-verb_relation(present_simple_passive, locate, ['Wyoming'], ['Grand Teton', 'Gannett Peak']).
-verb_relation(present_simple_passive, locate, ['Maine'], ['Mount Katahdin']).
-verb_relation(present_simple_passive, locate, ['New Hampshire'], ['Mount Washington']).
-verb_relation(present_simple_passive, locate, ['New York'], ['Mount Marcy']).
-verb_relation(present_simple_passive, locate, ['Utah'], ['Kings Peak']).
-verb_relation(present_simple_passive, locate, ['Colorado', 'New Mexico'], ['San Juan Mountains']).
+verb_relation(present_simple_passive, locate, 'Denali', ['Alaska']).
+verb_relation(present_simple_passive, locate, 'Mount Whitney', ['California']).
+verb_relation(present_simple_passive, locate, 'Mount Shasta', ['California']).
+verb_relation(present_simple_passive, locate, 'Mount Baldy', ['California']).
+verb_relation(present_simple_passive, locate, 'Mount Elbert', ['Colorado']).
+verb_relation(present_simple_passive, locate, 'Pikes Peak', ['Colorado']).
+verb_relation(present_simple_passive, locate, 'Mount Princeton', ['Colorado']).
+verb_relation(present_simple_passive, locate, 'San Juan Mountains', ['Colorado', 'New Mexico']).
+verb_relation(present_simple_passive, locate, 'Mount Rainier', ['Washington']).
+verb_relation(present_simple_passive, locate, 'Mount Saint Helens', ['Washington']).
+verb_relation(present_simple_passive, locate, 'Mount Baker', ['Washington']).
+verb_relation(present_simple_passive, locate, 'Mount Adams', ['Washington']).
+verb_relation(present_simple_passive, locate, 'Mount Hood', ['Oregon']).
+verb_relation(present_simple_passive, locate, 'Mount Mitchell', ['North Carolina']).
+verb_relation(present_simple_passive, locate, 'Grand Teton', ['Wyoming']).
+verb_relation(present_simple_passive, locate, 'Gannett Peak', ['Wyoming']).
+verb_relation(present_simple_passive, locate, 'Mount Katahdin', ['Maine']).
+verb_relation(present_simple_passive, locate, 'Mount Washington', ['New Hampshire']).
+verb_relation(present_simple_passive, locate, 'Mount Marcy', ['New York']).
+verb_relation(present_simple_passive, locate, 'Kings Peak', ['Utah']).
+
 
 
 
