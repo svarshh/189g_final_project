@@ -33,12 +33,11 @@ subset([H|_], [H]).
 
 /*Subject collector*/
 collect_subject(Tense, Verb, Subjects) :-
-    setof(Subj,
-          List^(verb_relation(Tense, Verb, Subj, List)),
-          Sbj), 
-    sample(Sbj, 3, Sample),
-
-    findall(S, subset(Sample, S), Subjects).
+    once((
+        setof(Subj, List^(verb_relation(Tense, Verb, Subj, List)), Sbj),
+        sample(Sbj, 3, Sample),
+        findall(S, subset(Sample, S), Subjects)
+    )).
 
 /*Union all lists in a list*/
 
@@ -58,16 +57,26 @@ intersection_all([L1, L2 | Ls], Result) :-
 collect_object(Subjects, Objects) :-
     setof(Y, Y^X^(member(X, Subjects), verb_relation(_, _, X, Y)), Objects).
 
+
 /*Present simple passive, place question*/
 
 question(Q, A) :-
                     is_type_of(Place, 'place'),
                     wh('place', W),
-                    collect_subject(X, 'neighbors', Subjects), ! ,
+
+                    setof([T, V], S^O^verb_relation(T, V, S, O), Pairs), !,
+                    member([Tense, Verb], Pairs),
+
+                    collect_subject(Tense, Verb, Subjects), 
                     member(Subj, Subjects),
+
                     collect_object(Subj, Objects),
                     union_all(Objects, Obj),
-                    length(Subj, L), (L = 1, Collective = 'singular'; L = 0, Collective = 'none'; Collective = 'plural'),
+
+                    /* Whether subjects and objects are singular | plural | none */
+                    length(Subj, L), (L = 1, Collective_subj = 'singular'; L = 0, Collective_subj = 'none'; Collective_subj = 'plural'),
+                    length(Obj, L2), (L2 = 1, Collective_obj = 'singular'; L2 = 0, Collective_obj = 'none'; Collective_obj = 'plural'),
+
                     phrase_list(Subj, Subject_chain, 'and'),
                     phrase_list(Obj, Object_list, 'and'),
 
@@ -75,8 +84,19 @@ question(Q, A) :-
                     phrase_list(Obj_intersection, Obj_intersection_list, 'and'),
                     
 
-(atomic_list_concat([" Q: ", " What all states do " , Subject_chain, " neighbor in total?" ], Q),
-atomic_list_concat([" A: ", Object_list, "."], A);
+(atomic_list_concat([" What all states do " , Subject_chain, " neighbor in total?" ], Q),
+atomic_list_concat([ Object_list, "."], A);
 
-atomic_list_concat([" Q: ", " What all states do " , Subject_chain, " in common?" ], Q),
-atomic_list_concat([" A: ", Obj_intersection_list, "."], A)).
+atomic_list_concat([" What all states do " , Subject_chain, " in common?" ], Q),
+atomic_list_concat([ Obj_intersection_list, "."], A)).
+
+print_n_questions(Limit) :-
+    findnsols(Limit, question(Q, A), question(Q, A), Questions),
+    print_questions(Questions, 1).
+
+print_questions([], _).
+print_questions([question(Q, A)|Rest], N) :-
+    format("~w) Q: ~w~n", [N, Q]),
+    format("   A: ~w~n~n", [A]),
+    N1 is N + 1,
+    print_questions(Rest, N1).

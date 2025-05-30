@@ -8,6 +8,26 @@ inherits(population, number).
 inherits(alphabet, noun).
 inherits(mountain, place).
 
+/* User given verbs and their tenses*/
+
+tense('locate', _{
+    base: locate,
+    present_simple: locates,
+    past_simple: located,
+    present_progressive: locating,
+    past_progressive: was_locating,
+    present_simple_passive: is_located
+}).
+
+tense('neighbor', _{
+    base: neighbor,
+    present_simple: neighbors,
+    past_simple: neighbored,
+    present_progressive: neighboring,
+    past_progressive: was_neighboring,
+    present_simple_passive: is_neighbored
+}).
+
 /* Types */
 type(place, 'Alabama').
 type(place, 'Alaska').
@@ -103,8 +123,6 @@ verb_relation(present_simple_passive, locate, 'Mount Marcy', ['New York']).
 verb_relation(present_simple_passive, locate, 'Kings Peak', ['Utah']).
 
 
-
-
 verb_relation(present_simple, neighbors, 'Alabama', ['Florida', 'Georgia', 'Mississippi', 'Tennessee']).
 verb_relation(present_simple, neighbors, 'Alaska', []).
 verb_relation(present_simple, neighbors, 'Arizona', ['California', 'Colorado', 'Nevada', 'New Mexico', 'Utah']).
@@ -157,5 +175,54 @@ verb_relation(present_simple, neighbors, 'Wisconsin', ['Illinois', 'Iowa', 'Mich
 verb_relation(present_simple, neighbors, 'Wyoming', ['Colorado', 'Idaho', 'Montana', 'Nebraska', 'South Dakota', 'Utah']).
 
 
-
+possessive_relation(present_simple, 'capital', 'Alabama', 'Montgomery').
+possessive_relation(present_simple, 'capital', 'Alaska', 'Juneau').
+possessive_relation(present_simple, 'capital', 'Arizona', 'Phoenix').
+possessive_relation(present_simple, 'capital', 'Arkansas', 'Little Rock').
+possessive_relation(present_simple, 'capital', 'California', 'Sacramento').
+possessive_relation(present_simple, 'capital', 'Colorado', 'Denver').
+possessive_relation(present_simple, 'capital', 'Connecticut', 'Hartford').
+possessive_relation(present_simple, 'capital', 'Delaware', 'Dover').
+possessive_relation(present_simple, 'capital', 'Florida', 'Tallahassee').
+possessive_relation(present_simple, 'capital', 'Georgia', 'Atlanta').
+possessive_relation(present_simple, 'capital', 'Hawaii', 'Honolulu').
+possessive_relation(present_simple, 'capital', 'Idaho', 'Boise').
+possessive_relation(present_simple, 'capital', 'Illinois', 'Springfield').
+possessive_relation(present_simple, 'capital', 'Indiana', 'Indianapolis').
+possessive_relation(present_simple, 'capital', 'Iowa', 'Des Moines').
+possessive_relation(present_simple, 'capital', 'Kansas', 'Topeka').
+possessive_relation(present_simple, 'capital', 'Kentucky', 'Frankfort').
+possessive_relation(present_simple, 'capital', 'Louisiana', 'Baton Rouge').
+possessive_relation(present_simple, 'capital', 'Maine', 'Augusta').
+possessive_relation(present_simple, 'capital', 'Maryland', 'Annapolis').
+possessive_relation(present_simple, 'capital', 'Massachusetts', 'Boston').
+possessive_relation(present_simple, 'capital', 'Michigan', 'Lansing').
+possessive_relation(present_simple, 'capital', 'Minnesota', 'Saint Paul').
+possessive_relation(present_simple, 'capital', 'Mississippi', 'Jackson').
+possessive_relation(present_simple, 'capital', 'Missouri', 'Jefferson City').
+possessive_relation(present_simple, 'capital', 'Montana', 'Helena').
+possessive_relation(present_simple, 'capital', 'Nebraska', 'Lincoln').
+possessive_relation(present_simple, 'capital', 'Nevada', 'Carson City').
+possessive_relation(present_simple, 'capital', 'New Hampshire', 'Concord').
+possessive_relation(present_simple, 'capital', 'New Jersey', 'Trenton').
+possessive_relation(present_simple, 'capital', 'New Mexico', 'Santa Fe').
+possessive_relation(present_simple, 'capital', 'New York', 'Albany').
+possessive_relation(present_simple, 'capital', 'North Carolina', 'Raleigh').
+possessive_relation(present_simple, 'capital', 'North Dakota', 'Bismarck').
+possessive_relation(present_simple, 'capital', 'Ohio', 'Columbus').
+possessive_relation(present_simple, 'capital', 'Oklahoma', 'Oklahoma City').
+possessive_relation(present_simple, 'capital', 'Oregon', 'Salem').
+possessive_relation(present_simple, 'capital', 'Pennsylvania', 'Harrisburg').
+possessive_relation(present_simple, 'capital', 'Rhode Island', 'Providence').
+possessive_relation(present_simple, 'capital', 'South Carolina', 'Columbia').
+possessive_relation(present_simple, 'capital', 'South Dakota', 'Pierre').
+possessive_relation(present_simple, 'capital', 'Tennessee', 'Nashville').
+possessive_relation(present_simple, 'capital', 'Texas', 'Austin').
+possessive_relation(present_simple, 'capital', 'Utah', 'Salt Lake City').
+possessive_relation(present_simple, 'capital', 'Vermont', 'Montpelier').
+possessive_relation(present_simple, 'capital', 'Virginia', 'Richmond').
+possessive_relation(present_simple, 'capital', 'Washington', 'Olympia').
+possessive_relation(present_simple, 'capital', 'West Virginia', 'Charleston').
+possessive_relation(present_simple, 'capital', 'Wisconsin', 'Madison').
+possessive_relation(present_simple, 'capital', 'Wyoming', 'Cheyenne').
 
