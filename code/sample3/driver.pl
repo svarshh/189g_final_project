@@ -58,6 +58,15 @@ oxford_comma_list([First, Second | Rest], Joined) :-
     string_concat(Temp, Last, Joined),
     !.
 
+pick_n(0, _, []) :- !.
+pick_n(N, [H|T], [H|Rest]) :-
+    N > 0,
+    N1 is N - 1,
+    pick_n(N1, T, Rest).
+pick_n(N, [_|T], Rest) :-
+    N > 0,
+    pick_n(N, T, Rest).
+
 generate_subtype_qa(cannonical, Predicate, Question, Answer) :- 
     /* Fetch the Type Info for Predicate */
     resolve_predicate_type_info(Predicate, Types, BaseTypes, VerbInfo),
@@ -100,6 +109,56 @@ generate_subtype_qa(cannonical, Predicate, Question, Answer) :-
 
     /* Construct the answer string */
     format(string(Answer), "~w ~w ~w.", [SubjectVal, PluralVerb, CommaVariableArgVal]).
+
+generate_subtype_qa(cannonical_negative, Predicate, Question, Answer) :- 
+    /* Fetch the Type Info for Predicate */
+    resolve_predicate_type_info(Predicate, Types, BaseTypes, VerbInfo),
+
+    /* Extract Types for Fixed Argument and Variable Argument */
+    [SubjectType | [_ | _]] = Types, 
+    [SubjectBaseType | [VariableArgBaseType | _]] = BaseTypes,
+    nth1(3, Types, NegSubjectType),
+
+    /* Find the wh-word */
+    wh_word(VariableArgBaseType, WhWord),
+
+    /* Find the aux word */
+    aux_word(SubjectBaseType, AuxVerb),
+
+    /* Find the verb */
+    get_singular_verb(VerbInfo, Verb),
+    get_plural_verb(VerbInfo, PluralVerb),
+
+    /* Bind FixedArg to a concrete value */
+    /* SubjectTerm =.. [SubjectType | [SubjectVal]], call(SubjectTerm),*/
+    SubjectTerm =.. [SubjectType | [InterSubjectVal]],
+    findall(InterSubjectVal, SubjectTerm, All),
+    pick_n(2, All, SubjectVal),
+    NegSubjectTerm =.. [NegSubjectType | [NegSubjectVal]], call(NegSubjectTerm),
+
+    /* Query the database for the information */
+    QueryTerm =.. [Predicate | [SubjectVal, NegSubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), VariableArgVals),
+    
+    length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
+
+    member(VariableArgVal, VariableArgVals), length(VariableArgVal, VarArgValLen), VarArgValLen >= 2,
+
+    oxford_comma_list(VariableArgVal, CommaVariableArgVal),
+    oxford_comma_list(SubjectVal, CommaSubjectVal),
+    
+    ( modifier(Predicate, Modifier) -> get_singular_modifier(Modifier, SingularModifier), get_plural_modifier(Modifier, PluralModifier); SingularModifier = "", PluralModifier = ""), 
+
+    ( ArgsValLen =:= 1 -> EffectiveModifier = SingularModifier; EffectiveModifier = PluralModifier),
+
+    /* Construct the question string */
+    (
+        EffectiveModifier == "" -> format(string(Question), "~w ~w ~w ~w?", [WhWord, AuxVerb, SubjectVal, Verb])
+        ;
+        format(string(Question), "~w ~w ~w ~w but not ~w?", [WhWord, PluralModifier, Verb, CommaSubjectVal, NegSubjectVal])
+    ),
+
+    /* Construct the answer string */
+    format(string(Answer), "~w ~w ~w but not ~w.", [CommaVariableArgVal, Verb, CommaSubjectVal, NegSubjectVal]).
 
 
 generate_subtype_qa(possessive, Predicate, Question, Answer) :-
