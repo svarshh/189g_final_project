@@ -133,7 +133,7 @@ generate_subtype_qa(cannonical_negative, Predicate, Question, Answer) :-
     /* SubjectTerm =.. [SubjectType | [SubjectVal]], call(SubjectTerm),*/
     SubjectTerm =.. [SubjectType | [InterSubjectVal]],
     findall(InterSubjectVal, SubjectTerm, All),
-    pick_n(2, All, SubjectVal),
+    pick_n(3, All, SubjectVal),
     NegSubjectTerm =.. [NegSubjectType | [NegSubjectVal]], call(NegSubjectTerm),
 
     /* Query the database for the information */
@@ -141,7 +141,7 @@ generate_subtype_qa(cannonical_negative, Predicate, Question, Answer) :-
     
     length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
 
-    member(VariableArgVal, VariableArgVals), length(VariableArgVal, VarArgValLen), VarArgValLen >= 2,
+    member(VariableArgVal, VariableArgVals),
 
     oxford_comma_list(VariableArgVal, CommaVariableArgVal),
     oxford_comma_list(SubjectVal, CommaSubjectVal),
@@ -223,7 +223,9 @@ print_questions(Stream, [[Question, Answer] | T]) :-
 generate_qa :-
     generate_predicates(Predicates),
     generate_qas(Predicates, QAList),
+    length(QAList, QAListLength),
     open("prompts.txt", write, Stream),
+    format(Stream, "Number of QA Pairs: ~w~n~n", [QAListLength]),
     print_questions(Stream, QAList),
     close(Stream).
 

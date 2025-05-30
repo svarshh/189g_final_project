@@ -15,3 +15,14 @@ Wh-Word Mapping:
 5. object -> What
 
 Wh-word + aux verb + subject + main verb
+
+Experiments:
+
+1. Hand Pick Prompts from Geobase vs our system which are similar and compare BLEU
+
+2. Run our prompts through Gemini and compare the answers of it with the "correct" answer. Show statistics of failure rates on different types of questions
+    1. Knowledge Based --> What is the abbreviation of california?
+    2. Logic Based Easy --> What states does georgia border?
+    3. Logic Based Hard --> What states border  alabama, arkansas, and georgia but not tennessee?
+
+3. NOT DOING IMPERICAL STUDY --> Check with Prof over Slack to make sure that is ok since that is different from experiment evaluation submission
