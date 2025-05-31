@@ -8,6 +8,11 @@
             "category": "Geography US State Capital Knowledge",
             "system_prompt": "Please respond with answers formatted exactly like this (without quotes): California's capital is Sacramento. Replace California and Sacramento with the appropriate state and its capital city. Do not include any angle brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
             "text_file": "statecapital.txt"
+        },
+        {
+            "category": "Geography US State Simple Border Questions",
+            "system_prompt": "Please respond with answers formatted exactly like this (without quotes): [State] borders [List of bordering states in alphabetical order with an Oxford comma]. Replace [State] with the state mentioned in the prompt, and [List of bordering states] with the actual bordering states for that state. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
+            "text_file": "simple_border.txt"
         }
     ]
 }
