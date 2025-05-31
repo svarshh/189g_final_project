@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "category": "Geography US State Abbreviation Knowledge",
+            "system_prompt": "Please respond with answers formatted exactly like this (without quotes): \"California's abbreviation is CA.\" Replace California and CA with the appropriate state and abbreviation.  Do not include any angle brackets or other symbols in your answer.", 
+            "text_file": "abbrev.txt" },
+        {
+            "category": "Geography US State Capital Knowledge",
+            "system_prompt": "Please respond with answers formatted exactly like this (without quotes): California's capital is Sacramento. Replace California and Sacramento with the appropriate state and its capital city. Do not include any angle brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
+            "text_file": "statecapital.txt"
+        }
+    ]
+}

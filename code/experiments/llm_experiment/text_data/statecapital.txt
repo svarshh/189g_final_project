@@ -1,0 +1,153 @@
+Q: What is alabama's capital?
+A: alabama's capital is montgomery.
+
+Q: What is alaska's capital?
+A: alaska's capital is juneau.
+
+Q: What is arizona's capital?
+A: arizona's capital is phoenix.
+
+Q: What is arkansas's capital?
+A: arkansas's capital is little rock.
+
+Q: What is california's capital?
+A: california's capital is sacramento.
+
+Q: What is colorado's capital?
+A: colorado's capital is denver.
+
+Q: What is connecticut's capital?
+A: connecticut's capital is hartford.
+
+Q: What is delaware's capital?
+A: delaware's capital is dover.
+
+Q: What is district of columbia's capital?
+A: district of columbia's capital is washington.
+
+Q: What is florida's capital?
+A: florida's capital is tallahassee.
+
+Q: What is georgia's capital?
+A: georgia's capital is atlanta.
+
+Q: What is hawaii's capital?
+A: hawaii's capital is honolulu.
+
+Q: What is idaho's capital?
+A: idaho's capital is boise.
+
+Q: What is illinois's capital?
+A: illinois's capital is springfield.
+
+Q: What is indiana's capital?
+A: indiana's capital is indianapolis.
+
+Q: What is iowa's capital?
+A: iowa's capital is des moines.
+
+Q: What is kansas's capital?
+A: kansas's capital is topeka.
+
+Q: What is kentucky's capital?
+A: kentucky's capital is frankfort.
+
+Q: What is louisiana's capital?
+A: louisiana's capital is baton rouge.
+
+Q: What is maine's capital?
+A: maine's capital is augusta.
+
+Q: What is maryland's capital?
+A: maryland's capital is annapolis.
+
+Q: What is massachusetts's capital?
+A: massachusetts's capital is boston.
+
+Q: What is michigan's capital?
+A: michigan's capital is lansing.
+
+Q: What is minnesota's capital?
+A: minnesota's capital is st. paul.
+
+Q: What is mississippi's capital?
+A: mississippi's capital is jackson.
+
+Q: What is missouri's capital?
+A: missouri's capital is jefferson city.
+
+Q: What is montana's capital?
+A: montana's capital is helena.
+
+Q: What is nebraska's capital?
+A: nebraska's capital is lincoln.
+
+Q: What is nevada's capital?
+A: nevada's capital is carson city.
+
+Q: What is new hampshire's capital?
+A: new hampshire's capital is concord.
+
+Q: What is new jersey's capital?
+A: new jersey's capital is trenton.
+
+Q: What is new mexico's capital?
+A: new mexico's capital is santa fe.
+
+Q: What is new york's capital?
+A: new york's capital is albany.
+
+Q: What is north carolina's capital?
+A: north carolina's capital is raleigh.
+
+Q: What is north dakota's capital?
+A: north dakota's capital is bismarck.
+
+Q: What is ohio's capital?
+A: ohio's capital is columbus.
+
+Q: What is oklahoma's capital?
+A: oklahoma's capital is oklahoma city.
+
+Q: What is oregon's capital?
+A: oregon's capital is salem.
+
+Q: What is pennsylvania's capital?
+A: pennsylvania's capital is harrisburg.
+
+Q: What is rhode island's capital?
+A: rhode island's capital is providence.
+
+Q: What is south carolina's capital?
+A: south carolina's capital is columbia.
+
+Q: What is south dakota's capital?
+A: south dakota's capital is pierre.
+
+Q: What is tennessee's capital?
+A: tennessee's capital is nashville.
+
+Q: What is texas's capital?
+A: texas's capital is austin.
+
+Q: What is utah's capital?
+A: utah's capital is salt lake city.
+
+Q: What is vermont's capital?
+A: vermont's capital is montpelier.
+
+Q: What is virginia's capital?
+A: virginia's capital is richmond.
+
+Q: What is washington's capital?
+A: washington's capital is olympia.
+
+Q: What is west virginia's capital?
+A: west virginia's capital is charleston.
+
+Q: What is wisconsin's capital?
+A: wisconsin's capital is madison.
+
+Q: What is wyoming's capital?
+A: wyoming's capital is cheyenne.
+

@@ -90,7 +90,9 @@ generate_subtype_qa(cannonical, Predicate, Question, Answer) :-
     SubjectTerm =.. [SubjectType | [SubjectVal]], call(SubjectTerm),
 
     /* Query the database for the information */
-    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), VariableArgVals),
+    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), UnsortVariableArgVals),
+
+    sort(UnsortVariableArgVals, VariableArgVals),
     
     length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
 
@@ -137,7 +139,9 @@ generate_subtype_qa(cannonical_negative, Predicate, Question, Answer) :-
     NegSubjectTerm =.. [NegSubjectType | [NegSubjectVal]], call(NegSubjectTerm),
 
     /* Query the database for the information */
-    QueryTerm =.. [Predicate | [SubjectVal, NegSubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), VariableArgVals),
+    QueryTerm =.. [Predicate | [SubjectVal, NegSubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), UnsortVariableArgVals),
+
+    sort(UnsortVariableArgVals, VariableArgVals),
     
     length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
 
@@ -180,7 +184,9 @@ generate_subtype_qa(possessive, Predicate, Question, Answer) :-
     SubjectTerm =.. [SubjectType | [SubjectVal]], call(SubjectTerm),
 
     /* Query the database for the information */
-    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), VariableArgVals),
+    QueryTerm =.. [Predicate | [SubjectVal, VariableArgVal]], findall(VariableArgVal, call(QueryTerm), UnsortVariableArgVals),
+
+    sort(UnsortVariableArgVals, VariableArgVals),
 
     /* Check how many answers there are */
     length(VariableArgVals, ArgsValLen), ArgsValLen >= 1,
@@ -212,6 +218,10 @@ generate_qas([], []).
 generate_qas(Predicates, QAList) :-
     [H | T] = Predicates, generate_qas(T, TailQAList),
     findall(QA, generate_predicate_qa_tuple(H, QA), HeadQAList),
+    format(string(FileName), "~w.txt", [H]),
+    open(FileName, write, Stream),
+    print_questions(Stream, HeadQAList),
+    close(Stream),
     append(HeadQAList, TailQAList, QAList).
 
 print_questions(_, []).
