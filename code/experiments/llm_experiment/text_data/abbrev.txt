@@ -7,8 +7,8 @@ A: alaska's abbreviation is ak.
 Q: What is arizona's abbreviation?
 A: arizona's abbreviation is az.
 
-Q: What is arkansas's abbreviation?
-A: arkansas's abbreviation is ar.
+Q: What is arkansas' abbreviation?
+A: arkansas' abbreviation is ar.
 
 Q: What is california's abbreviation?
 A: california's abbreviation is ca.
@@ -37,8 +37,8 @@ A: hawaii's abbreviation is hi.
 Q: What is idaho's abbreviation?
 A: idaho's abbreviation is id.
 
-Q: What is illinois's abbreviation?
-A: illinois's abbreviation is il.
+Q: What is illinois' abbreviation?
+A: illinois' abbreviation is il.
 
 Q: What is indiana's abbreviation?
 A: indiana's abbreviation is in.
@@ -46,8 +46,8 @@ A: indiana's abbreviation is in.
 Q: What is iowa's abbreviation?
 A: iowa's abbreviation is ia.
 
-Q: What is kansas's abbreviation?
-A: kansas's abbreviation is ks.
+Q: What is kansas' abbreviation?
+A: kansas' abbreviation is ks.
 
 Q: What is kentucky's abbreviation?
 A: kentucky's abbreviation is ky.
@@ -61,8 +61,8 @@ A: maine's abbreviation is me.
 Q: What is maryland's abbreviation?
 A: maryland's abbreviation is md.
 
-Q: What is massachusetts's abbreviation?
-A: massachusetts's abbreviation is ma.
+Q: What is massachusetts' abbreviation?
+A: massachusetts' abbreviation is ma.
 
 Q: What is michigan's abbreviation?
 A: michigan's abbreviation is mi.
@@ -127,8 +127,8 @@ A: south dakota's abbreviation is sd.
 Q: What is tennessee's abbreviation?
 A: tennessee's abbreviation is tn.
 
-Q: What is texas's abbreviation?
-A: texas's abbreviation is tx.
+Q: What is texas' abbreviation?
+A: texas' abbreviation is tx.
 
 Q: What is utah's abbreviation?
 A: utah's abbreviation is ut.

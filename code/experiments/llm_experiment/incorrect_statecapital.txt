@@ -1,0 +1,8 @@
+Q: What is california's capital?
+LLM A: massachusetts' capital is boston.
+Correct A: california's capital is sacramento.
+
+Q: What is district of columbia's capital?
+LLM A: washington d.c.'s capital is washington.
+Correct A: district of columbia's capital is washington.
+

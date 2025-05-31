@@ -7,8 +7,8 @@ A: alaska's capital is juneau.
 Q: What is arizona's capital?
 A: arizona's capital is phoenix.
 
-Q: What is arkansas's capital?
-A: arkansas's capital is little rock.
+Q: What is arkansas' capital?
+A: arkansas' capital is little rock.
 
 Q: What is california's capital?
 A: california's capital is sacramento.
@@ -37,8 +37,8 @@ A: hawaii's capital is honolulu.
 Q: What is idaho's capital?
 A: idaho's capital is boise.
 
-Q: What is illinois's capital?
-A: illinois's capital is springfield.
+Q: What is illinois' capital?
+A: illinois' capital is springfield.
 
 Q: What is indiana's capital?
 A: indiana's capital is indianapolis.
@@ -46,8 +46,8 @@ A: indiana's capital is indianapolis.
 Q: What is iowa's capital?
 A: iowa's capital is des moines.
 
-Q: What is kansas's capital?
-A: kansas's capital is topeka.
+Q: What is kansas' capital?
+A: kansas' capital is topeka.
 
 Q: What is kentucky's capital?
 A: kentucky's capital is frankfort.
@@ -61,8 +61,8 @@ A: maine's capital is augusta.
 Q: What is maryland's capital?
 A: maryland's capital is annapolis.
 
-Q: What is massachusetts's capital?
-A: massachusetts's capital is boston.
+Q: What is massachusetts' capital?
+A: massachusetts' capital is boston.
 
 Q: What is michigan's capital?
 A: michigan's capital is lansing.
@@ -127,8 +127,8 @@ A: south dakota's capital is pierre.
 Q: What is tennessee's capital?
 A: tennessee's capital is nashville.
 
-Q: What is texas's capital?
-A: texas's capital is austin.
+Q: What is texas' capital?
+A: texas' capital is austin.
 
 Q: What is utah's capital?
 A: utah's capital is salt lake city.
