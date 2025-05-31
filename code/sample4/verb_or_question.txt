@@ -1,108 +1,102 @@
-which states do Colorado , Michigan or Wisconsin neighbor?
-Arizona , Illinois , Indiana , Iowa , Kansas , Michigan , Minnesota , Nebraska , New Mexico , Ohio , Oklahoma , Utah , Wisconsin and Wyoming.
+Q: which states do Iowa , New Mexico or Oregon neighbor?
+A: Arizona , California , Colorado , Idaho , Illinois , Minnesota , Missouri , Nebraska , Nevada , Oklahoma , South Dakota , Texas , Utah , Washington and Wisconsin.
 
-which state do Colorado , Michigan or Wisconsin neighbor?
-Arizona , Illinois , Indiana , Iowa , Kansas , Michigan , Minnesota , Nebraska , New Mexico , Ohio , Oklahoma , Utah , Wisconsin and Wyoming.
+Q: which state do Iowa , New Mexico or Oregon neighbor?
+A: Arizona , California , Colorado , Idaho , Illinois , Minnesota , Missouri , Nebraska , Nevada , Oklahoma , South Dakota , Texas , Utah , Washington and Wisconsin.
 
-which states do Michigan or Wisconsin neighbor?
-Illinois , Indiana , Iowa , Michigan , Minnesota , Ohio and Wisconsin.
+Q: which states do Iowa or New Mexico neighbor?
+A: Arizona , Colorado , Illinois , Minnesota , Missouri , Nebraska , Oklahoma , South Dakota , Texas , Utah and Wisconsin.
 
-which state do Michigan or Wisconsin neighbor?
-Illinois , Indiana , Iowa , Michigan , Minnesota , Ohio and Wisconsin.
+Q: which state do Iowa or New Mexico neighbor?
+A: Arizona , Colorado , Illinois , Minnesota , Missouri , Nebraska , Oklahoma , South Dakota , Texas , Utah and Wisconsin.
 
-which states do Michigan and Wisconsin neighbor in common?
-Illinois and Minnesota.
+Q: which states do Iowa or Oregon neighbor?
+A: California , Idaho , Illinois , Minnesota , Missouri , Nebraska , Nevada , South Dakota , Washington and Wisconsin.
 
-which state do Michigan and Wisconsin neighbor in common?
-Illinois and Minnesota.
+Q: which state do Iowa or Oregon neighbor?
+A: California , Idaho , Illinois , Minnesota , Missouri , Nebraska , Nevada , South Dakota , Washington and Wisconsin.
 
-which states do Colorado or Wisconsin neighbor?
-Arizona , Illinois , Iowa , Kansas , Michigan , Minnesota , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which states does Iowa neighbor?
+A: Illinois , Minnesota , Missouri , Nebraska , South Dakota and Wisconsin.
 
-which state do Colorado or Wisconsin neighbor?
-Arizona , Illinois , Iowa , Kansas , Michigan , Minnesota , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which state does Iowa neighbor?
+A: Illinois , Minnesota , Missouri , Nebraska , South Dakota and Wisconsin.
 
-which states does Wisconsin neighbor?
-Illinois , Iowa , Michigan and Minnesota.
+Q: which states does Iowa neighbor in common?
+A: Illinois , Minnesota , Missouri , Nebraska , South Dakota and Wisconsin.
 
-which state does Wisconsin neighbor?
-Illinois , Iowa , Michigan and Minnesota.
+Q: which state does Iowa neighbor in common?
+A: Illinois , Minnesota , Missouri , Nebraska , South Dakota and Wisconsin.
 
-which states does Wisconsin neighbor in common?
-Illinois , Iowa , Michigan and Minnesota.
+Q: which states do New Mexico or Oregon neighbor?
+A: Arizona , California , Colorado , Idaho , Nevada , Oklahoma , Texas , Utah and Washington.
 
-which state does Wisconsin neighbor in common?
-Illinois , Iowa , Michigan and Minnesota.
+Q: which state do New Mexico or Oregon neighbor?
+A: Arizona , California , Colorado , Idaho , Nevada , Oklahoma , Texas , Utah and Washington.
 
-which states do Colorado or Michigan neighbor?
-Arizona , Illinois , Indiana , Kansas , Minnesota , Nebraska , New Mexico , Ohio , Oklahoma , Utah , Wisconsin and Wyoming.
+Q: which states does New Mexico neighbor?
+A: Arizona , Colorado , Oklahoma , Texas and Utah.
 
-which state do Colorado or Michigan neighbor?
-Arizona , Illinois , Indiana , Kansas , Minnesota , Nebraska , New Mexico , Ohio , Oklahoma , Utah , Wisconsin and Wyoming.
+Q: which state does New Mexico neighbor?
+A: Arizona , Colorado , Oklahoma , Texas and Utah.
 
-which states does Michigan neighbor?
-Illinois , Indiana , Minnesota , Ohio and Wisconsin.
+Q: which states does New Mexico neighbor in common?
+A: Arizona , Colorado , Oklahoma , Texas and Utah.
 
-which state does Michigan neighbor?
-Illinois , Indiana , Minnesota , Ohio and Wisconsin.
+Q: which state does New Mexico neighbor in common?
+A: Arizona , Colorado , Oklahoma , Texas and Utah.
 
-which states does Michigan neighbor in common?
-Illinois , Indiana , Minnesota , Ohio and Wisconsin.
+Q: which states does Oregon neighbor?
+A: California , Idaho , Nevada and Washington.
 
-which state does Michigan neighbor in common?
-Illinois , Indiana , Minnesota , Ohio and Wisconsin.
+Q: which state does Oregon neighbor?
+A: California , Idaho , Nevada and Washington.
 
-which states does Colorado neighbor?
-Arizona , Kansas , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which states does Oregon neighbor in common?
+A: California , Idaho , Nevada and Washington.
 
-which state does Colorado neighbor?
-Arizona , Kansas , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which state does Oregon neighbor in common?
+A: California , Idaho , Nevada and Washington.
 
-which states does Colorado neighbor in common?
-Arizona , Kansas , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which states are Denali , Mount Adams or Mount Baker located in?
+A: Alaska and Washington.
 
-which state does Colorado neighbor in common?
-Arizona , Kansas , Nebraska , New Mexico , Oklahoma , Utah and Wyoming.
+Q: which state are Denali , Mount Adams or Mount Baker located in?
+A: Alaska and Washington.
 
-which states are Grand Teton , Mount Elbert or Mount Marcy located in?
-Colorado , New York and Wyoming.
+Q: which states are Denali or Mount Baker located in?
+A: Alaska and Washington.
 
-which state are Grand Teton , Mount Elbert or Mount Marcy located in?
-Colorado , New York and Wyoming.
+Q: which state are Denali or Mount Baker located in?
+A: Alaska and Washington.
 
-which states are Grand Teton or Mount Elbert located in?
-Colorado and Wyoming.
+Q: which states are Denali or Mount Adams located in?
+A: Alaska and Washington.
 
-which state are Grand Teton or Mount Elbert located in?
-Colorado and Wyoming.
+Q: which state are Denali or Mount Adams located in?
+A: Alaska and Washington.
 
-which states are Mount Elbert or Mount Marcy located in?
-Colorado and New York.
+Q: which state is Denali located in?
+A: Alaska.
 
-which state are Mount Elbert or Mount Marcy located in?
-Colorado and New York.
+Q: which state is Denali located in in common?
+A: Alaska.
 
-which state is Mount Elbert located in?
-Colorado.
+Q: which state are Mount Adams or Mount Baker located in?
+A: Washington.
 
-which state is Mount Elbert located in in common?
-Colorado.
+Q: which state are Mount Adams and Mount Baker located in in common?
+A: Washington.
 
-which states are Grand Teton or Mount Marcy located in?
-New York and Wyoming.
+Q: which state is Mount Baker located in?
+A: Washington.
 
-which state are Grand Teton or Mount Marcy located in?
-New York and Wyoming.
+Q: which state is Mount Baker located in in common?
+A: Washington.
 
-which state is Grand Teton located in?
-Wyoming.
+Q: which state is Mount Adams located in?
+A: Washington.
 
-which state is Grand Teton located in in common?
-Wyoming.
-
-which state is Mount Marcy located in?
-New York.
-
-which state is Mount Marcy located in in common?
-New York.
+Q: which state is Mount Adams located in in common?
+A: Washington.
 
