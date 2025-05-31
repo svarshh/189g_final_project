@@ -1,0 +1,6 @@
+Category,BLEU Score,BERT Precision,BERT Recall,BERT F1
+Border Question,11.48,0.9394,0.9573,0.9482
+Capital Question,9.42,0.9690,0.9682,0.9686
+Population Question,8.75,0.9263,0.9268,0.9265
+River in State Question,10.68,0.9529,0.9529,0.9529
+Major Cities in State Question,13.54,0.9344,0.9433,0.9388
