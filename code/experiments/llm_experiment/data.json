@@ -10,9 +10,21 @@
             "text_file": "statecapital.txt"
         },
         {
+            "category": "Geography US Rivers Knowledge",
+            "system_prompt":"Please respond with answers formatted exactly like this (without quotes): the [River Name] river flows through [List of states river flows through in alphabetical order with an Oxford comma]. Replace [State] with the state mentioned in the prompt, and [List of states river flows through] with the actual states that the river flows through. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
+            "text_file": "riverflow.txt"
+
+        },
+        {
             "category": "Geography US State Simple Border Questions",
             "system_prompt": "Please respond with answers formatted exactly like this (without quotes): [State] borders [List of bordering states in alphabetical order with an Oxford comma]. Replace [State] with the state mentioned in the prompt, and [List of bordering states] with the actual bordering states for that state. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
             "text_file": "simple_border.txt"
+        },
+        {
+            "category": "Geography US States Complex Border Questions",
+            "system_prompt": "Please respond with answers formatted exactly like this (without quotes): [AnswerState] borders [IncludedStates, with an Oxford comma] but not [ExcludedStates, with an Oxford comma]. Replace [AnswerState] with the correct state that satisfies the conditions, [IncludedStates] with the list of states it borders (in alphabetical order with an Oxford comma), and [ExcludedStates] with the list of states it does not border, as specified in the prompt. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
+            "text_file": "complex_logic_border.txt",
+            "sample": 100
         }
     ]
 }

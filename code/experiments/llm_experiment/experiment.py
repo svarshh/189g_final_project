@@ -52,6 +52,7 @@ def write_to_csv(filename, headers, rows):
 def run_experiment(data_file_name: str, text_data_base_path: str, table_print: bool, csv_file_name: str = None):
     import json
     import os
+    import random
     from tabulate import tabulate
 
     with open(data_file_name, "r") as file:
@@ -64,6 +65,11 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
         text_file_name = os.path.join(text_data_base_path, test_case_category["text_file"])
         system_prompt = test_case_category["system_prompt"]
         qa_pairs = parse_qa_file(text_file_name)
+
+        total_gen_questions = len(qa_pairs)  
+
+        if test_case_category.get("sample", None) is not None:
+            qa_pairs = random.sample(qa_pairs, test_case_category["sample"])
 
         correct_question = 0
         total_question = 0
@@ -80,12 +86,13 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
         percent_correct = (correct_question / total_question) * 100
         rows.append([
             category,
-            f"{correct_question}",
+            f"{total_gen_questions}",
             f"{total_question}",
+            f"{correct_question}",
             f"{percent_correct:.2f}%"
         ])
     
-    headers = ["Category", "# Q's Correct", "# Q's", "% Passed"]
+    headers = ["Category", "# Q's Generated", "# Q's Asked", "# Q's Correct", "% Passed"]
     if table_print:
         print(tabulate(rows, headers=headers, tablefmt="grid"))
     
