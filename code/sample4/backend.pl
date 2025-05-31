@@ -18,6 +18,17 @@ chain([X | Rest], Connector) -->
     [X, ','],
     chain(Rest, Connector), !.
 
+
+
+combination(0, _, []) :- !.
+combination(K, [H|T], [H|Comb]) :-
+    K > 0,
+    K1 is K - 1,
+    combination(K1, T, Comb).
+combination(K, [_|T], Comb) :-
+    K > 0,
+    combination(K, T, Comb).
+    
 /* Random sample N subjects */
 sample(Subj, N, Sample) :-
     length(Subj, Len),
@@ -35,23 +46,22 @@ subset([_|T], Subset) :- subset(T, Subset).
 /*Subject collector*/
 collect_subject(Tense, Verb, Subjects) :-
     setof(Subj, List^(verb_relation(Tense, Verb, Subj, List)), Sbj),
-    sample(Sbj, 3, Sample),
+    combination(3, Sbj, Sample),
     findall(SortedSubset,
             (
-                subset(Sample, Subset), Subset \= [],
+                subset(Sample, Subset), Subset \= [], length(Subset, L), L > 2,
                 sort(Subset, SortedSubset)  /* sort subsets to avoid permutation duplicates */
             ),
             AllSubsets),
-    list_to_set(AllSubsets, Subjects),  /* Remove potential dup lists */
-    !.
+    list_to_set(AllSubsets, Subjects).
 
 collect_PN(Relation, Tense, PNs):-
 
     setof(Subj, Object^(possessive_relation(Tense, Relation, Subj, Object)), Sbj),
-    sample(Sbj, 3, Sample),
+    combination(3, Sbj, Sample),
     findall(SortedSubset,
             (
-                subset(Sample, Subset), Subset \= [],
+                subset(Sample, Subset), Subset \= [], length(Subset, L), L > 2,
                 sort(Subset, SortedSubset) 
             ),
             AllSubsets),
@@ -85,7 +95,7 @@ collect_object(Subjects, ObjectsList) :-
 verb_question(Q, A) :-
     (Place = 'place'),
     /* Collect all the tense|verb combos */
-    setof([T, V], S^O^verb_relation(T, V, S, O), Pairs), !,
+    setof([T, V], S^O^verb_relation(T, V, S, O), Pairs), 
     member([Tense, Verb], Pairs),
     /* Collect Subjects and verbs based on the current tense|verb combo */ 
     collect_subject(Tense, Verb, Subjects),
@@ -117,8 +127,8 @@ verb_question(Q, A) :-
     auxiliary(Tense, 'third', Collective_subj, Aux), 
     
 
-    atomic_list_concat([Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
-    ((Collective_obj = none, atomic_list_concat(["None"], A)); (Collective_obj \= none, atomic_list_concat([Object_list, "."], A)))
+    atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
+    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Object_list, "."], A)))
     )
     ;
 
@@ -137,8 +147,8 @@ verb_question(Q, A) :-
     auxiliary(Tense, 'third', Collective_subj, Aux), 
 
 
-    atomic_list_concat([Wh, " ", Aux, " ", Subject_chain, " ", Verb," in common?"], Q),
-    ((Collective_obj = none, atomic_list_concat(["None"], A)); (Collective_obj \= none, atomic_list_concat([Object_list, "."], A)))
+    atomic_list_concat(["Q: ", Wh, " ", Aux, " ", Subject_chain, " ", Verb," in common?"], Q),
+    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Object_list, "."], A)))
     )).
 
 possessive_question(Q, A) :-
