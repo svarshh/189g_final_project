@@ -56,8 +56,8 @@ collect_subject(Tense, Verb, Subjects) :-
     list_to_set(AllSubsets, Subjects).
 
 collect_PN(Relation, Tense, PNs):-
-
     setof(Subj, Object^(possessive_relation(Tense, Relation, Subj, Object)), Sbj),
+    
     combination(3, Sbj, Sample),
     findall(SortedSubset,
             (
@@ -65,8 +65,7 @@ collect_PN(Relation, Tense, PNs):-
                 sort(Subset, SortedSubset) 
             ),
             AllSubsets),
-    list_to_set(AllSubsets, PNs), 
-    !.
+    list_to_set(AllSubsets, PNs).
 
 
 /*Union all lists in a list*/
@@ -111,26 +110,26 @@ verb_question(Q, A) :-
 
     (
 
-    % (
-    %     /* OR all*/
-    % /* Whether subjects and objects are singular | plural | none */
-    % union_all(Objects, Obj),
-% 
-    % phrase_list(Subj, Subject_chain, ', or '),
-    % phrase_list(Obj, Object_list, ', and '),
-% 
-% 
-    % length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
-    % length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
-% 
-    % match(Collective_obj, Obj, Wh),
-    % auxiliary(Tense, 'third', Collective_subj, Aux), 
-    % 
-% 
-    % atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
-    % ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, "."], A)))
-    % )
-    % ;
+    (
+        /* OR all*/
+    /* Whether subjects and objects are singular | plural | none */
+    union_all(Objects, Obj),
+
+    phrase_list(Subj, Subject_chain, ', or '),
+    phrase_list(Obj, Object_list, ', and '),
+
+
+    length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
+    length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
+
+    match(Collective_obj, Obj, Wh),
+    auxiliary(Tense, 'third', Collective_subj, Aux), 
+
+
+    atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
+    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, "."], A)))
+    )
+    ;
 
 
     (
@@ -160,7 +159,9 @@ possessive_question(Q, A) :-
     
     plural_possessive(Single_relation, Relation), 
 
+
     collect_PN(Single_relation, Tense, PNs),
+    
 
     member(PN, PNs),
 
@@ -178,11 +179,11 @@ possessive_question(Q, A) :-
 
 
 print_n_questions(Limit) :-
-    findnsols(Limit, verb_question(Q, A), verb_question(Q, A), Questions),
+    findnsols(Limit, possessive_question(Q, A), possessive_question(Q, A), Questions),
     print_questions(Questions, 1).
 
 print_questions([], _).
-print_questions([verb_question(Q, A)|Rest], N) :-
+print_questions([possessive_question(Q, A)|Rest], N) :-
     format("~w~n", [ Q]),
     format("~w~n~n", [A]),
     N1 is N + 1,
