@@ -1,5 +1,5 @@
 Q: What is california's capital?
-LLM A: massachusetts' capital is boston.
+LLM A: new york's capital is albany.
 Correct A: california's capital is sacramento.
 
 Q: What is district of columbia's capital?

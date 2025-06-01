@@ -1,4 +1,4 @@
 Q: What is california's abbreviation?
-LLM A: ohio's abbreviation is oh.
+LLM A: new york's abbreviation is ny.
 Correct A: california's abbreviation is ca.
 
