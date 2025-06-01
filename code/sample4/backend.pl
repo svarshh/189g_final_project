@@ -9,13 +9,13 @@
 
 phrase_list(List, Output, Connector) :-
     phrase(chain(List, Connector), Tokens),
-    atomic_list_concat(Tokens, ' ', Output), !.
+    atomic_list_concat(Tokens, '', Output), !.
 
 chain([], _) --> [].
 chain([X], _) --> [X].
 chain([X, Y], Connector) --> [X, Connector, Y].
 chain([X | Rest], Connector) -->
-    [X, ','],
+    [X, ', '],
     chain(Rest, Connector), !.
 
 
@@ -111,34 +111,34 @@ verb_question(Q, A) :-
 
     (
 
-    (
-        /* OR all*/
-    /* Whether subjects and objects are singular | plural | none */
-    union_all(Objects, Obj),
-
-    phrase_list(Subj, Subject_chain, 'or'),
-    phrase_list(Obj, Object_list, 'and'),
-
-
-    length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
-    length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
-
-    match(Collective_obj, Obj, Wh),
-    auxiliary(Tense, 'third', Collective_subj, Aux), 
-    
-
-    atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
-    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Object_list, "."], A)))
-    )
-    ;
+    % (
+    %     /* OR all*/
+    % /* Whether subjects and objects are singular | plural | none */
+    % union_all(Objects, Obj),
+% 
+    % phrase_list(Subj, Subject_chain, ', or '),
+    % phrase_list(Obj, Object_list, ', and '),
+% 
+% 
+    % length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
+    % length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
+% 
+    % match(Collective_obj, Obj, Wh),
+    % auxiliary(Tense, 'third', Collective_subj, Aux), 
+    % 
+% 
+    % atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
+    % ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, "."], A)))
+    % )
+    % ;
 
 
     (
         /* AND all*/
     intersection_all(Objects, Obj),
 
-    phrase_list(Subj, Subject_chain, 'and'),
-    phrase_list(Obj, Object_list, 'and'),
+    phrase_list(Subj, Subject_chain, ', and '),
+    phrase_list(Obj, Object_list, ', and '),
 
     length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
     length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
@@ -148,8 +148,9 @@ verb_question(Q, A) :-
 
 
     atomic_list_concat(["Q: ", Wh, " ", Aux, " ", Subject_chain, " ", Verb," in common?"], Q),
-    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Object_list, "."], A)))
-    )).
+    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, " in common."], A)))
+    )
+    ).
 
 possessive_question(Q, A) :-
 
@@ -169,7 +170,7 @@ possessive_question(Q, A) :-
     match(Collective, [Objects], Wh),
     Aux = is,
 
-    phrase_list(PN, PN_chain, 'and'),
+    phrase_list(PN, PN_chain, ', and '),
 
     atomic_list_concat([" Q: ", Wh, " ", Aux, " " , PN_chain, "'s ", Relation, "? "], Q),
     atomic_list_concat([" A: ", PN_chain, "'s ", Relation, " " , Aux, " ", Objects, ". "], A).
