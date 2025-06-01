@@ -157,7 +157,7 @@ possessive_question(Q, A) :-
 
     plural_possessive_relation(Tense, Relation, _, _), 
     
-    plural_possessive(Single_relation, Relation), 
+    plural_possessive(Single_relation, Relation), !,
 
 
     collect_PN(Single_relation, Tense, PNs),

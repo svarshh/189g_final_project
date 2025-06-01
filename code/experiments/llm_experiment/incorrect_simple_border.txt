@@ -1,13 +1,13 @@
 Q: What states does alabama border?
-LLM A: alabama borders georgia, louisiana, mississippi, north carolina, and tennessee.
+LLM A: alabama borders florida, georgia, louisiana, mississippi, and tennessee.
 Correct A: alabama borders florida, georgia, mississippi, and tennessee.
 
 Q: What states does arizona border?
-LLM A: arizona borders california, new mexico, nevada, utah, and sonora, mexico.
+LLM A: arizona borders california, new mexico, nevada, and utah.
 Correct A: arizona borders california, colorado, nevada, new mexico, and utah.
 
 Q: What states does arkansas border?
-LLM A: arkansas borders oklahoma, texas, and missouri.
+LLM A: arkansas borders oklahoma, tennessee, texas, and louisiana.
 Correct A: arkansas borders louisiana, mississippi, missouri, oklahoma, tennessee, and texas.
 
 Q: What states does california border?
@@ -19,35 +19,43 @@ LLM A: colorado borders arizona, new mexico, utah, and wyoming.
 Correct A: colorado borders arizona, kansas, nebraska, new mexico, oklahoma, utah, and wyoming.
 
 Q: What states does connecticut border?
-LLM A: connecticut borders massachusetts, new hampshire, new york, and rhode island.
+LLM A: connecticut borders rhode island, massachusetts, new york, and vermont.
 Correct A: connecticut borders massachusetts, new york, and rhode island.
 
-Q: What states does delaware border?
-LLM A: delaware borders maryland, new jersey, pennsylvania, and virginia.
-Correct A: delaware borders maryland, new jersey, and pennsylvania.
+Q: What states does district of columbia border?
+LLM A: district of columbia borders maryland, virginia, and west virginia.
+Correct A: district of columbia borders maryland and virginia.
 
 Q: What states does florida border?
 LLM A: florida borders alabama, georgia, and south carolina.
 Correct A: florida borders alabama and georgia.
 
+Q: What states does georgia border?
+LLM A: georgia borders alabama, florida, south carolina, and tennessee.
+Correct A: georgia borders alabama, florida, north carolina, south carolina, and tennessee.
+
 Q: What states does idaho border?
-LLM A: idaho borders montana to the north, wyoming to the east, utah to the south, and oregon to the west.
+LLM A: idaho borders montana, wyoming, utah, nevada, and oregon.
 Correct A: idaho borders montana, nevada, oregon, utah, washington, and wyoming.
 
 Q: What states does illinois border?
-LLM A: illinois borders wisconsin, iowa, indiana, and missouri.
+LLM A: illinois borders iowa, indiana, michigan, wisconsin, and missouri.
 Correct A: illinois borders indiana, iowa, kentucky, missouri, and wisconsin.
 
 Q: What states does indiana border?
-LLM A: indiana borders illinois, kentucky, michigan, ohio, and wisconsin.
+LLM A: indiana borders illinois, michigan, ohio, and kentucky.
 Correct A: indiana borders illinois, kentucky, michigan, and ohio.
 
 Q: What states does iowa border?
 LLM A: iowa borders minnesota, missouri, nebraska, and south dakota.
 Correct A: iowa borders illinois, minnesota, missouri, nebraska, south dakota, and wisconsin.
 
+Q: What states does kansas border?
+LLM A: kansas borders oklahoma, missouri, nebraska, and colorado.
+Correct A: kansas borders colorado, missouri, nebraska, and oklahoma.
+
 Q: What states does kentucky border?
-LLM A: kentucky borders alabama, illinois, indiana, ohio, tennessee, and virginia.
+LLM A: kentucky borders tennessee, virginia, west virginia, and illinois.
 Correct A: kentucky borders illinois, indiana, missouri, ohio, tennessee, virginia, and west virginia.
 
 Q: What states does louisiana border?
@@ -63,7 +71,7 @@ LLM A: maryland borders delaware, pennsylvania, virginia, and west virginia.
 Correct A: maryland borders delaware, district of columbia, pennsylvania, virginia, and west virginia.
 
 Q: What states does massachusetts border?
-LLM A: massachusetts borders new hampshire, vermont, rhode island, and connecticut.
+LLM A: massachusetts borders connecticut, rhode island, vermont, new hampshire, and maine.
 Correct A: massachusetts borders connecticut, new hampshire, new york, rhode island, and vermont.
 
 Q: What states does michigan border?
@@ -71,19 +79,23 @@ LLM A: michigan borders illinois, indiana, ohio, and wisconsin.
 Correct A: michigan borders indiana, ohio, and wisconsin.
 
 Q: What states does minnesota border?
-LLM A: minnesota borders north dakota, south dakota, wisconsin, iowa, and canada.
+LLM A: minnesota borders north dakota, south dakota, iowa, wisconsin, and canada.
 Correct A: minnesota borders iowa, north dakota, south dakota, and wisconsin.
 
 Q: What states does missouri border?
-LLM A: missouri borders arkansas, iowa, kansas, nebraska, oklahoma, and tennessee.
+LLM A: missouri borders arkansas, iowa, kansas, nebraska, and oklahoma.
 Correct A: missouri borders arkansas, illinois, iowa, kansas, kentucky, nebraska, oklahoma, and tennessee.
 
+Q: What states does montana border?
+LLM A: montana borders idaho, north dakota, south dakota, wyoming.
+Correct A: montana borders idaho, north dakota, south dakota, and wyoming.
+
 Q: What states does nebraska border?
-LLM A: nebraska borders colorado, iowa, kansas, south dakota, and wyoming.
+LLM A: nebraska borders colorado, iowa, kansas, and south dakota.
 Correct A: nebraska borders colorado, iowa, kansas, missouri, south dakota, and wyoming.
 
 Q: What states does nevada border?
-LLM A: nevada borders arizona, california, oregon, utah, and wyoming.
+LLM A: nevada borders arizona, california, oregon, and utah.
 Correct A: nevada borders arizona, california, idaho, oregon, and utah.
 
 Q: What states does new hampshire border?
@@ -94,20 +106,20 @@ Q: What states does new jersey border?
 LLM A: new jersey borders new york, pennsylvania, and delaware.
 Correct A: new jersey borders delaware, new york, and pennsylvania.
 
-Q: What states does new mexico border?
-LLM A: new mexico borders arizona, colorado, texas, and utah.
-Correct A: new mexico borders arizona, colorado, oklahoma, texas, and utah.
+Q: What states does new york border?
+LLM A: new york borders connecticut, massachusetts, pennsylvania, vermont, and ontario (canada).
+Correct A: new york borders connecticut, massachusetts, new jersey, pennsylvania, and vermont.
 
 Q: What states does north carolina border?
-LLM A: north carolina borders georgia, south carolina, tennessee, virginia, and west virginia.
+LLM A: north carolina borders georgia, south carolina, tennessee, virginia, and florida.
 Correct A: north carolina borders georgia, south carolina, tennessee, and virginia.
 
 Q: What states does north dakota border?
-LLM A: north dakota borders montana, minnesota, south dakota, and canada.
+LLM A: north dakota borders minnesota, montana, south dakota, and canada.
 Correct A: north dakota borders minnesota, montana, and south dakota.
 
 Q: What states does ohio border?
-LLM A: ohio borders michigan to the northwest, pennsylvania to the east, west virginia to the southeast, and indiana to the west.
+LLM A: ohio borders michigan to the north, pennsylvania to the east, west virginia to the southeast, kentucky to the south, and indiana to the west.
 Correct A: ohio borders indiana, kentucky, michigan, pennsylvania, and west virginia.
 
 Q: What states does oklahoma border?
@@ -127,11 +139,11 @@ LLM A: rhode island borders connecticut, massachusetts, and new york.
 Correct A: rhode island borders connecticut and massachusetts.
 
 Q: What states does south carolina border?
-LLM A: south carolina borders georgia, north carolina, tennessee, and virginia.
+LLM A: south carolina borders georgia, north carolina, tennessee, and alabama.
 Correct A: south carolina borders georgia and north carolina.
 
 Q: What states does south dakota border?
-LLM A: south dakota borders minnesota, montana, nebraska, and wyoming.
+LLM A: south dakota borders north dakota, minnesota, nebraska, montana, and wyoming.
 Correct A: south dakota borders iowa, minnesota, montana, nebraska, north dakota, and wyoming.
 
 Q: What states does tennessee border?
@@ -151,22 +163,22 @@ LLM A: vermont borders new hampshire, massachusetts, and new york.
 Correct A: vermont borders massachusetts, new hampshire, and new york.
 
 Q: What states does virginia border?
-LLM A: virginia borders west virginia, maryland, delaware, north carolina, and tennessee.
+LLM A: virginia borders maryland, north carolina, tennessee, and west virginia.
 Correct A: virginia borders district of columbia, kentucky, maryland, north carolina, tennessee, and west virginia.
 
 Q: What states does washington border?
-LLM A: washington borders oregon, idaho, montana, and british columbia.
+LLM A: washington borders idaho, oregon, and british columbia.
 Correct A: washington borders idaho and oregon.
 
 Q: What states does west virginia border?
-LLM A: west virginia borders ohio, pennsylvania, and maryland.
+LLM A: west virginia borders kentucky, ohio, pennsylvania, and virginia.
 Correct A: west virginia borders kentucky, maryland, ohio, pennsylvania, and virginia.
 
 Q: What states does wisconsin border?
-LLM A: wisconsin borders minnesota to the west, iowa to the southwest, illinois to the south, lake superior to the north, and michigan to the northeast.
+LLM A: wisconsin borders minnesota, iowa, illinois, michigan, and north dakota.
 Correct A: wisconsin borders illinois, iowa, michigan, and minnesota.
 
 Q: What states does wyoming border?
-LLM A: wyoming borders montana, idaho, utah, colorado, and nebraska.
+LLM A: wyoming borders montana, nebraska, south dakota, and colorado.
 Correct A: wyoming borders colorado, idaho, montana, nebraska, south dakota, and utah.
 

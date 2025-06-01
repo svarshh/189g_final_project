@@ -22,7 +22,7 @@
         },
         {
             "category": "Geography US States Complex Border Questions AND",
-            "system_prompt": "FOLLOW THIS EXACT ANSWER FORMAT (without quotes): '[QuestionStates] neighbor [AnswerState] in common.' Replace [QuestionStates] with the states in the QUESTION, as a list. Replace [AnswerState] with the states answering the question. DO NOT include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only. FOLLOW THAT EXACT ANSWER TEMPLATE" ,
+            "system_prompt": "Please follow this EXACT answer format (without quotes): '[QuestionStates] neighbor [AnswerState] in common.' Replace [QuestionStates] with the states in the QUESTION, as a list. Replace [AnswerState] with the states answering the question. DO NOT include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
             "text_file": "verb_or_question.txt",
             "sample": 100
         },
@@ -30,6 +30,12 @@
             "category": "Geography US States Complex Border Questions AND BUT",
             "system_prompt": "Please respond with answers formatted exactly like this (without quotes): [AnswerState] borders [IncludedStates, with an Oxford comma] but not [ExcludedStates, with an Oxford comma]. Replace [AnswerState] with the correct state that satisfies the conditions, [IncludedStates] with the list of states it borders (in alphabetical order with an Oxford comma), and [ExcludedStates] with the list of states it does not border, as specified in the prompt. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
             "text_file": "complex_logic_border.txt",
+            "sample": 100
+        },
+        {
+            "category": "Geography US States Complex Total population",
+            "system_prompt": "Please respond with answers formatted exactly like this (without quotes): [QuestionStates] population in total is [population]. Replace [QuestionStates] with the states in the questions as a list, replace [population] with the total population. A single number as a sum. Do not include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
+            "text_file": "population_total.txt",
             "sample": 100
         }
     ]
