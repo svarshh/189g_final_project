@@ -162,7 +162,7 @@ generate_subtype_qa(cannonical_negative, Predicate, Question, Answer) :-
     ),
 
     /* Construct the answer string */
-    format(string(Answer), "~w ~w ~w but not ~w.", [CommaVariableArgVal, Verb, CommaSubjectVal, NegSubjectVal]).
+    format(string(Answer), "~w ~w ~w but not ~w.", [CommaVariableArgVal, PluralVerb, CommaSubjectVal, NegSubjectVal]).
 
 
 generate_subtype_qa(possessive, Predicate, Question, Answer) :-
@@ -201,10 +201,11 @@ generate_subtype_qa(possessive, Predicate, Question, Answer) :-
     (ArgsValLen =:= 1 -> EffectiveVerb = Verb; EffectiveVerb = PluralVerb),
     
     /* Construct the question string */
-    format(string(Question), "~w ~w ~w's ~w?", [WhWord, AuxVerb, SubjectVal, EffectiveVerb]),
+    atom_chars(SubjectVal, AtomSubjectVal), (last(AtomSubjectVal, 's') -> format(string(AposSubjectVal), "~w'", [SubjectVal]); format(string(AposSubjectVal), "~w's", [SubjectVal])),
+    format(string(Question), "~w ~w ~w ~w?", [WhWord, AuxVerb, AposSubjectVal, EffectiveVerb]),
 
     /* Construct the answer string */
-    format(string(Answer), "~w's ~w ~w ~w.", [SubjectVal, EffectiveVerb, AuxVerb, CommaVariableArgVals]).
+    format(string(Answer), "~w ~w ~w ~w.", [AposSubjectVal, EffectiveVerb, AuxVerb, CommaVariableArgVals]).
 
 generate_predicate_qa(Predicate, Question, Answer) :- 
     predicate_bucket(Predicate, SubType),
