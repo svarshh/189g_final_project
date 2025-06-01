@@ -1,0 +1,2005 @@
+Question: which state do Kentucky, Michigan, and Ohio neighbor in common?
+LLM     : Kentucky, Michigan, and Ohio neighbor in common the state of Indiana.
+Correct : Kentucky, Michigan, and Ohio neighbor Indiana in common.
+
+Question: which state do Illinois, Missouri, and Nebraska neighbor in common?
+LLM     : Illinois, Missouri, and Nebraska neighbor the state of Iowa in common.
+Correct : Illinois, Missouri, and Nebraska neighbor Iowa in common.
+
+Question: which state do Kansas, Missouri, and Wyoming neighbor in common?
+LLM     : Kansas, Missouri, and Wyoming neighbor the state of Nebraska in common.
+Correct : Kansas, Missouri, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Minnesota, Missouri, and Nebraska neighbor in common?
+LLM     : Minnesota, Missouri, and Nebraska neighbor the state of Iowa in common.
+Correct : Minnesota, Missouri, and Nebraska neighbor Iowa in common.
+
+Question: which states do Arizona, New Mexico, and Wyoming neighbor in common?
+LLM     : Arizona neighbors New Mexico and Wyoming in common.
+Correct : Arizona, New Mexico, and Wyoming neighbor Colorado, and Utah in common.
+
+Question: which state do Connecticut, New Hampshire, and New York neighbor in common?
+LLM     : Connecticut, New Hampshire, and New York neighbor the state of Massachusetts in common.
+Correct : Connecticut, New Hampshire, and New York neighbor Massachusetts in common.
+
+Question: which state do North Dakota, South Dakota, and Wisconsin neighbor in common?
+LLM     : North Dakota, South Dakota, and Wisconsin neighbor Minnesota in common.
+Correct : North Dakota, South Dakota, and Wisconsin neighbor Minnesota in common.
+
+Question: which state do Arkansas, Kansas, and New Mexico neighbor in common?
+LLM     : Arkansas, Kansas, and New Mexico neighbor Oklahoma in common.
+Correct : Arkansas, Kansas, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do Arkansas, Oklahoma, and Tennessee neighbor in common?
+LLM     : Arkansas, Oklahoma, and Tennessee neighbor the state of Kentucky in common.
+Correct : Arkansas, Oklahoma, and Tennessee neighbor Missouri in common.
+
+Question: which state do Colorado, Texas, and Utah neighbor in common?
+LLM     : Colorado, Texas, and Utah neighbor the state of New Mexico in common.
+Correct : Colorado, Texas, and Utah neighbor New Mexico in common.
+
+Question: which state do Arizona, New Mexico, and Oklahoma neighbor in common?
+LLM     : Arizona, New Mexico, and Oklahoma neighbor the state of Texas in common.
+Correct : Arizona, New Mexico, and Oklahoma neighbor Colorado in common.
+
+Question: which state do Indiana, Minnesota, and Ohio neighbor in common?
+LLM     : Indiana, Minnesota, and Ohio neighbor in common the state of Michigan.
+Correct : Indiana, Minnesota, and Ohio neighbor Michigan in common.
+
+Question: which state do Nebraska, North Dakota, and Wyoming neighbor in common?
+LLM     : Nebraska, North Dakota, and Wyoming neighbor South Dakota in common.
+Correct : Nebraska, North Dakota, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Colorado, Iowa, and Missouri neighbor in common?
+LLM     : Colorado, Iowa, and Missouri neighbor Kansas in common.
+Correct : Colorado, Iowa, and Missouri neighbor Nebraska in common.
+
+Question: which state do Arizona, Oklahoma, and Wyoming neighbor in common?
+LLM     : Arizona, Oklahoma, and Wyoming neighbor the state of New Mexico in common.
+Correct : Arizona, Oklahoma, and Wyoming neighbor Colorado in common.
+
+Question: which state do Nevada, Oregon, and Wyoming neighbor in common?
+LLM     : Nevada, Oregon, and Wyoming neighbor Idaho in common.
+Correct : Nevada, Oregon, and Wyoming neighbor Idaho in common.
+
+Question: which state do Utah, Washington, and Wyoming neighbor in common?
+LLM     : Utah, Washington, and Wyoming neighbor Idaho in common.
+Correct : Utah, Washington, and Wyoming neighbor Idaho in common.
+
+Question: which state do Arizona, New Mexico, and Wyoming neighbor in common?
+LLM     : Arizona neighbors New Mexico and Wyoming in common.
+Correct : Arizona, New Mexico, and Wyoming neighbor Colorado, and Utah in common.
+
+Question: which state do Connecticut, New Jersey, and Pennsylvania neighbor in common?
+LLM     : Connecticut, New Jersey, and Pennsylvania neighbor in common the state of New York.
+Correct : Connecticut, New Jersey, and Pennsylvania neighbor New York in common.
+
+Question: which state do Montana, Nevada, and Oregon neighbor in common?
+LLM     : Montana neighbors Oregon in common.
+Correct : Montana, Nevada, and Oregon neighbor Idaho in common.
+
+Question: which state do Kentucky, Maryland, and Ohio neighbor in common?
+LLM     : Kentucky, Maryland, and Ohio neighbor the state of West Virginia in common.
+Correct : Kentucky, Maryland, and Ohio neighbor West Virginia in common.
+
+Question: which state do Colorado, Montana, and Nebraska neighbor in common?
+LLM     : Colorado, Montana, and Nebraska neighbor Wyoming in common.
+Correct : Colorado, Montana, and Nebraska neighbor Wyoming in common.
+
+Question: which state do Connecticut, New York, and Vermont neighbor in common?
+LLM     : Connecticut, New York, and Vermont neighbor in common the state of Massachusetts.
+Correct : Connecticut, New York, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Iowa, Kentucky, and Nebraska neighbor in common?
+LLM     : Iowa, Kentucky, and Nebraska neighbor the state of Missouri in common.
+Correct : Iowa, Kentucky, and Nebraska neighbor Missouri in common.
+
+Question: which state do Michigan, Missouri, and Wisconsin neighbor in common?
+LLM     : Michigan, Missouri, and Wisconsin neighbor Illinois in common.
+Correct : Michigan, Missouri, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Illinois, Iowa, and Oklahoma neighbor in common?
+LLM     : Illinois, Iowa, and Oklahoma neighbor Kansas in common.
+Correct : Illinois, Iowa, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Iowa, Minnesota, and Montana neighbor in common?
+LLM     : Iowa, Minnesota, and Montana neighbor the state of Wisconsin in common.
+Correct : Iowa, Minnesota, and Montana neighbor South Dakota in common.
+
+Question: which state do Illinois, Kentucky, and Michigan neighbor in common?
+LLM     : Illinois, Kentucky, and Michigan neighbor Indiana in common.
+Correct : Illinois, Kentucky, and Michigan neighbor Indiana in common.
+
+Question: which state do Montana, Nebraska, and North Dakota neighbor in common?
+LLM     : Montana, Nebraska, and North Dakota neighbor South Dakota in common.
+Correct : Montana, Nebraska, and North Dakota neighbor South Dakota in common.
+
+Question: which state do Kentucky, North Carolina, and West Virginia neighbor in common?
+LLM     : Kentucky, North Carolina, and West Virginia neighbor the state of Tennessee in common.
+Correct : Kentucky, North Carolina, and West Virginia neighbor Virginia in common.
+
+Question: which state do Colorado, Iowa, and Kansas neighbor in common?
+LLM     : Colorado, Iowa, and Kansas neighbor Nebraska in common.
+Correct : Colorado, Iowa, and Kansas neighbor Nebraska in common.
+
+Question: which state do Illinois, Missouri, and South Dakota neighbor in common?
+LLM     : Illinois, Missouri, and South Dakota neighbor in common the state of Iowa.
+Correct : Illinois, Missouri, and South Dakota neighbor Iowa in common.
+
+Question: which state do Colorado, Kansas, and New Mexico neighbor in common?
+LLM     : Colorado, Kansas, and New Mexico neighbor the state of Oklahoma in common.
+Correct : Colorado, Kansas, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do Arizona, California, and Idaho neighbor in common?
+LLM     : Arizona neighbors California and Idaho in common.
+Correct : Arizona, California, and Idaho neighbor Nevada in common.
+
+Question: which state do Idaho, Nevada, and New Mexico neighbor in common?
+LLM     : Idaho, Nevada, and New Mexico all neighbor Arizona in common.
+Correct : Idaho, Nevada, and New Mexico neighbor Utah in common.
+
+Question: which state do Maryland, New York, and West Virginia neighbor in common?
+LLM     : Maryland, New York, and West Virginia neighbor the state of Virginia in common.
+Correct : Maryland, New York, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Iowa, Montana, and Wyoming neighbor in common?
+LLM     : Iowa, Montana, and Wyoming neighbor the state of Nebraska in common.
+Correct : Iowa, Montana, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Illinois, Tennessee, and Virginia neighbor in common?
+LLM     : Illinois, Tennessee, and Virginia neighbor Kentucky in common.
+Correct : Illinois, Tennessee, and Virginia neighbor Kentucky in common.
+
+Question: which state do Kansas, Kentucky, and Oklahoma neighbor in common?
+LLM     : Kansas, Kentucky, and Oklahoma neighbor the state of Missouri in common.
+Correct : Kansas, Kentucky, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Florida, Georgia, and Mississippi neighbor in common?
+LLM     : Florida, Georgia, and Mississippi neighbor in common the state of Alabama.
+Correct : Florida, Georgia, and Mississippi neighbor Alabama in common.
+
+Question: which state do Colorado, Missouri, and Texas neighbor in common?
+LLM     : Colorado, Missouri, and Texas neighbor the state of Kansas in common.
+Correct : Colorado, Missouri, and Texas neighbor Oklahoma in common.
+
+Question: which state do Nevada, Washington, and Wyoming neighbor in common?
+LLM     : Nevada, Washington, and Wyoming neighbor Idaho in common.
+Correct : Nevada, Washington, and Wyoming neighbor Idaho in common.
+
+Question: which state do California, Idaho, and Utah neighbor in common?
+LLM     : California, Idaho, and Utah neighbor Arizona in common.
+Correct : California, Idaho, and Utah neighbor Nevada in common.
+
+Question: which state do Louisiana, Missouri, and Texas neighbor in common?
+LLM     : Louisiana, Missouri, and Texas neighbor Arkansas in common.
+Correct : Louisiana, Missouri, and Texas neighbor Arkansas in common.
+
+Question: which state do Alabama, Arkansas, and Virginia neighbor in common?
+LLM     : Alabama, Arkansas, and Virginia neighbor the state of Tennessee in common.
+Correct : Alabama, Arkansas, and Virginia neighbor Tennessee in common.
+
+Question: which state do Massachusetts, New York, and Rhode Island neighbor in common?
+LLM     : Massachusetts, New York, and Rhode Island neighbor Connecticut in common.
+Correct : Massachusetts, New York, and Rhode Island neighbor Connecticut in common.
+
+Question: which state do Iowa, Kansas, and Kentucky neighbor in common?
+LLM     : Iowa, Kansas, and Kentucky neighbor Missouri in common.
+Correct : Iowa, Kansas, and Kentucky neighbor Missouri in common.
+
+Question: which state are Mount Adams, Mount Baker, and Mount Saint Helens located in in common?
+LLM     : Mount Adams is located in Washington state, Mount Baker is located in Washington state, and Mount Saint Helens is located in Oregon state.
+Correct : Mount Adams, Mount Baker, and Mount Saint Helens located in Washington in common.
+
+Question: which state do Florida, South Carolina, and Tennessee neighbor in common?
+LLM     : Florida, South Carolina, and Tennessee neighbor in common the state of Georgia.
+Correct : Florida, South Carolina, and Tennessee neighbor Georgia in common.
+
+Question: which state do Missouri, Oklahoma, and Texas neighbor in common?
+LLM     : Missouri, Oklahoma, and Texas neighbor Arkansas in common.
+Correct : Missouri, Oklahoma, and Texas neighbor Arkansas in common.
+
+Question: which state do Arkansas, Mississippi, and Missouri neighbor in common?
+LLM     : Arkansas, Mississippi, and Missouri neighbor the state of Tennessee in common.
+Correct : Arkansas, Mississippi, and Missouri neighbor Tennessee in common.
+
+Question: which state do Delaware, New York, and Ohio neighbor in common?
+LLM     : Delaware, New York, and Ohio neighbor Pennsylvania in common.
+Correct : Delaware, New York, and Ohio neighbor Pennsylvania in common.
+
+Question: which state are Mount Adams, Mount Baker, and Mount Rainier located in in common?
+LLM     : Mount Adams is located in Washington state, Mount Baker is located in Washington state, and Mount Rainier is located in Washington state.
+Correct : Mount Adams, Mount Baker, and Mount Rainier located in Washington in common.
+
+Question: which state do Arizona, Texas, and Utah neighbor in common?
+LLM     : Arizona, Texas, and Utah neighbor New Mexico in common.
+Correct : Arizona, Texas, and Utah neighbor New Mexico in common.
+
+Question: which state do Missouri, South Dakota, and Wyoming neighbor in common?
+LLM     : Missouri, South Dakota, and Wyoming neighbor Nebraska in common.
+Correct : Missouri, South Dakota, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Connecticut, Massachusetts, and New Jersey neighbor in common?
+LLM     : Connecticut, Massachusetts, and New Jersey neighbor in common the state of New York.
+Correct : Connecticut, Massachusetts, and New Jersey neighbor New York in common.
+
+Question: which state do Iowa, Kansas, and Nebraska neighbor in common?
+LLM     : Iowa, Kansas, and Nebraska neighbor the state of Missouri in common.
+Correct : Iowa, Kansas, and Nebraska neighbor Missouri in common.
+
+Question: which state do Arizona, Oklahoma, and Texas neighbor in common?
+LLM     : Arizona, Oklahoma, and Texas neighbor the state of New Mexico in common.
+Correct : Arizona, Oklahoma, and Texas neighbor New Mexico in common.
+
+Question: which state do Illinois, Ohio, and West Virginia neighbor in common?
+LLM     : Illinois, Ohio, and West Virginia neighbor the state of Kentucky in common.
+Correct : Illinois, Ohio, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Colorado, Kansas, and Texas neighbor in common?
+LLM     : Colorado, Kansas, and Texas neighbor Oklahoma in common.
+Correct : Colorado, Kansas, and Texas neighbor Oklahoma in common.
+
+Question: which state do Arizona, Nebraska, and Utah neighbor in common?
+LLM     : Arizona, Nebraska, and Utah neighbor Colorado in common.
+Correct : Arizona, Nebraska, and Utah neighbor Colorado in common.
+
+Question: which state do Georgia, Kentucky, and Mississippi neighbor in common?
+LLM     : Georgia, Kentucky, and Mississippi neighbor in common the state of Alabama.
+Correct : Georgia, Kentucky, and Mississippi neighbor Tennessee in common.
+
+Question: which state are Mount Elbert, Mount Princeton, and Pikes Peak located in in common?
+LLM     : Mount Elbert, Mount Princeton, and Pikes Peak are located in common in Colorado.
+Correct : Mount Elbert, Mount Princeton, and Pikes Peak located in Colorado in common.
+
+Question: which state do Indiana, Tennessee, and Virginia neighbor in common?
+LLM     : Indiana, Tennessee, and Virginia neighbor in common the state of Kentucky.
+Correct : Indiana, Tennessee, and Virginia neighbor Kentucky in common.
+
+Question: which state do Mississippi, Tennessee, and Texas neighbor in common?
+LLM     : Mississippi, Tennessee, and Texas neighbor Arkansas in common.
+Correct : Mississippi, Tennessee, and Texas neighbor Arkansas in common.
+
+Question: which state do Nebraska, New Mexico, and Oklahoma neighbor in common?
+LLM     : Nebraska, New Mexico, and Oklahoma neighbor the state of Kansas in common.
+Correct : Nebraska, New Mexico, and Oklahoma neighbor Colorado in common.
+
+Question: which state do Montana, Oregon, and Utah neighbor in common?
+LLM     : Montana, Oregon, and Utah neighbor Washington in common.
+Correct : Montana, Oregon, and Utah neighbor Idaho in common.
+
+Question: which state do Kansas, Oklahoma, and Wyoming neighbor in common?
+LLM     : Kansas, Oklahoma, and Wyoming neighbor the state of Missouri in common.
+Correct : Kansas, Oklahoma, and Wyoming neighbor Colorado in common.
+
+Question: which state do Arizona, Kansas, and New Mexico neighbor in common?
+LLM     : Arizona neighbors Kansas and New Mexico in common.
+Correct : Arizona, Kansas, and New Mexico neighbor Colorado in common.
+
+Question: which state do Kentucky, Ohio, and Pennsylvania neighbor in common?
+LLM     : Kentucky, Ohio, and Pennsylvania neighbor in common the state of West Virginia.
+Correct : Kentucky, Ohio, and Pennsylvania neighbor West Virginia in common.
+
+Question: which state do Montana, North Dakota, and Wyoming neighbor in common?
+LLM     : Montana, North Dakota, and Wyoming neighbor the state of South Dakota in common.
+Correct : Montana, North Dakota, and Wyoming neighbor South Dakota in common.
+
+Question: which state do California, Oregon, and Utah neighbor in common?
+LLM     : California, Oregon, and Utah neighbor the state of Arizona in common.
+Correct : California, Oregon, and Utah neighbor Nevada in common.
+
+Question: which state do Arkansas, Missouri, and New Mexico neighbor in common?
+LLM     : Arkansas, Missouri, and New Mexico neighbor Oklahoma in common.
+Correct : Arkansas, Missouri, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do Kentucky, Missouri, and Virginia neighbor in common?
+LLM     : Kentucky, Missouri, and Virginia neighbor Tennessee in common.
+Correct : Kentucky, Missouri, and Virginia neighbor Tennessee in common.
+
+Question: which state do Illinois, Kentucky, and Tennessee neighbor in common?
+LLM     : Illinois, Kentucky, and Tennessee neighbor in common the state of Missouri.
+Correct : Illinois, Kentucky, and Tennessee neighbor Missouri in common.
+
+Question: which state do Illinois, Indiana, and Ohio neighbor in common?
+LLM     : Illinois, Indiana, and Ohio neighbor in common the state of Michigan.
+Correct : Illinois, Indiana, and Ohio neighbor Kentucky in common.
+
+Question: which state do Alabama, Arkansas, and Tennessee neighbor in common?
+LLM     : Alabama, Arkansas, and Tennessee neighbor the state of Kentucky in common.
+Correct : Alabama, Arkansas, and Tennessee neighbor Mississippi in common.
+
+Question: which state do Alabama, Kentucky, and Mississippi neighbor in common?
+LLM     : Alabama, Kentucky, and Mississippi neighbor Tennessee in common.
+Correct : Alabama, Kentucky, and Mississippi neighbor Tennessee in common.
+
+Question: which states do Arizona, Oklahoma, and Utah neighbor in common?
+LLM     : Arizona neighbors Oklahoma and Utah in common.
+Correct : Arizona, Oklahoma, and Utah neighbor Colorado, and New Mexico in common.
+
+Question: which state do Illinois, Michigan, and Ohio neighbor in common?
+LLM     : Illinois, Michigan, and Ohio neighbor in common the state of Indiana.
+Correct : Illinois, Michigan, and Ohio neighbor Indiana in common.
+
+Question: which state do Missouri, Oklahoma, and Tennessee neighbor in common?
+LLM     : Missouri, Oklahoma, and Tennessee neighbor Arkansas in common.
+Correct : Missouri, Oklahoma, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Alabama, Missouri, and North Carolina neighbor in common?
+LLM     : Alabama, Missouri, and North Carolina neighbor the state of Tennessee in common.
+Correct : Alabama, Missouri, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Alabama, Georgia, and Missouri neighbor in common?
+LLM     : Alabama, Georgia, and Missouri neighbor Tennessee in common.
+Correct : Alabama, Georgia, and Missouri neighbor Tennessee in common.
+
+Question: which state do Colorado, Missouri, and Nebraska neighbor in common?
+LLM     : Colorado, Missouri, and Nebraska neighbor the state of Kansas in common.
+Correct : Colorado, Missouri, and Nebraska neighbor Kansas in common.
+
+Question: which state do Michigan, North Dakota, and Wisconsin neighbor in common?
+LLM     : Michigan, North Dakota, and Wisconsin neighbor Minnesota in common.
+Correct : Michigan, North Dakota, and Wisconsin neighbor Minnesota in common.
+
+Question: which state do Iowa, Minnesota, and North Dakota neighbor in common?
+LLM     : Iowa, Minnesota, and North Dakota neighbor the state of South Dakota in common.
+Correct : Iowa, Minnesota, and North Dakota neighbor South Dakota in common.
+
+Question: which state do Arkansas, Illinois, and Oklahoma neighbor in common?
+LLM     : Arkansas, Illinois, and Oklahoma neighbor the state of Missouri in common.
+Correct : Arkansas, Illinois, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Connecticut, New Jersey, and Vermont neighbor in common?
+LLM     : Connecticut, New Jersey, and Vermont neighbor New York in common.
+Correct : Connecticut, New Jersey, and Vermont neighbor New York in common.
+
+Question: which state do Iowa, Michigan, and North Dakota neighbor in common?
+LLM     : Iowa, Michigan, and North Dakota neighbor the state of Minnesota in common.
+Correct : Iowa, Michigan, and North Dakota neighbor Minnesota in common.
+
+Question: which states do Colorado, Kansas, and Missouri neighbor in common?
+LLM     : Colorado neighbors Kansas and Missouri in common.
+Correct : Colorado, Kansas, and Missouri neighbor Nebraska, and Oklahoma in common.
+
+Question: which state do Colorado, New Mexico, and Texas neighbor in common?
+LLM     : Colorado, New Mexico, and Texas all neighbor the state of Arizona in common.
+Correct : Colorado, New Mexico, and Texas neighbor Oklahoma in common.
+
+Question: which state do Alabama, Louisiana, and Tennessee neighbor in common?
+LLM     : Alabama, Louisiana, and Tennessee neighbor the state of Mississippi in common.
+Correct : Alabama, Louisiana, and Tennessee neighbor Mississippi in common.
+
+Question: which state do Michigan, North Dakota, and South Dakota neighbor in common?
+LLM     : Michigan, North Dakota, and South Dakota neighbor Minnesota in common.
+Correct : Michigan, North Dakota, and South Dakota neighbor Minnesota in common.
+
+Question: which state do Arkansas, Louisiana, and New Mexico neighbor in common?
+LLM     : Arkansas, Louisiana, and New Mexico neighbor Texas in common.
+Correct : Arkansas, Louisiana, and New Mexico neighbor Texas in common.
+
+Question: which state do Idaho, Nevada, and Wyoming neighbor in common?
+LLM     : Idaho, Nevada, and Wyoming neighbor Montana in common.
+Correct : Idaho, Nevada, and Wyoming neighbor Utah in common.
+
+Question: which state do Montana, Nevada, and Wyoming neighbor in common?
+LLM     : Montana, Nevada, and Wyoming neighbor Idaho in common.
+Correct : Montana, Nevada, and Wyoming neighbor Idaho in common.
+
+Question: which state do Missouri, Ohio, and West Virginia neighbor in common?
+LLM     : Missouri, Ohio, and West Virginia neighbor the state of Kentucky in common.
+Correct : Missouri, Ohio, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Kentucky, Nebraska, and Tennessee neighbor in common?
+LLM     : Kentucky, Nebraska, and Tennessee neighbor the state of Missouri in common.
+Correct : Kentucky, Nebraska, and Tennessee neighbor Missouri in common.
+
+Question: which state do Louisiana, Missouri, and Oklahoma neighbor in common?
+LLM     : Louisiana, Missouri, and Oklahoma neighbor the state of Arkansas in common.
+Correct : Louisiana, Missouri, and Oklahoma neighbor Arkansas in common.
+
+Question: which state do Massachusetts, New Jersey, and Pennsylvania neighbor in common?
+LLM     : Massachusetts, New Jersey, and Pennsylvania neighbor Delaware in common.
+Correct : Massachusetts, New Jersey, and Pennsylvania neighbor New York in common.
+
+Question: which state do Nebraska, New Mexico, and Utah neighbor in common?
+LLM     : Nebraska, New Mexico, and Utah neighbor Colorado in common.
+Correct : Nebraska, New Mexico, and Utah neighbor Colorado in common.
+
+Question: which state do Colorado, Iowa, and South Dakota neighbor in common?
+LLM     : Colorado, Iowa, and South Dakota neighbor Nebraska in common.
+Correct : Colorado, Iowa, and South Dakota neighbor Nebraska in common.
+
+Question: which state do Kansas, Nebraska, and Oklahoma neighbor in common?
+LLM     : Kansas, Nebraska, and Oklahoma neighbor the state of Missouri in common.
+Correct : Kansas, Nebraska, and Oklahoma neighbor Colorado, and Missouri in common.
+
+Question: which state do Arizona, Nevada, and New Mexico neighbor in common?
+LLM     : Arizona, Nevada, and New Mexico neighbor the state of Texas in common.
+Correct : Arizona, Nevada, and New Mexico neighbor Utah in common.
+
+Question: which state do Mississippi, Missouri, and Oklahoma neighbor in common?
+LLM     : Mississippi, Missouri, and Oklahoma neighbor Arkansas in common.
+Correct : Mississippi, Missouri, and Oklahoma neighbor Arkansas in common.
+
+Question: which state do Minnesota, Montana, and South Dakota neighbor in common?
+LLM     : Minnesota, Montana, and South Dakota neighbor North Dakota in common.
+Correct : Minnesota, Montana, and South Dakota neighbor North Dakota in common.
+
+Question: which state do Connecticut, Massachusetts, and Pennsylvania neighbor in common?
+LLM     : Connecticut, Massachusetts, and Pennsylvania neighbor New York in common.
+Correct : Connecticut, Massachusetts, and Pennsylvania neighbor New York in common.
+
+Question: which state do Kentucky, North Carolina, and Virginia neighbor in common?
+LLM     : Kentucky, North Carolina, and Virginia neighbor the state of Tennessee in common.
+Correct : Kentucky, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do Florida, North Carolina, and Tennessee neighbor in common?
+LLM     : Florida, North Carolina, and Tennessee neighbor the state of Georgia in common.
+Correct : Florida, North Carolina, and Tennessee neighbor Georgia in common.
+
+Question: which state do Kansas, Missouri, and Texas neighbor in common?
+LLM     : Kansas, Missouri, and Texas neighbor the state of Oklahoma in common.
+Correct : Kansas, Missouri, and Texas neighbor Oklahoma in common.
+
+Question: which state do Colorado, Nebraska, and Oklahoma neighbor in common?
+LLM     : Colorado, Nebraska, and Oklahoma neighbor Kansas in common.
+Correct : Colorado, Nebraska, and Oklahoma neighbor Kansas in common.
+
+Question: which state do Mississippi, Missouri, and Tennessee neighbor in common?
+LLM     : Mississippi, Missouri, and Tennessee neighbor in common the state of Arkansas.
+Correct : Mississippi, Missouri, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Alabama, Kentucky, and North Carolina neighbor in common?
+LLM     : Alabama, Kentucky, and North Carolina neighbor South Carolina in common.
+Correct : Alabama, Kentucky, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Iowa, Minnesota, and Wyoming neighbor in common?
+LLM     : Iowa, Minnesota, and Wyoming neighbor the state of Nebraska in common.
+Correct : Iowa, Minnesota, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Illinois, Kansas, and Tennessee neighbor in common?
+LLM     : Illinois, Kansas, and Tennessee neighbor Missouri in common.
+Correct : Illinois, Kansas, and Tennessee neighbor Missouri in common.
+
+Question: which state do New Hampshire, Rhode Island, and Vermont neighbor in common?
+LLM     : New Hampshire, Rhode Island, and Vermont neighbor Massachusetts in common.
+Correct : New Hampshire, Rhode Island, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Indiana, Kentucky, and Michigan neighbor in common?
+LLM     : Indiana, Kentucky, and Michigan neighbor Ohio in common.
+Correct : Indiana, Kentucky, and Michigan neighbor Illinois, and Ohio in common.
+
+Question: which state do Colorado, Idaho, and Nevada neighbor in common?
+LLM     : Colorado, Idaho, and Nevada neighbor Utah in common.
+Correct : Colorado, Idaho, and Nevada neighbor Utah in common.
+
+Question: which state do Ohio, Tennessee, and Virginia neighbor in common?
+LLM     : Ohio, Tennessee, and Virginia neighbor the state of North Carolina in common.
+Correct : Ohio, Tennessee, and Virginia neighbor Kentucky in common.
+
+Question: which state do Alabama, Mississippi, and Virginia neighbor in common?
+LLM     : Alabama, Mississippi, and Virginia neighbor Tennessee in common.
+Correct : Alabama, Mississippi, and Virginia neighbor Tennessee in common.
+
+Question: which state do Arizona, New Mexico, and Utah neighbor in common?
+LLM     : Arizona, New Mexico, and Utah neighbor the state of Colorado in common.
+Correct : Arizona, New Mexico, and Utah neighbor Colorado in common.
+
+Question: which state do Indiana, Iowa, and Kentucky neighbor in common?
+LLM     : Indiana, Iowa, and Kentucky neighbor in common the state of Illinois.
+Correct : Indiana, Iowa, and Kentucky neighbor Illinois in common.
+
+Question: which state do Nebraska, Oklahoma, and Wyoming neighbor in common?
+LLM     : Nebraska, Oklahoma, and Wyoming neighbor Kansas in common.
+Correct : Nebraska, Oklahoma, and Wyoming neighbor Colorado in common.
+
+Question: which state do Missouri, Ohio, and Virginia neighbor in common?
+LLM     : Missouri, Ohio, and Virginia neighbor the state of Kentucky in common.
+Correct : Missouri, Ohio, and Virginia neighbor Kentucky in common.
+
+Question: which state do Arkansas, Georgia, and Mississippi neighbor in common?
+LLM     : Arkansas, Georgia, and Mississippi neighbor Alabama in common.
+Correct : Arkansas, Georgia, and Mississippi neighbor Tennessee in common.
+
+Question: which states do Kansas, Nebraska, and Oklahoma neighbor in common?
+LLM     : Kansas, Nebraska, and Oklahoma neighbor the state of Missouri in common.
+Correct : Kansas, Nebraska, and Oklahoma neighbor Colorado, and Missouri in common.
+
+Question: which state do Kansas, Missouri, and New Mexico neighbor in common?
+LLM     : Kansas, Missouri, and New Mexico neighbor the state of Oklahoma in common.
+Correct : Kansas, Missouri, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do New Hampshire, New York, and Rhode Island neighbor in common?
+LLM     : New Hampshire, New York, and Rhode Island neighbor Massachusetts in common.
+Correct : New Hampshire, New York, and Rhode Island neighbor Massachusetts in common.
+
+Question: which state do Mississippi, Oklahoma, and Texas neighbor in common?
+LLM     : Mississippi, Oklahoma, and Texas neighbor the state of Arkansas in common.
+Correct : Mississippi, Oklahoma, and Texas neighbor Arkansas in common.
+
+Question: which state are Mount Princeton, Pikes Peak, and San Juan Mountains located in in common?
+LLM     : Mount Princeton, Pikes Peak, and San Juan Mountains are located in Colorado in common.
+Correct : Mount Princeton, Pikes Peak, and San Juan Mountains located in Colorado in common.
+
+Question: which state do Nevada, New Mexico, and Wyoming neighbor in common?
+LLM     : Nevada, New Mexico, and Wyoming neighbor Utah in common.
+Correct : Nevada, New Mexico, and Wyoming neighbor Utah in common.
+
+Question: which state do Arkansas, Illinois, and Tennessee neighbor in common?
+LLM     : Arkansas, Illinois, and Tennessee neighbor Kentucky in common.
+Correct : Arkansas, Illinois, and Tennessee neighbor Missouri in common.
+
+Question: which state do Arizona, Kansas, and Oklahoma neighbor in common?
+LLM     : Arizona neighbors Kansas and Oklahoma in common.
+Correct : Arizona, Kansas, and Oklahoma neighbor Colorado in common.
+
+Question: which state do Delaware, New Jersey, and Ohio neighbor in common?
+LLM     : Delaware, New Jersey, and Ohio neighbor Pennsylvania in common.
+Correct : Delaware, New Jersey, and Ohio neighbor Pennsylvania in common.
+
+Question: which state do Iowa, Nebraska, and Oklahoma neighbor in common?
+LLM     : Iowa, Nebraska, and Oklahoma neighbor Kansas in common.
+Correct : Iowa, Nebraska, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Colorado, Nebraska, and South Dakota neighbor in common?
+LLM     : Colorado, Nebraska, and South Dakota neighbor the state of Wyoming in common.
+Correct : Colorado, Nebraska, and South Dakota neighbor Wyoming in common.
+
+Question: which state do Iowa, Montana, and North Dakota neighbor in common?
+LLM     : Iowa, Montana, and North Dakota all neighbor the state of South Dakota in common.
+Correct : Iowa, Montana, and North Dakota neighbor South Dakota in common.
+
+Question: which state do Maryland, North Carolina, and Tennessee neighbor in common?
+LLM     : Maryland, North Carolina, and Tennessee neighbor the state of Virginia in common.
+Correct : Maryland, North Carolina, and Tennessee neighbor Virginia in common.
+
+Question: which state do Illinois, Missouri, and Wisconsin neighbor in common?
+LLM     : Illinois, Missouri, and Wisconsin neighbor the state of Iowa in common.
+Correct : Illinois, Missouri, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Illinois, Missouri, and Tennessee neighbor in common?
+LLM     : Illinois, Missouri, and Tennessee neighbor in common the state of Kentucky.
+Correct : Illinois, Missouri, and Tennessee neighbor Kentucky in common.
+
+Question: which state do Indiana, Virginia, and West Virginia neighbor in common?
+LLM     : Indiana, Virginia, and West Virginia neighbor in common the state of Kentucky.
+Correct : Indiana, Virginia, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Iowa, Kentucky, and Tennessee neighbor in common?
+LLM     : Iowa, Kentucky, and Tennessee all neighbor the state of Missouri in common.
+Correct : Iowa, Kentucky, and Tennessee neighbor Missouri in common.
+
+Question: which state do Colorado, Kansas, and South Dakota neighbor in common?
+LLM     : Colorado, Kansas, and South Dakota neighbor Nebraska in common.
+Correct : Colorado, Kansas, and South Dakota neighbor Nebraska in common.
+
+Question: which state do California, Idaho, and Washington neighbor in common?
+LLM     : California, Idaho, and Washington all neighbor the state of Oregon in common.
+Correct : California, Idaho, and Washington neighbor Oregon in common.
+
+Question: which state do Minnesota, Nebraska, and Wisconsin neighbor in common?
+LLM     : Minnesota, Nebraska, and Wisconsin neighbor the state of Iowa in common.
+Correct : Minnesota, Nebraska, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Indiana, Michigan, and Missouri neighbor in common?
+LLM     : Indiana, Michigan, and Missouri neighbor the state of Illinois in common.
+Correct : Indiana, Michigan, and Missouri neighbor Illinois in common.
+
+Question: which state do Colorado, Idaho, and Montana neighbor in common?
+LLM     : Colorado, Idaho, and Montana neighbor Wyoming in common.
+Correct : Colorado, Idaho, and Montana neighbor Wyoming in common.
+
+Question: which state do Colorado, Missouri, and Wyoming neighbor in common?
+LLM     : Colorado, Missouri, and Wyoming neighbor Kansas in common.
+Correct : Colorado, Missouri, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Iowa, Kentucky, and Michigan neighbor in common?
+LLM     : Iowa, Kentucky, and Michigan neighbor the state of Indiana in common.
+Correct : Iowa, Kentucky, and Michigan neighbor Illinois in common.
+
+Question: which state do Illinois, Kansas, and Oklahoma neighbor in common?
+LLM     : Illinois, Kansas, and Oklahoma neighbor Missouri in common.
+Correct : Illinois, Kansas, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Georgia, Missouri, and North Carolina neighbor in common?
+LLM     : Georgia, Missouri, and North Carolina neighbor Tennessee in common.
+Correct : Georgia, Missouri, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Kansas, Nebraska, and New Mexico neighbor in common?
+LLM     : Kansas, Nebraska, and New Mexico neighbor the state of Oklahoma in common.
+Correct : Kansas, Nebraska, and New Mexico neighbor Colorado in common.
+
+Question: which state do Idaho, Montana, and Utah neighbor in common?
+LLM     : Idaho, Montana, and Utah neighbor Wyoming in common.
+Correct : Idaho, Montana, and Utah neighbor Wyoming in common.
+
+Question: which state do Montana, Utah, and Washington neighbor in common?
+LLM     : Montana, Utah, and Washington neighbor the state of Idaho in common.
+Correct : Montana, Utah, and Washington neighbor Idaho in common.
+
+Question: which state do Minnesota, Montana, and Nebraska neighbor in common?
+LLM     : Minnesota, Montana, and Nebraska neighbor the state of South Dakota in common.
+Correct : Minnesota, Montana, and Nebraska neighbor South Dakota in common.
+
+Question: which state do Alabama, Mississippi, and North Carolina neighbor in common?
+LLM     : Alabama, Mississippi, and North Carolina neighbor in common the state of South Carolina.
+Correct : Alabama, Mississippi, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Arkansas, Kentucky, and North Carolina neighbor in common?
+LLM     : Arkansas, Kentucky, and North Carolina neighbor Tennessee in common.
+Correct : Arkansas, Kentucky, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Arkansas, Nebraska, and Tennessee neighbor in common?
+LLM     : Arkansas, Nebraska, and Tennessee neighbor the state of Missouri in common.
+Correct : Arkansas, Nebraska, and Tennessee neighbor Missouri in common.
+
+Question: which state do Kansas, New Mexico, and Utah neighbor in common?
+LLM     : Kansas, New Mexico, and Utah neighbor the state of Colorado in common.
+Correct : Kansas, New Mexico, and Utah neighbor Colorado in common.
+
+Question: which state do Nebraska, Oklahoma, and Utah neighbor in common?
+LLM     : Nebraska, Oklahoma, and Utah neighbor Kansas in common.
+Correct : Nebraska, Oklahoma, and Utah neighbor Colorado in common.
+
+Question: which state do Montana, Nevada, and Utah neighbor in common?
+LLM     : Montana, Nevada, and Utah neighbor Arizona in common.
+Correct : Montana, Nevada, and Utah neighbor Idaho in common.
+
+Question: which state do Missouri, Ohio, and Tennessee neighbor in common?
+LLM     : Missouri, Ohio, and Tennessee neighbor in common the state of Arkansas.
+Correct : Missouri, Ohio, and Tennessee neighbor Kentucky in common.
+
+Question: which state do Colorado, Nevada, and New Mexico neighbor in common?
+LLM     : Colorado, Nevada, and New Mexico neighbor Arizona in common.
+Correct : Colorado, Nevada, and New Mexico neighbor Arizona, and Utah in common.
+
+Question: which state do New Jersey, New York, and West Virginia neighbor in common?
+LLM     : New Jersey, New York, and West Virginia neighbor the state of Pennsylvania in common.
+Correct : New Jersey, New York, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Nevada, Oregon, and Washington neighbor in common?
+LLM     : Nevada, Oregon, and Washington all neighbor the state of California in common.
+Correct : Nevada, Oregon, and Washington neighbor Idaho in common.
+
+Question: which state do Indiana, Ohio, and Wisconsin neighbor in common?
+LLM     : Indiana, Ohio, and Wisconsin neighbor in common the state of Michigan.
+Correct : Indiana, Ohio, and Wisconsin neighbor Michigan in common.
+
+Question: which state do Illinois, Iowa, and Kentucky neighbor in common?
+LLM     : Illinois, Iowa, and Kentucky neighbor Indiana in common.
+Correct : Illinois, Iowa, and Kentucky neighbor Missouri in common.
+
+Question: which state do New Jersey, Ohio, and West Virginia neighbor in common?
+LLM     : New Jersey, Ohio, and West Virginia neighbor Pennsylvania in common.
+Correct : New Jersey, Ohio, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Arizona, Idaho, and New Mexico neighbor in common?
+LLM     : Arizona, Idaho, and New Mexico neighbor the state of Colorado in common.
+Correct : Arizona, Idaho, and New Mexico neighbor Utah in common.
+
+Question: which state do Illinois, Ohio, and Virginia neighbor in common?
+LLM     : Illinois, Ohio, and Virginia neighbor the state of West Virginia in common.
+Correct : Illinois, Ohio, and Virginia neighbor Kentucky in common.
+
+Question: which state do Illinois, Indiana, and Missouri neighbor in common?
+LLM     : Illinois, Indiana, and Missouri neighbor in common the state of Kentucky.
+Correct : Illinois, Indiana, and Missouri neighbor Kentucky in common.
+
+Question: which state do Nebraska, Oklahoma, and Tennessee neighbor in common?
+LLM     : Nebraska, Oklahoma, and Tennessee neighbor Arkansas in common.
+Correct : Nebraska, Oklahoma, and Tennessee neighbor Missouri in common.
+
+Question: which state do Minnesota, Nebraska, and North Dakota neighbor in common?
+LLM     : Minnesota, Nebraska, and North Dakota neighbor the state of South Dakota in common.
+Correct : Minnesota, Nebraska, and North Dakota neighbor South Dakota in common.
+
+Question: which state do Minnesota, Montana, and Wyoming neighbor in common?
+LLM     : Minnesota, Montana, and Wyoming neighbor the state of North Dakota in common.
+Correct : Minnesota, Montana, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Missouri, Tennessee, and West Virginia neighbor in common?
+LLM     : Missouri, Tennessee, and West Virginia neighbor the state of Kentucky in common.
+Correct : Missouri, Tennessee, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Indiana, Ohio, and West Virginia neighbor in common?
+LLM     : Indiana, Ohio, and West Virginia neighbor Kentucky in common.
+Correct : Indiana, Ohio, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Kentucky, Maryland, and North Carolina neighbor in common?
+LLM     : Kentucky, Maryland, and North Carolina neighbor the state of Virginia in common.
+Correct : Kentucky, Maryland, and North Carolina neighbor Virginia in common.
+
+Question: which state do Colorado, Missouri, and South Dakota neighbor in common?
+LLM     : Colorado, Missouri, and South Dakota neighbor Nebraska in common.
+Correct : Colorado, Missouri, and South Dakota neighbor Nebraska in common.
+
+Question: which state do Maryland, New Jersey, and West Virginia neighbor in common?
+LLM     : Maryland, New Jersey, and West Virginia neighbor the state of Virginia in common.
+Correct : Maryland, New Jersey, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Alabama, Kentucky, and Missouri neighbor in common?
+LLM     : Alabama, Kentucky, and Missouri neighbor in common the state of Tennessee.
+Correct : Alabama, Kentucky, and Missouri neighbor Tennessee in common.
+
+Question: which state do Louisiana, Oklahoma, and Texas neighbor in common?
+LLM     : Louisiana, Oklahoma, and Texas neighbor Arkansas in common.
+Correct : Louisiana, Oklahoma, and Texas neighbor Arkansas in common.
+
+Question: which state are Mount Baldy, Mount Shasta, and Mount Whitney located in in common?
+LLM     : Mount Baldy, Mount Shasta, and Mount Whitney are located in the state of California in common.
+Correct : Mount Baldy, Mount Shasta, and Mount Whitney located in California in common.
+
+Question: which state do Alabama, Florida, and North Carolina neighbor in common?
+LLM     : Alabama, Florida, and North Carolina neighbor the state of Georgia in common.
+Correct : Alabama, Florida, and North Carolina neighbor Georgia in common.
+
+Question: which state do Arkansas, Kansas, and Missouri neighbor in common?
+LLM     : Arkansas, Kansas, and Missouri neighbor in common the state of Oklahoma.
+Correct : Arkansas, Kansas, and Missouri neighbor Oklahoma in common.
+
+Question: which state do Idaho, South Dakota, and Utah neighbor in common?
+LLM     : Idaho, South Dakota, and Utah neighbor Wyoming in common.
+Correct : Idaho, South Dakota, and Utah neighbor Wyoming in common.
+
+Question: which state do Minnesota, North Dakota, and Wyoming neighbor in common?
+LLM     : Minnesota, North Dakota, and Wyoming neighbor the state of Montana in common.
+Correct : Minnesota, North Dakota, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Illinois, Ohio, and Tennessee neighbor in common?
+LLM     : Illinois, Ohio, and Tennessee neighbor Kentucky in common.
+Correct : Illinois, Ohio, and Tennessee neighbor Kentucky in common.
+
+Question: which state do Alabama, Missouri, and Virginia neighbor in common?
+LLM     : Alabama, Missouri, and Virginia neighbor Tennessee in common.
+Correct : Alabama, Missouri, and Virginia neighbor Tennessee in common.
+
+Question: which state do Iowa, Montana, and Nebraska neighbor in common?
+LLM     : Iowa, Montana, and Nebraska neighbor the state of South Dakota in common.
+Correct : Iowa, Montana, and Nebraska neighbor South Dakota in common.
+
+Question: which state do Arkansas, North Carolina, and Virginia neighbor in common?
+LLM     : Arkansas, North Carolina, and Virginia neighbor the state of Tennessee in common.
+Correct : Arkansas, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do Colorado, New Mexico, and Utah neighbor in common?
+LLM     : Colorado, New Mexico, and Utah neighbor the state of Arizona in common.
+Correct : Colorado, New Mexico, and Utah neighbor Arizona in common.
+
+Question: which state do California, Nevada, and New Mexico neighbor in common?
+LLM     : California, Nevada, and New Mexico neighbor Arizona in common.
+Correct : California, Nevada, and New Mexico neighbor Arizona in common.
+
+Question: which state do Arizona, Colorado, and Nevada neighbor in common?
+LLM     : Arizona, Colorado, and Nevada neighbor Utah in common.
+Correct : Arizona, Colorado, and Nevada neighbor Utah in common.
+
+Question: which state do Georgia, Mississippi, and Tennessee neighbor in common?
+LLM     : Georgia, Mississippi, and Tennessee neighbor the state of Alabama in common.
+Correct : Georgia, Mississippi, and Tennessee neighbor Alabama in common.
+
+Question: which state do Illinois, Virginia, and West Virginia neighbor in common?
+LLM     : Illinois, Virginia, and West Virginia neighbor the state of Kentucky in common.
+Correct : Illinois, Virginia, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Missouri, South Dakota, and Wisconsin neighbor in common?
+LLM     : Missouri, South Dakota, and Wisconsin neighbor the state of Iowa in common.
+Correct : Missouri, South Dakota, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Maryland, Ohio, and Pennsylvania neighbor in common?
+LLM     : Maryland, Ohio, and Pennsylvania neighbor in common the state of Delaware.
+Correct : Maryland, Ohio, and Pennsylvania neighbor West Virginia in common.
+
+Question: which state do Arkansas, Mississippi, and Virginia neighbor in common?
+LLM     : Arkansas, Mississippi, and Virginia neighbor Tennessee in common.
+Correct : Arkansas, Mississippi, and Virginia neighbor Tennessee in common.
+
+Question: which state do New Mexico, Utah, and Wyoming neighbor in common?
+LLM     : New Mexico, Utah, and Wyoming neighbor Colorado in common.
+Correct : New Mexico, Utah, and Wyoming neighbor Colorado in common.
+
+Question: which state do Kentucky, Ohio, and Virginia neighbor in common?
+LLM     : Kentucky, Ohio, and Virginia neighbor in common the state of West Virginia.
+Correct : Kentucky, Ohio, and Virginia neighbor West Virginia in common.
+
+Question: which state do Arkansas, Kansas, and Tennessee neighbor in common?
+LLM     : Arkansas, Kansas, and Tennessee neighbor Missouri in common.
+Correct : Arkansas, Kansas, and Tennessee neighbor Missouri in common.
+
+Question: which state do Nebraska, Utah, and Wyoming neighbor in common?
+LLM     : Nebraska, Utah, and Wyoming neighbor Colorado in common.
+Correct : Nebraska, Utah, and Wyoming neighbor Colorado in common.
+
+Question: which state do Iowa, Kansas, and Tennessee neighbor in common?
+LLM     : Iowa, Kansas, and Tennessee neighbor the state of Missouri in common.
+Correct : Iowa, Kansas, and Tennessee neighbor Missouri in common.
+
+Question: which state do Mississippi, Missouri, and Texas neighbor in common?
+LLM     : Mississippi, Missouri, and Texas neighbor the state of Arkansas in common.
+Correct : Mississippi, Missouri, and Texas neighbor Arkansas in common.
+
+Question: which state do Idaho, Nebraska, and South Dakota neighbor in common?
+LLM     : Idaho, Nebraska, and South Dakota neighbor Montana in common.
+Correct : Idaho, Nebraska, and South Dakota neighbor Wyoming in common.
+
+Question: which state do Maryland, North Carolina, and West Virginia neighbor in common?
+LLM     : Maryland, North Carolina, and West Virginia neighbor the state of Virginia in common.
+Correct : Maryland, North Carolina, and West Virginia neighbor Virginia in common.
+
+Question: which state do Colorado, Iowa, and Wyoming neighbor in common?
+LLM     : Colorado, Iowa, and Wyoming all neighbor Nebraska in common.
+Correct : Colorado, Iowa, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Missouri, Nebraska, and Oklahoma neighbor in common?
+LLM     : Missouri, Nebraska, and Oklahoma neighbor Kansas in common.
+Correct : Missouri, Nebraska, and Oklahoma neighbor Kansas in common.
+
+Question: which state do Missouri, Virginia, and West Virginia neighbor in common?
+LLM     : Missouri, Virginia, and West Virginia neighbor the state of Tennessee in common.
+Correct : Missouri, Virginia, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Nebraska, South Dakota, and Wisconsin neighbor in common?
+LLM     : Nebraska, South Dakota, and Wisconsin neighbor the state of Minnesota in common.
+Correct : Nebraska, South Dakota, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Arizona, Nevada, and Wyoming neighbor in common?
+LLM     : Arizona, Nevada, and Wyoming neighbor Utah in common.
+Correct : Arizona, Nevada, and Wyoming neighbor Utah in common.
+
+Question: which state do Arizona, Kansas, and Wyoming neighbor in common?
+LLM     : Arizona neighbors Kansas and Wyoming in common.
+Correct : Arizona, Kansas, and Wyoming neighbor Colorado in common.
+
+Question: which state do Kentucky, Maryland, and Tennessee neighbor in common?
+LLM     : Kentucky, Maryland, and Tennessee neighbor the state of Virginia in common.
+Correct : Kentucky, Maryland, and Tennessee neighbor Virginia in common.
+
+Question: which state do Tennessee, Virginia, and West Virginia neighbor in common?
+LLM     : Tennessee, Virginia, and West Virginia neighbor in common the state of Kentucky.
+Correct : Tennessee, Virginia, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Kansas, Nebraska, and Wyoming neighbor in common?
+LLM     : Kansas, Nebraska, and Wyoming neighbor the state of Colorado in common.
+Correct : Kansas, Nebraska, and Wyoming neighbor Colorado in common.
+
+Question: which state do Alabama, North Carolina, and South Carolina neighbor in common?
+LLM     : Alabama, North Carolina, and South Carolina neighbor in common the state of Georgia.
+Correct : Alabama, North Carolina, and South Carolina neighbor Georgia in common.
+
+Question: which state do Georgia, Kentucky, and Missouri neighbor in common?
+LLM     : Georgia, Kentucky, and Missouri neighbor Tennessee in common.
+Correct : Georgia, Kentucky, and Missouri neighbor Tennessee in common.
+
+Question: which state do Alabama, Georgia, and Mississippi neighbor in common?
+LLM     : Alabama, Georgia, and Mississippi neighbor in common the state of Florida.
+Correct : Alabama, Georgia, and Mississippi neighbor Tennessee in common.
+
+Question: which state do Arizona, Oregon, and Utah neighbor in common?
+LLM     : Arizona, Oregon, and Utah neighbor the state of Nevada in common.
+Correct : Arizona, Oregon, and Utah neighbor Nevada in common.
+
+Question: which state do Iowa, Missouri, and Wyoming neighbor in common?
+LLM     : Iowa, Missouri, and Wyoming neighbor Nebraska in common.
+Correct : Iowa, Missouri, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Montana, Utah, and Wyoming neighbor in common?
+LLM     : Montana, Utah, and Wyoming neighbor Idaho in common.
+Correct : Montana, Utah, and Wyoming neighbor Idaho in common.
+
+Question: which state do Indiana, Kentucky, and Missouri neighbor in common?
+LLM     : Indiana, Kentucky, and Missouri neighbor the state of Illinois in common.
+Correct : Indiana, Kentucky, and Missouri neighbor Illinois in common.
+
+Question: which state do Arkansas, Kansas, and Nebraska neighbor in common?
+LLM     : Arkansas, Kansas, and Nebraska neighbor the state of Missouri in common.
+Correct : Arkansas, Kansas, and Nebraska neighbor Missouri in common.
+
+Question: which state do Georgia, Mississippi, and Missouri neighbor in common?
+LLM     : Georgia, Mississippi, and Missouri neighbor the state of Arkansas in common.
+Correct : Georgia, Mississippi, and Missouri neighbor Tennessee in common.
+
+Question: which state do New York, Rhode Island, and Vermont neighbor in common?
+LLM     : New York, Rhode Island, and Vermont neighbor Massachusetts in common.
+Correct : New York, Rhode Island, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Florida, Georgia, and Tennessee neighbor in common?
+LLM     : Florida, Georgia, and Tennessee neighbor in common the state of Alabama.
+Correct : Florida, Georgia, and Tennessee neighbor Alabama in common.
+
+Question: which state do Georgia, South Carolina, and Virginia neighbor in common?
+LLM     : Georgia, South Carolina, and Virginia neighbor in common the state of North Carolina.
+Correct : Georgia, South Carolina, and Virginia neighbor North Carolina in common.
+
+Question: which state do Arizona, Idaho, and Nevada neighbor in common?
+LLM     : Arizona, Idaho, and Nevada neighbor Utah in common.
+Correct : Arizona, Idaho, and Nevada neighbor Utah in common.
+
+Question: which state do Iowa, Kentucky, and Wisconsin neighbor in common?
+LLM     : Iowa, Kentucky, and Wisconsin neighbor the state of Illinois in common.
+Correct : Iowa, Kentucky, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Alabama, South Carolina, and Tennessee neighbor in common?
+LLM     : Alabama, South Carolina, and Tennessee neighbor in common the state of Georgia.
+Correct : Alabama, South Carolina, and Tennessee neighbor Georgia in common.
+
+Question: which state do New Mexico, Oklahoma, and Utah neighbor in common?
+LLM     : New Mexico, Oklahoma, and Utah neighbor the state of Texas in common.
+Correct : New Mexico, Oklahoma, and Utah neighbor Colorado in common.
+
+Question: which state do Alabama, Florida, and Tennessee neighbor in common?
+LLM     : Alabama, Florida, and Tennessee neighbor Georgia in common.
+Correct : Alabama, Florida, and Tennessee neighbor Georgia in common.
+
+Question: which state do Alabama, North Carolina, and Virginia neighbor in common?
+LLM     : Alabama, North Carolina, and Virginia neighbor the state of Tennessee in common.
+Correct : Alabama, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do North Carolina, South Carolina, and Tennessee neighbor in common?
+LLM     : North Carolina, South Carolina, and Tennessee neighbor in common the state of Georgia.
+Correct : North Carolina, South Carolina, and Tennessee neighbor Georgia in common.
+
+Question: which state do Alabama, Georgia, and North Carolina neighbor in common?
+LLM     : Alabama neighbors Georgia and North Carolina in common.
+Correct : Alabama, Georgia, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Georgia, North Carolina, and Virginia neighbor in common?
+LLM     : Georgia, North Carolina, and Virginia neighbor the state of South Carolina in common.
+Correct : Georgia, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do Arkansas, Colorado, and Texas neighbor in common?
+LLM     : Arkansas, Colorado, and Texas neighbor the state of New Mexico in common.
+Correct : Arkansas, Colorado, and Texas neighbor Oklahoma in common.
+
+Question: which state do Kansas, South Dakota, and Wyoming neighbor in common?
+LLM     : Kansas, South Dakota, and Wyoming neighbor Nebraska in common.
+Correct : Kansas, South Dakota, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Arizona, Kansas, and Utah neighbor in common?
+LLM     : Arizona, Kansas, and Utah neighbor Colorado in common.
+Correct : Arizona, Kansas, and Utah neighbor Colorado in common.
+
+Question: which state do Maryland, Pennsylvania, and Virginia neighbor in common?
+LLM     : Maryland, Pennsylvania, and Virginia neighbor the state of West Virginia in common.
+Correct : Maryland, Pennsylvania, and Virginia neighbor West Virginia in common.
+
+Question: which state do Idaho, Montana, and Nebraska neighbor in common?
+LLM     : Idaho, Montana, and Nebraska neighbor Wyoming in common.
+Correct : Idaho, Montana, and Nebraska neighbor Wyoming in common.
+
+Question: which state do Louisiana, Mississippi, and Texas neighbor in common?
+LLM     : Louisiana, Mississippi, and Texas neighbor the state of Arkansas in common.
+Correct : Louisiana, Mississippi, and Texas neighbor Arkansas in common.
+
+Question: which state do Colorado, Idaho, and Wyoming neighbor in common?
+LLM     : Colorado, Idaho, and Wyoming neighbor the state of Montana in common.
+Correct : Colorado, Idaho, and Wyoming neighbor Utah in common.
+
+Question: which state do Indiana, Missouri, and Tennessee neighbor in common?
+LLM     : Indiana, Missouri, and Tennessee neighbor Kentucky in common.
+Correct : Indiana, Missouri, and Tennessee neighbor Kentucky in common.
+
+Question: which state do Georgia, Missouri, and Virginia neighbor in common?
+LLM     : Georgia, Missouri, and Virginia neighbor Tennessee in common.
+Correct : Georgia, Missouri, and Virginia neighbor Tennessee in common.
+
+Question: which state do Arkansas, Kentucky, and Nebraska neighbor in common?
+LLM     : Arkansas, Kentucky, and Nebraska neighbor the state of Missouri in common.
+Correct : Arkansas, Kentucky, and Nebraska neighbor Missouri in common.
+
+Question: which state do Arkansas, Iowa, and Tennessee neighbor in common?
+LLM     : Arkansas, Iowa, and Tennessee neighbor the state of Missouri in common.
+Correct : Arkansas, Iowa, and Tennessee neighbor Missouri in common.
+
+Question: which state are Mount Baker, Mount Rainier, and Mount Saint Helens located in in common?
+LLM     : Mount Baker, Mount Rainier, and Mount Saint Helens are located in the state of Washington in common.
+Correct : Mount Baker, Mount Rainier, and Mount Saint Helens located in Washington in common.
+
+Question: which state do Massachusetts, New Jersey, and Vermont neighbor in common?
+LLM     : Massachusetts, New Jersey, and Vermont neighbor the state of New York in common.
+Correct : Massachusetts, New Jersey, and Vermont neighbor New York in common.
+
+Question: which state do Iowa, Kansas, and Missouri neighbor in common?
+LLM     : Iowa, Kansas, and Missouri neighbor in common the state of Nebraska.
+Correct : Iowa, Kansas, and Missouri neighbor Nebraska in common.
+
+Question: which state do Maryland, New Jersey, and New York neighbor in common?
+LLM     : Maryland, New Jersey, and New York neighbor the state of Pennsylvania in common.
+Correct : Maryland, New Jersey, and New York neighbor Pennsylvania in common.
+
+Question: which state do Iowa, Nebraska, and North Dakota neighbor in common?
+LLM     : Iowa, Nebraska, and North Dakota neighbor South Dakota in common.
+Correct : Iowa, Nebraska, and North Dakota neighbor South Dakota in common.
+
+Question: which state do California, Nevada, and Utah neighbor in common?
+LLM     : California, Nevada, and Utah neighbor Arizona in common.
+Correct : California, Nevada, and Utah neighbor Arizona in common.
+
+Question: which state do Connecticut, New Hampshire, and Vermont neighbor in common?
+LLM     : Connecticut, New Hampshire, and Vermont neighbor Massachusetts in common.
+Correct : Connecticut, New Hampshire, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Maryland, New Jersey, and Pennsylvania neighbor in common?
+LLM     : Maryland, New Jersey, and Pennsylvania neighbor in common the state of Delaware.
+Correct : Maryland, New Jersey, and Pennsylvania neighbor Delaware in common.
+
+Question: which state do Iowa, Missouri, and Wisconsin neighbor in common?
+LLM     : Iowa, Missouri, and Wisconsin neighbor the state of Illinois in common.
+Correct : Iowa, Missouri, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Iowa, Minnesota, and Nebraska neighbor in common?
+LLM     : Iowa, Minnesota, and Nebraska neighbor the state of South Dakota in common.
+Correct : Iowa, Minnesota, and Nebraska neighbor South Dakota in common.
+
+Question: which state do Arizona, Oklahoma, and Utah neighbor in common?
+LLM     : Arizona, Oklahoma, and Utah neighbor the state of New Mexico in common.
+Correct : Arizona, Oklahoma, and Utah neighbor Colorado, and New Mexico in common.
+
+Question: which state do Michigan, Pennsylvania, and West Virginia neighbor in common?
+LLM     : Michigan, Pennsylvania, and West Virginia neighbor the state of Ohio in common.
+Correct : Michigan, Pennsylvania, and West Virginia neighbor Ohio in common.
+
+Question: which state do Kansas, Utah, and Wyoming neighbor in common?
+LLM     : Kansas, Utah, and Wyoming neighbor Colorado in common.
+Correct : Kansas, Utah, and Wyoming neighbor Colorado in common.
+
+Question: which state do Indiana, Iowa, and Wisconsin neighbor in common?
+LLM     : Indiana, Iowa, and Wisconsin neighbor the state of Illinois in common.
+Correct : Indiana, Iowa, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Montana, Nevada, and Washington neighbor in common?
+LLM     : Montana neighbors Washington in common, while Nevada neighbors both Montana and Washington.
+Correct : Montana, Nevada, and Washington neighbor Idaho in common.
+
+Question: which state do Arkansas, Illinois, and Kentucky neighbor in common?
+LLM     : Arkansas, Illinois, and Kentucky neighbor Tennessee in common.
+Correct : Arkansas, Illinois, and Kentucky neighbor Missouri in common.
+
+Question: which state are Mount Elbert, Mount Princeton, and San Juan Mountains located in in common?
+LLM     : Mount Elbert, Mount Princeton, and San Juan Mountains are located in Colorado in common.
+Correct : Mount Elbert, Mount Princeton, and San Juan Mountains located in Colorado in common.
+
+Question: which state do Ohio, Pennsylvania, and Virginia neighbor in common?
+LLM     : Ohio, Pennsylvania, and Virginia neighbor in common the state of West Virginia.
+Correct : Ohio, Pennsylvania, and Virginia neighbor West Virginia in common.
+
+Question: which state do Nevada, New Mexico, and Utah neighbor in common?
+LLM     : Nevada, New Mexico, and Utah neighbor Arizona in common.
+Correct : Nevada, New Mexico, and Utah neighbor Arizona in common.
+
+Question: which state do Kentucky, Mississippi, and Missouri neighbor in common?
+LLM     : Kentucky, Mississippi, and Missouri neighbor the state of Tennessee in common.
+Correct : Kentucky, Mississippi, and Missouri neighbor Tennessee in common.
+
+Question: which state do Illinois, Kentucky, and Ohio neighbor in common?
+LLM     : Illinois, Kentucky, and Ohio neighbor in common the state of Indiana.
+Correct : Illinois, Kentucky, and Ohio neighbor Indiana in common.
+
+Question: which state do Indiana, Iowa, and Michigan neighbor in common?
+LLM     : Indiana, Iowa, and Michigan neighbor the state of Illinois in common.
+Correct : Indiana, Iowa, and Michigan neighbor Illinois in common.
+
+Question: which state do Arizona, Colorado, and Idaho neighbor in common?
+LLM     : Arizona, Colorado, and Idaho neighbor Wyoming in common.
+Correct : Arizona, Colorado, and Idaho neighbor Utah in common.
+
+Question: which state do Colorado, Montana, and Utah neighbor in common?
+LLM     : Colorado, Montana, and Utah neighbor Wyoming in common.
+Correct : Colorado, Montana, and Utah neighbor Wyoming in common.
+
+Question: which state do Kentucky, Pennsylvania, and West Virginia neighbor in common?
+LLM     : Kentucky, Pennsylvania, and West Virginia neighbor the state of Ohio in common.
+Correct : Kentucky, Pennsylvania, and West Virginia neighbor Ohio in common.
+
+Question: which state do Minnesota, Nebraska, and South Dakota neighbor in common?
+LLM     : Minnesota, Nebraska, and South Dakota all neighbor the state of North Dakota in common.
+Correct : Minnesota, Nebraska, and South Dakota neighbor Iowa in common.
+
+Question: which state do Arizona, Colorado, and Oklahoma neighbor in common?
+LLM     : Arizona neighbors Colorado and Oklahoma in common.
+Correct : Arizona, Colorado, and Oklahoma neighbor New Mexico in common.
+
+Question: which state do Connecticut, Rhode Island, and Vermont neighbor in common?
+LLM     : Connecticut, Rhode Island, and Vermont neighbor New York in common.
+Correct : Connecticut, Rhode Island, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Connecticut, New York, and Rhode Island neighbor in common?
+LLM     : Connecticut, New York, and Rhode Island neighbor the state of Massachusetts in common.
+Correct : Connecticut, New York, and Rhode Island neighbor Massachusetts in common.
+
+Question: which state do Colorado, Nevada, and Utah neighbor in common?
+LLM     : Colorado, Nevada, and Utah neighbor Arizona in common.
+Correct : Colorado, Nevada, and Utah neighbor Arizona in common.
+
+Question: which state do Kansas, Oklahoma, and Tennessee neighbor in common?
+LLM     : Kansas, Oklahoma, and Tennessee neighbor the state of Arkansas in common.
+Correct : Kansas, Oklahoma, and Tennessee neighbor Missouri in common.
+
+Question: which state do Arizona, California, and Utah neighbor in common?
+LLM     : Arizona, California, and Utah neighbor the state of Nevada in common.
+Correct : Arizona, California, and Utah neighbor Nevada in common.
+
+Question: which state do California, New Mexico, and Utah neighbor in common?
+LLM     : California, New Mexico, and Utah neighbor Arizona in common.
+Correct : California, New Mexico, and Utah neighbor Arizona in common.
+
+Question: which state do Iowa, Michigan, and Minnesota neighbor in common?
+LLM     : Iowa, Michigan, and Minnesota neighbor Wisconsin in common.
+Correct : Iowa, Michigan, and Minnesota neighbor Wisconsin in common.
+
+Question: which state do Colorado, Missouri, and Oklahoma neighbor in common?
+LLM     : Colorado, Missouri, and Oklahoma neighbor Kansas in common.
+Correct : Colorado, Missouri, and Oklahoma neighbor Kansas in common.
+
+Question: which state do Kentucky, Maryland, and Virginia neighbor in common?
+LLM     : Kentucky, Maryland, and Virginia neighbor the state of West Virginia in common.
+Correct : Kentucky, Maryland, and Virginia neighbor West Virginia in common.
+
+Question: which state do Arkansas, Kansas, and Texas neighbor in common?
+LLM     : Arkansas, Kansas, and Texas neighbor Oklahoma in common.
+Correct : Arkansas, Kansas, and Texas neighbor Oklahoma in common.
+
+Question: which state do Arizona, Colorado, and Utah neighbor in common?
+LLM     : Arizona, Colorado, and Utah neighbor Wyoming in common.
+Correct : Arizona, Colorado, and Utah neighbor New Mexico in common.
+
+Question: which state do Illinois, Iowa, and Minnesota neighbor in common?
+LLM     : Illinois, Iowa, and Minnesota neighbor Wisconsin in common.
+Correct : Illinois, Iowa, and Minnesota neighbor Wisconsin in common.
+
+Question: which state do Georgia, Mississippi, and Virginia neighbor in common?
+LLM     : Georgia, Mississippi, and Virginia neighbor the state of Tennessee in common.
+Correct : Georgia, Mississippi, and Virginia neighbor Tennessee in common.
+
+Question: which state do Missouri, Tennessee, and Texas neighbor in common?
+LLM     : Missouri, Tennessee, and Texas neighbor Arkansas in common.
+Correct : Missouri, Tennessee, and Texas neighbor Arkansas in common.
+
+Question: which state do Mississippi, Oklahoma, and Tennessee neighbor in common?
+LLM     : Mississippi, Oklahoma, and Tennessee neighbor Arkansas in common.
+Correct : Mississippi, Oklahoma, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Iowa, Nebraska, and Tennessee neighbor in common?
+LLM     : Iowa, Nebraska, and Tennessee neighbor the state of Kansas in common.
+Correct : Iowa, Nebraska, and Tennessee neighbor Missouri in common.
+
+Question: which state do Arizona, Colorado, and Wyoming neighbor in common?
+LLM     : Arizona, Colorado, and Wyoming neighbor the state of Utah in common.
+Correct : Arizona, Colorado, and Wyoming neighbor Utah in common.
+
+Question: which state do Colorado, Idaho, and Nebraska neighbor in common?
+LLM     : Colorado, Idaho, and Nebraska neighbor Wyoming in common.
+Correct : Colorado, Idaho, and Nebraska neighbor Wyoming in common.
+
+Question: which state do Nebraska, New Mexico, and Wyoming neighbor in common?
+LLM     : Nebraska, New Mexico, and Wyoming neighbor Colorado in common.
+Correct : Nebraska, New Mexico, and Wyoming neighbor Colorado in common.
+
+Question: which state do Illinois, Minnesota, and Nebraska neighbor in common?
+LLM     : Illinois, Minnesota, and Nebraska neighbor Iowa in common.
+Correct : Illinois, Minnesota, and Nebraska neighbor Iowa in common.
+
+Question: which state do Minnesota, Montana, and North Dakota neighbor in common?
+LLM     : Minnesota, Montana, and North Dakota neighbor South Dakota in common.
+Correct : Minnesota, Montana, and North Dakota neighbor South Dakota in common.
+
+Question: which state do Delaware, Maryland, and New York neighbor in common?
+LLM     : Delaware, Maryland, and New York neighbor the state of Virginia in common.
+Correct : Delaware, Maryland, and New York neighbor Pennsylvania in common.
+
+Question: which state do Iowa, Kentucky, and Oklahoma neighbor in common?
+LLM     : Iowa, Kentucky, and Oklahoma neighbor Missouri in common.
+Correct : Iowa, Kentucky, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Kentucky, Mississippi, and North Carolina neighbor in common?
+LLM     : Kentucky, Mississippi, and North Carolina neighbor the state of Tennessee in common.
+Correct : Kentucky, Mississippi, and North Carolina neighbor Tennessee in common.
+
+Question: which state do California, Colorado, and Utah neighbor in common?
+LLM     : California, Colorado, and Utah neighbor the state of Arizona in common.
+Correct : California, Colorado, and Utah neighbor Arizona in common.
+
+Question: which state do California, Colorado, and New Mexico neighbor in common?
+LLM     : California, Colorado, and New Mexico neighbor the state of Arizona in common.
+Correct : California, Colorado, and New Mexico neighbor Arizona in common.
+
+Question: which state do Indiana, Pennsylvania, and West Virginia neighbor in common?
+LLM     : Indiana, Pennsylvania, and West Virginia neighbor Ohio in common.
+Correct : Indiana, Pennsylvania, and West Virginia neighbor Ohio in common.
+
+Question: which state do Arkansas, Colorado, and Kansas neighbor in common?
+LLM     : Arkansas, Colorado, and Kansas neighbor the state of Oklahoma in common.
+Correct : Arkansas, Colorado, and Kansas neighbor Oklahoma in common.
+
+Question: which state do Indiana, Iowa, and Missouri neighbor in common?
+LLM     : Indiana, Iowa, and Missouri neighbor the state of Illinois in common.
+Correct : Indiana, Iowa, and Missouri neighbor Illinois in common.
+
+Question: which state do Delaware, New Jersey, and New York neighbor in common?
+LLM     : Delaware, New Jersey, and New York neighbor in common the state of Pennsylvania.
+Correct : Delaware, New Jersey, and New York neighbor Pennsylvania in common.
+
+Question: which state do Arizona, Colorado, and New Mexico neighbor in common?
+LLM     : Arizona, Colorado, and New Mexico neighbor the state of Texas in common.
+Correct : Arizona, Colorado, and New Mexico neighbor Utah in common.
+
+Question: which state do Colorado, Nevada, and Wyoming neighbor in common?
+LLM     : Colorado, Nevada, and Wyoming neighbor Utah in common.
+Correct : Colorado, Nevada, and Wyoming neighbor Utah in common.
+
+Question: which state do Maryland, Tennessee, and West Virginia neighbor in common?
+LLM     : Maryland, Tennessee, and West Virginia neighbor the state of Virginia in common.
+Correct : Maryland, Tennessee, and West Virginia neighbor Virginia in common.
+
+Question: which state do Colorado, South Dakota, and Utah neighbor in common?
+LLM     : Colorado, South Dakota, and Utah neighbor Wyoming in common.
+Correct : Colorado, South Dakota, and Utah neighbor Wyoming in common.
+
+Question: which state do Missouri, North Carolina, and Virginia neighbor in common?
+LLM     : Missouri, North Carolina, and Virginia neighbor the state of Tennessee in common.
+Correct : Missouri, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do Illinois, Kansas, and Kentucky neighbor in common?
+LLM     : Illinois, Kansas, and Kentucky neighbor Missouri in common.
+Correct : Illinois, Kansas, and Kentucky neighbor Missouri in common.
+
+Question: which state do Colorado, Oklahoma, and Texas neighbor in common?
+LLM     : Colorado, Oklahoma, and Texas neighbor Kansas in common.
+Correct : Colorado, Oklahoma, and Texas neighbor New Mexico in common.
+
+Question: which state are Mount Elbert, Pikes Peak, and San Juan Mountains located in in common?
+LLM     : Mount Elbert, Pikes Peak, and San Juan Mountains are located in Colorado in common.
+Correct : Mount Elbert, Pikes Peak, and San Juan Mountains located in Colorado in common.
+
+Question: which state do Illinois, Indiana, and West Virginia neighbor in common?
+LLM     : Illinois, Indiana, and West Virginia neighbor Ohio in common.
+Correct : Illinois, Indiana, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Arkansas, Kansas, and Kentucky neighbor in common?
+LLM     : Arkansas, Kansas, and Kentucky neighbor Tennessee in common.
+Correct : Arkansas, Kansas, and Kentucky neighbor Missouri in common.
+
+Question: which states do Indiana, Kentucky, and Michigan neighbor in common?
+LLM     : Indiana, Kentucky, and Michigan neighbor in common the state of Ohio.
+Correct : Indiana, Kentucky, and Michigan neighbor Illinois, and Ohio in common.
+
+Question: which state do Maryland, New York, and Ohio neighbor in common?
+LLM     : Maryland, New York, and Ohio neighbor the state of Pennsylvania in common.
+Correct : Maryland, New York, and Ohio neighbor Pennsylvania in common.
+
+Question: which state do Illinois, Iowa, and Kansas neighbor in common?
+LLM     : Illinois, Iowa, and Kansas neighbor Nebraska in common.
+Correct : Illinois, Iowa, and Kansas neighbor Missouri in common.
+
+Question: which state do Arkansas, Iowa, and Kentucky neighbor in common?
+LLM     : Arkansas, Iowa, and Kentucky neighbor Tennessee in common.
+Correct : Arkansas, Iowa, and Kentucky neighbor Missouri in common.
+
+Question: which state do Maryland, Ohio, and Virginia neighbor in common?
+LLM     : Maryland, Ohio, and Virginia neighbor the state of Washington in common.
+Correct : Maryland, Ohio, and Virginia neighbor West Virginia in common.
+
+Question: which state do Delaware, New York, and Pennsylvania neighbor in common?
+LLM     : Delaware, New York, and Pennsylvania neighbor the state of New Jersey in common.
+Correct : Delaware, New York, and Pennsylvania neighbor New Jersey in common.
+
+Question: which state do Kentucky, Tennessee, and West Virginia neighbor in common?
+LLM     : Kentucky, Tennessee, and West Virginia neighbor the state of Virginia in common.
+Correct : Kentucky, Tennessee, and West Virginia neighbor Virginia in common.
+
+Question: which state do California, Idaho, and Oregon neighbor in common?
+LLM     : California, Idaho, and Oregon neighbor the state of Washington in common.
+Correct : California, Idaho, and Oregon neighbor Nevada in common.
+
+Question: which state do Minnesota, Missouri, and South Dakota neighbor in common?
+LLM     : Minnesota, Missouri, and South Dakota neighbor the state of Iowa in common.
+Correct : Minnesota, Missouri, and South Dakota neighbor Iowa in common.
+
+Question: which state do Iowa, South Dakota, and Wyoming neighbor in common?
+LLM     : Iowa, South Dakota, and Wyoming neighbor Montana in common.
+Correct : Iowa, South Dakota, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Iowa, North Dakota, and South Dakota neighbor in common?
+LLM     : Iowa, North Dakota, and South Dakota neighbor Minnesota in common.
+Correct : Iowa, North Dakota, and South Dakota neighbor Minnesota in common.
+
+Question: which state do Arkansas, Kentucky, and Missouri neighbor in common?
+LLM     : Arkansas, Kentucky, and Missouri neighbor in common the state of Tennessee.
+Correct : Arkansas, Kentucky, and Missouri neighbor Tennessee in common.
+
+Question: which state do Minnesota, Missouri, and Wisconsin neighbor in common?
+LLM     : Minnesota, Missouri, and Wisconsin neighbor the state of Iowa in common.
+Correct : Minnesota, Missouri, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Iowa, Kansas, and Wyoming neighbor in common?
+LLM     : Iowa, Kansas, and Wyoming neighbor Nebraska in common.
+Correct : Iowa, Kansas, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Colorado, New Mexico, and Wyoming neighbor in common?
+LLM     : Colorado, New Mexico, and Wyoming neighbor the state of Utah in common.
+Correct : Colorado, New Mexico, and Wyoming neighbor Utah in common.
+
+Question: which state do Idaho, Nevada, and Washington neighbor in common?
+LLM     : Idaho, Nevada, and Washington neighbor Oregon in common.
+Correct : Idaho, Nevada, and Washington neighbor Oregon in common.
+
+Question: which state do Arkansas, Iowa, and Oklahoma neighbor in common?
+LLM     : Arkansas, Iowa, and Oklahoma neighbor the state of Texas in common.
+Correct : Arkansas, Iowa, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Arkansas, Colorado, and Missouri neighbor in common?
+LLM     : Arkansas, Colorado, and Missouri neighbor Kansas in common.
+Correct : Arkansas, Colorado, and Missouri neighbor Oklahoma in common.
+
+Question: which state do Illinois, Missouri, and Ohio neighbor in common?
+LLM     : Illinois, Missouri, and Ohio neighbor in common the state of Indiana.
+Correct : Illinois, Missouri, and Ohio neighbor Kentucky in common.
+
+Question: which state do Illinois, Tennessee, and West Virginia neighbor in common?
+LLM     : Illinois, Tennessee, and West Virginia neighbor Kentucky in common.
+Correct : Illinois, Tennessee, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Kansas, Nebraska, and Utah neighbor in common?
+LLM     : Kansas, Nebraska, and Utah neighbor the state of Colorado in common.
+Correct : Kansas, Nebraska, and Utah neighbor Colorado in common.
+
+Question: which state do Arkansas, Louisiana, and Tennessee neighbor in common?
+LLM     : Arkansas, Louisiana, and Tennessee neighbor the state of Mississippi in common.
+Correct : Arkansas, Louisiana, and Tennessee neighbor Mississippi in common.
+
+Question: which state do Illinois, Kansas, and Nebraska neighbor in common?
+LLM     : Illinois, Kansas, and Nebraska neighbor the state of Iowa in common.
+Correct : Illinois, Kansas, and Nebraska neighbor Missouri in common.
+
+Question: which state do Iowa, Kansas, and South Dakota neighbor in common?
+LLM     : Iowa, Kansas, and South Dakota neighbor Nebraska in common.
+Correct : Iowa, Kansas, and South Dakota neighbor Nebraska in common.
+
+Question: which state do Colorado, Nebraska, and Utah neighbor in common?
+LLM     : Colorado, Nebraska, and Utah neighbor Wyoming in common.
+Correct : Colorado, Nebraska, and Utah neighbor Wyoming in common.
+
+Question: which state do Idaho, North Dakota, and Wyoming neighbor in common?
+LLM     : Idaho, North Dakota, and Wyoming neighbor Montana in common.
+Correct : Idaho, North Dakota, and Wyoming neighbor Montana in common.
+
+Question: which state do Indiana, Tennessee, and West Virginia neighbor in common?
+LLM     : Indiana, Tennessee, and West Virginia neighbor Kentucky in common.
+Correct : Indiana, Tennessee, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Indiana, Ohio, and Virginia neighbor in common?
+LLM     : Indiana, Ohio, and Virginia neighbor in common the state of Kentucky.
+Correct : Indiana, Ohio, and Virginia neighbor Kentucky in common.
+
+Question: which state do Indiana, Minnesota, and Wisconsin neighbor in common?
+LLM     : Indiana, Minnesota, and Wisconsin neighbor the state of Illinois in common.
+Correct : Indiana, Minnesota, and Wisconsin neighbor Michigan in common.
+
+Question: which state do Minnesota, South Dakota, and Wisconsin neighbor in common?
+LLM     : Minnesota, South Dakota, and Wisconsin neighbor the state of Iowa in common.
+Correct : Minnesota, South Dakota, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Ohio, Virginia, and West Virginia neighbor in common?
+LLM     : Ohio, Virginia, and West Virginia neighbor in common the state of Kentucky.
+Correct : Ohio, Virginia, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Minnesota, Ohio, and Wisconsin neighbor in common?
+LLM     : Minnesota, Ohio, and Wisconsin neighbor the state of Iowa in common.
+Correct : Minnesota, Ohio, and Wisconsin neighbor Michigan in common.
+
+Question: which state do California, Colorado, and Nevada neighbor in common?
+LLM     : California, Colorado, and Nevada neighbor Arizona in common.
+Correct : California, Colorado, and Nevada neighbor Arizona in common.
+
+Question: which state do Nevada, Utah, and Wyoming neighbor in common?
+LLM     : Nevada, Utah, and Wyoming neighbor the state of Colorado in common.
+Correct : Nevada, Utah, and Wyoming neighbor Idaho in common.
+
+Question: which state do Alabama, Arkansas, and Kentucky neighbor in common?
+LLM     : Alabama neighbors Tennessee, Arkansas neighbors Louisiana, and Kentucky neighbors Tennessee in common.
+Correct : Alabama, Arkansas, and Kentucky neighbor Tennessee in common.
+
+Question: which states do Colorado, Nevada, and New Mexico neighbor in common?
+LLM     : Colorado, Nevada, and New Mexico neighbor Arizona in common.
+Correct : Colorado, Nevada, and New Mexico neighbor Arizona, and Utah in common.
+
+Question: which state do Maryland, New Jersey, and Ohio neighbor in common?
+LLM     : Maryland, New Jersey, and Ohio neighbor the state of Pennsylvania in common.
+Correct : Maryland, New Jersey, and Ohio neighbor Pennsylvania in common.
+
+Question: which state do Arizona, Nebraska, and Wyoming neighbor in common?
+LLM     : Arizona, Nebraska, and Wyoming all neighbor the state of Colorado in common.
+Correct : Arizona, Nebraska, and Wyoming neighbor Colorado in common.
+
+Question: which state do Idaho, New Mexico, and Wyoming neighbor in common?
+LLM     : Idaho, New Mexico, and Wyoming neighbor Utah in common.
+Correct : Idaho, New Mexico, and Wyoming neighbor Utah in common.
+
+Question: which state do Arizona, Colorado, and Texas neighbor in common?
+LLM     : Arizona, Colorado, and Texas neighbor New Mexico in common.
+Correct : Arizona, Colorado, and Texas neighbor New Mexico in common.
+
+Question: which state do Illinois, Oklahoma, and Tennessee neighbor in common?
+LLM     : Illinois, Oklahoma, and Tennessee all neighbor Arkansas in common.
+Correct : Illinois, Oklahoma, and Tennessee neighbor Missouri in common.
+
+Question: which state do Kansas, New Mexico, and Wyoming neighbor in common?
+LLM     : Kansas, New Mexico, and Wyoming neighbor the state of Colorado in common.
+Correct : Kansas, New Mexico, and Wyoming neighbor Colorado in common.
+
+Question: which state do Delaware, New York, and West Virginia neighbor in common?
+LLM     : Delaware, New York, and West Virginia neighbor Pennsylvania in common.
+Correct : Delaware, New York, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do North Carolina, Tennessee, and West Virginia neighbor in common?
+LLM     : North Carolina, Tennessee, and West Virginia neighbor the state of Virginia in common.
+Correct : North Carolina, Tennessee, and West Virginia neighbor Virginia in common.
+
+Question: which state do Illinois, Iowa, and Tennessee neighbor in common?
+LLM     : Illinois, Iowa, and Tennessee neighbor the state of Kentucky in common.
+Correct : Illinois, Iowa, and Tennessee neighbor Missouri in common.
+
+Question: which state do Arizona, Idaho, and Wyoming neighbor in common?
+LLM     : Arizona, Idaho, and Wyoming neighbor Montana in common.
+Correct : Arizona, Idaho, and Wyoming neighbor Utah in common.
+
+Question: which state do Idaho, South Dakota, and Wyoming neighbor in common?
+LLM     : Idaho, South Dakota, and Wyoming neighbor Montana in common.
+Correct : Idaho, South Dakota, and Wyoming neighbor Montana in common.
+
+Question: which state do Indiana, Ohio, and Tennessee neighbor in common?
+LLM     : Indiana, Ohio, and Tennessee neighbor in common the state of Kentucky.
+Correct : Indiana, Ohio, and Tennessee neighbor Kentucky in common.
+
+Question: which state do Georgia, Tennessee, and Virginia neighbor in common?
+LLM     : Georgia, Tennessee, and Virginia neighbor the state of North Carolina in common.
+Correct : Georgia, Tennessee, and Virginia neighbor North Carolina in common.
+
+Question: which state do Florida, Mississippi, and Tennessee neighbor in common?
+LLM     : Florida, Mississippi, and Tennessee neighbor Alabama in common.
+Correct : Florida, Mississippi, and Tennessee neighbor Alabama in common.
+
+Question: which state do Iowa, Kentucky, and Missouri neighbor in common?
+LLM     : Iowa, Kentucky, and Missouri neighbor the state of Tennessee in common.
+Correct : Iowa, Kentucky, and Missouri neighbor Illinois in common.
+
+Question: which state do Kentucky, Maryland, and Pennsylvania neighbor in common?
+LLM     : Kentucky, Maryland, and Pennsylvania neighbor the state of West Virginia in common.
+Correct : Kentucky, Maryland, and Pennsylvania neighbor West Virginia in common.
+
+Question: which state do Missouri, New Mexico, and Texas neighbor in common?
+LLM     : Oklahoma
+Correct : Missouri, New Mexico, and Texas neighbor Oklahoma in common.
+
+Question: which state do Iowa, Nebraska, and Wyoming neighbor in common?
+LLM     : Iowa, Nebraska, and Wyoming neighbor the state of Montana in common.
+Correct : Iowa, Nebraska, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Indiana, Kentucky, and West Virginia neighbor in common?
+LLM     : Indiana, Kentucky, and West Virginia neighbor in common the state of Ohio.
+Correct : Indiana, Kentucky, and West Virginia neighbor Ohio in common.
+
+Question: which state do Arkansas, Kentucky, and Oklahoma neighbor in common?
+LLM     : Arkansas, Kentucky, and Oklahoma neighbor the state of Tennessee in common.
+Correct : Arkansas, Kentucky, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Massachusetts, New Hampshire, and New York neighbor in common?
+LLM     : Massachusetts, New Hampshire, and New York neighbor in common the state of Vermont.
+Correct : Massachusetts, New Hampshire, and New York neighbor Vermont in common.
+
+Question: which state do Kentucky, Nebraska, and Oklahoma neighbor in common?
+LLM     : Kentucky, Nebraska, and Oklahoma neighbor the state of Missouri in common.
+Correct : Kentucky, Nebraska, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Arizona, Nebraska, and Oklahoma neighbor in common?
+LLM     : Arizona neighbors Oklahoma in common, while Nebraska borders both states.
+Correct : Arizona, Nebraska, and Oklahoma neighbor Colorado in common.
+
+Question: which state do Arizona, Nevada, and Oregon neighbor in common?
+LLM     : Arizona, Nevada, and Oregon neighbor California in common.
+Correct : Arizona, Nevada, and Oregon neighbor California in common.
+
+Question: which state do Colorado, Idaho, and New Mexico neighbor in common?
+LLM     : Colorado, Idaho, and New Mexico neighbor Utah in common.
+Correct : Colorado, Idaho, and New Mexico neighbor Utah in common.
+
+Question: which state do Louisiana, Tennessee, and Texas neighbor in common?
+LLM     : Louisiana, Tennessee, and Texas neighbor the state of Arkansas in common.
+Correct : Louisiana, Tennessee, and Texas neighbor Arkansas in common.
+
+Question: which state do Alabama, Georgia, and Kentucky neighbor in common?
+LLM     : Alabama, Georgia, and Kentucky neighbor Tennessee in common.
+Correct : Alabama, Georgia, and Kentucky neighbor Tennessee in common.
+
+Question: which state do Arkansas, Illinois, and Iowa neighbor in common?
+LLM     : Arkansas, Illinois, and Iowa neighbor the state of Missouri in common.
+Correct : Arkansas, Illinois, and Iowa neighbor Missouri in common.
+
+Question: which state do Oklahoma, Texas, and Utah neighbor in common?
+LLM     : Oklahoma, Texas, and Utah neighbor in common the state of New Mexico.
+Correct : Oklahoma, Texas, and Utah neighbor New Mexico in common.
+
+Question: which state do Mississippi, Missouri, and Virginia neighbor in common?
+LLM     : Mississippi, Missouri, and Virginia neighbor Tennessee in common.
+Correct : Mississippi, Missouri, and Virginia neighbor Tennessee in common.
+
+Question: which state do Kentucky, Missouri, and North Carolina neighbor in common?
+LLM     : Kentucky, Missouri, and North Carolina neighbor the state of Tennessee in common.
+Correct : Kentucky, Missouri, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Indiana, Kentucky, and Pennsylvania neighbor in common?
+LLM     : Indiana, Kentucky, and Pennsylvania neighbor in common the state of Ohio.
+Correct : Indiana, Kentucky, and Pennsylvania neighbor Ohio in common.
+
+Question: which state do Kansas, Nebraska, and Tennessee neighbor in common?
+LLM     : Kansas, Nebraska, and Tennessee neighbor Missouri in common.
+Correct : Kansas, Nebraska, and Tennessee neighbor Missouri in common.
+
+Question: which state do Iowa, Michigan, and Wisconsin neighbor in common?
+LLM     : Iowa, Michigan, and Wisconsin neighbor the state of Illinois in common.
+Correct : Iowa, Michigan, and Wisconsin neighbor Illinois, and Minnesota in common.
+
+Question: which state do Arkansas, Missouri, and Texas neighbor in common?
+LLM     : Arkansas, Missouri, and Texas neighbor the state of Oklahoma in common.
+Correct : Arkansas, Missouri, and Texas neighbor Oklahoma in common.
+
+Question: which state do Arizona, Kansas, and Nebraska neighbor in common?
+LLM     : Arizona neighbors Kansas and Nebraska in common.
+Correct : Arizona, Kansas, and Nebraska neighbor Colorado in common.
+
+Question: which state do Illinois, Minnesota, and Wisconsin neighbor in common?
+LLM     : Illinois, Minnesota, and Wisconsin neighbor the state of Iowa in common.
+Correct : Illinois, Minnesota, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Kentucky, Michigan, and Wisconsin neighbor in common?
+LLM     : Kentucky, Michigan, and Wisconsin neighbor the state of Illinois in common.
+Correct : Kentucky, Michigan, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Georgia, Mississippi, and North Carolina neighbor in common?
+LLM     : Georgia, Mississippi, and North Carolina neighbor South Carolina in common.
+Correct : Georgia, Mississippi, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Arizona, Idaho, and Utah neighbor in common?
+LLM     : Arizona, Idaho, and Utah neighbor the state of Nevada in common.
+Correct : Arizona, Idaho, and Utah neighbor Nevada in common.
+
+Question: which state do Delaware, Ohio, and West Virginia neighbor in common?
+LLM     : Delaware, Ohio, and West Virginia neighbor Pennsylvania in common.
+Correct : Delaware, Ohio, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Indiana, Missouri, and Wisconsin neighbor in common?
+LLM     : Indiana, Missouri, and Wisconsin neighbor the state of Illinois in common.
+Correct : Indiana, Missouri, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Kansas, New Mexico, and Texas neighbor in common?
+LLM     : Kansas, New Mexico, and Texas neighbor the state of Oklahoma in common.
+Correct : Kansas, New Mexico, and Texas neighbor Oklahoma in common.
+
+Question: which state do Arizona, Nebraska, and New Mexico neighbor in common?
+LLM     : Arizona, Nebraska, and New Mexico neighbor the state of Texas in common.
+Correct : Arizona, Nebraska, and New Mexico neighbor Colorado in common.
+
+Question: which state do Illinois, Minnesota, and Missouri neighbor in common?
+LLM     : Illinois, Minnesota, and Missouri neighbor the state of Iowa in common.
+Correct : Illinois, Minnesota, and Missouri neighbor Iowa in common.
+
+Question: which state do New Jersey, Pennsylvania, and Vermont neighbor in common?
+LLM     : New Jersey, Pennsylvania, and Vermont neighbor the state of New York in common.
+Correct : New Jersey, Pennsylvania, and Vermont neighbor New York in common.
+
+Question: which state do Louisiana, Missouri, and Tennessee neighbor in common?
+LLM     : Louisiana, Missouri, and Tennessee neighbor Arkansas in common.
+Correct : Louisiana, Missouri, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Colorado, Montana, and South Dakota neighbor in common?
+LLM     : Colorado, Montana, and South Dakota neighbor Wyoming in common.
+Correct : Colorado, Montana, and South Dakota neighbor Wyoming in common.
+
+Question: which state do Oklahoma, Tennessee, and Texas neighbor in common?
+LLM     : Oklahoma, Tennessee, and Texas neighbor the state of Arkansas in common.
+Correct : Oklahoma, Tennessee, and Texas neighbor Arkansas in common.
+
+Question: which state do Nevada, Utah, and Washington neighbor in common?
+LLM     : Nevada, Utah, and Washington neighbor Oregon in common.
+Correct : Nevada, Utah, and Washington neighbor Idaho in common.
+
+Question: which state do New Mexico, Oklahoma, and Wyoming neighbor in common?
+LLM     : New Mexico, Oklahoma, and Wyoming neighbor the state of Texas in common.
+Correct : New Mexico, Oklahoma, and Wyoming neighbor Colorado in common.
+
+Question: which state do Georgia, Kentucky, and North Carolina neighbor in common?
+LLM     : Georgia, Kentucky, and North Carolina neighbor South Carolina in common.
+Correct : Georgia, Kentucky, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Arkansas, New Mexico, and Oklahoma neighbor in common?
+LLM     : Arkansas, New Mexico, and Oklahoma neighbor the state of Texas in common.
+Correct : Arkansas, New Mexico, and Oklahoma neighbor Texas in common.
+
+Question: which state do Mississippi, Missouri, and North Carolina neighbor in common?
+LLM     : Mississippi, Missouri, and North Carolina neighbor Tennessee in common.
+Correct : Mississippi, Missouri, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Arizona, Utah, and Wyoming neighbor in common?
+LLM     : Arizona, Utah, and Wyoming neighbor Colorado in common.
+Correct : Arizona, Utah, and Wyoming neighbor Colorado in common.
+
+Question: which state do Georgia, South Carolina, and Tennessee neighbor in common?
+LLM     : Georgia, South Carolina, and Tennessee neighbor in common the state of North Carolina.
+Correct : Georgia, South Carolina, and Tennessee neighbor North Carolina in common.
+
+Question: which state do Minnesota, Nebraska, and Wyoming neighbor in common?
+LLM     : Minnesota, Nebraska, and Wyoming neighbor the state of South Dakota in common.
+Correct : Minnesota, Nebraska, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Illinois, Iowa, and Michigan neighbor in common?
+LLM     : Illinois, Iowa, and Michigan neighbor the state of Wisconsin in common.
+Correct : Illinois, Iowa, and Michigan neighbor Wisconsin in common.
+
+Question: which state do Montana, Nebraska, and Utah neighbor in common?
+LLM     : Montana, Nebraska, and Utah neighbor Wyoming in common.
+Correct : Montana, Nebraska, and Utah neighbor Wyoming in common.
+
+Question: which state do Illinois, Nebraska, and Wisconsin neighbor in common?
+LLM     : Illinois, Nebraska, and Wisconsin neighbor the state of Iowa in common.
+Correct : Illinois, Nebraska, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Missouri, Nebraska, and South Dakota neighbor in common?
+LLM     : Missouri, Nebraska, and South Dakota neighbor Kansas in common.
+Correct : Missouri, Nebraska, and South Dakota neighbor Iowa in common.
+
+Question: which state do Montana, Oregon, and Washington neighbor in common?
+LLM     : Montana, Oregon, and Washington neighbor the state of Idaho in common.
+Correct : Montana, Oregon, and Washington neighbor Idaho in common.
+
+Question: which state do Indiana, Michigan, and Pennsylvania neighbor in common?
+LLM     : Indiana, Michigan, and Pennsylvania neighbor Ohio in common.
+Correct : Indiana, Michigan, and Pennsylvania neighbor Ohio in common.
+
+Question: which state do Delaware, Pennsylvania, and Virginia neighbor in common?
+LLM     : Delaware, Pennsylvania, and Virginia neighbor the state of Maryland in common.
+Correct : Delaware, Pennsylvania, and Virginia neighbor Maryland in common.
+
+Question: which state do Mississippi, North Carolina, and Virginia neighbor in common?
+LLM     : Mississippi, North Carolina, and Virginia neighbor the state of Tennessee in common.
+Correct : Mississippi, North Carolina, and Virginia neighbor Tennessee in common.
+
+Question: which state do Iowa, North Dakota, and Wisconsin neighbor in common?
+LLM     : Iowa, North Dakota, and Wisconsin neighbor the state of Minnesota in common.
+Correct : Iowa, North Dakota, and Wisconsin neighbor Minnesota in common.
+
+Question: which state do Montana, South Dakota, and Utah neighbor in common?
+LLM     : Montana, South Dakota, and Utah neighbor Wyoming in common.
+Correct : Montana, South Dakota, and Utah neighbor Wyoming in common.
+
+Question: which state do Indiana, Missouri, and Ohio neighbor in common?
+LLM     : Indiana, Missouri, and Ohio neighbor in common the state of Kentucky.
+Correct : Indiana, Missouri, and Ohio neighbor Kentucky in common.
+
+Question: which state do Arkansas, Iowa, and Nebraska neighbor in common?
+LLM     : Arkansas, Iowa, and Nebraska neighbor the state of Missouri in common.
+Correct : Arkansas, Iowa, and Nebraska neighbor Missouri in common.
+
+Question: which state do Illinois, Michigan, and Minnesota neighbor in common?
+LLM     : Illinois, Michigan, and Minnesota neighbor Wisconsin in common.
+Correct : Illinois, Michigan, and Minnesota neighbor Wisconsin in common.
+
+Question: which state do Colorado, Oklahoma, and Utah neighbor in common?
+LLM     : Colorado, Oklahoma, and Utah neighbor Kansas in common.
+Correct : Colorado, Oklahoma, and Utah neighbor New Mexico in common.
+
+Question: which state do Missouri, Tennessee, and Virginia neighbor in common?
+LLM     : Missouri, Tennessee, and Virginia neighbor the state of Kentucky in common.
+Correct : Missouri, Tennessee, and Virginia neighbor Kentucky in common.
+
+Question: which state do Iowa, Michigan, and Missouri neighbor in common?
+LLM     : Iowa, Michigan, and Missouri neighbor the state of Illinois in common.
+Correct : Iowa, Michigan, and Missouri neighbor Illinois in common.
+
+Question: which state do Florida, North Carolina, and South Carolina neighbor in common?
+LLM     : Florida, North Carolina, and South Carolina neighbor in common the state of Georgia.
+Correct : Florida, North Carolina, and South Carolina neighbor Georgia in common.
+
+Question: which state do Kentucky, Pennsylvania, and Virginia neighbor in common?
+LLM     : Kentucky, Pennsylvania, and Virginia neighbor in common the state of West Virginia.
+Correct : Kentucky, Pennsylvania, and Virginia neighbor West Virginia in common.
+
+Question: which state do Maryland, Ohio, and West Virginia neighbor in common?
+LLM     : Maryland, Ohio, and West Virginia neighbor the state of Virginia in common.
+Correct : Maryland, Ohio, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Massachusetts, Pennsylvania, and Vermont neighbor in common?
+LLM     : Massachusetts, Pennsylvania, and Vermont neighbor New York in common.
+Correct : Massachusetts, Pennsylvania, and Vermont neighbor New York in common.
+
+Question: which state do California, Idaho, and Nevada neighbor in common?
+LLM     : California, Idaho, and Nevada neighbor Arizona in common.
+Correct : California, Idaho, and Nevada neighbor Oregon in common.
+
+Question: which state do Delaware, Pennsylvania, and West Virginia neighbor in common?
+LLM     : Delaware, Pennsylvania, and West Virginia neighbor the state of Maryland in common.
+Correct : Delaware, Pennsylvania, and West Virginia neighbor Maryland in common.
+
+Question: which state do Indiana, Missouri, and Virginia neighbor in common?
+LLM     : Indiana, Missouri, and Virginia neighbor in common the state of Kentucky.
+Correct : Indiana, Missouri, and Virginia neighbor Kentucky in common.
+
+Question: which state do Iowa, Michigan, and South Dakota neighbor in common?
+LLM     : Iowa, Michigan, and South Dakota neighbor the state of Minnesota in common.
+Correct : Iowa, Michigan, and South Dakota neighbor Minnesota in common.
+
+Question: which state do Alabama, Florida, and South Carolina neighbor in common?
+LLM     : Alabama, Florida, and South Carolina neighbor in common the state of Georgia.
+Correct : Alabama, Florida, and South Carolina neighbor Georgia in common.
+
+Question: which state do Ohio, Tennessee, and West Virginia neighbor in common?
+LLM     : Ohio, Tennessee, and West Virginia neighbor Kentucky in common.
+Correct : Ohio, Tennessee, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Delaware, Maryland, and New Jersey neighbor in common?
+LLM     : Delaware, Maryland, and New Jersey neighbor Pennsylvania in common.
+Correct : Delaware, Maryland, and New Jersey neighbor Pennsylvania in common.
+
+Question: which state do Arkansas, Iowa, and Kansas neighbor in common?
+LLM     : Arkansas, Iowa, and Kansas neighbor Missouri in common.
+Correct : Arkansas, Iowa, and Kansas neighbor Missouri in common.
+
+Question: which state do Illinois, Kentucky, and Oklahoma neighbor in common?
+LLM     : Illinois, Kentucky, and Oklahoma neighbor the state of Tennessee in common.
+Correct : Illinois, Kentucky, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Kentucky, Missouri, and Wisconsin neighbor in common?
+LLM     : Kentucky, Missouri, and Wisconsin neighbor the state of Illinois in common.
+Correct : Kentucky, Missouri, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Illinois, Kentucky, and Nebraska neighbor in common?
+LLM     : Illinois, Kentucky, and Nebraska neighbor in common the state of Missouri.
+Correct : Illinois, Kentucky, and Nebraska neighbor Missouri in common.
+
+Question: which state do Nebraska, South Dakota, and Utah neighbor in common?
+LLM     : Nebraska, South Dakota, and Utah neighbor the state of Colorado in common.
+Correct : Nebraska, South Dakota, and Utah neighbor Wyoming in common.
+
+Question: which state do Oregon, Washington, and Wyoming neighbor in common?
+LLM     : Oregon, Washington, and Wyoming neighbor in common the Pacific Northwest region.
+Correct : Oregon, Washington, and Wyoming neighbor Idaho in common.
+
+Question: which state do Alabama, Georgia, and Virginia neighbor in common?
+LLM     : Alabama, Georgia, and Virginia neighbor in common the state of Tennessee.
+Correct : Alabama, Georgia, and Virginia neighbor Tennessee in common.
+
+Question: which state do Connecticut, New Hampshire, and Rhode Island neighbor in common?
+LLM     : Connecticut, New Hampshire, and Rhode Island neighbor Massachusetts in common.
+Correct : Connecticut, New Hampshire, and Rhode Island neighbor Massachusetts in common.
+
+Question: which state do New Jersey, New York, and Ohio neighbor in common?
+LLM     : New Jersey, New York, and Ohio neighbor in common the state of Pennsylvania.
+Correct : New Jersey, New York, and Ohio neighbor Pennsylvania in common.
+
+Question: which state do Kentucky, Maryland, and West Virginia neighbor in common?
+LLM     : Kentucky, Maryland, and West Virginia neighbor the state of Virginia in common.
+Correct : Kentucky, Maryland, and West Virginia neighbor Virginia in common.
+
+Question: which state do Arkansas, Colorado, and New Mexico neighbor in common?
+LLM     : Arkansas, Colorado, and New Mexico neighbor the state of Arizona in common.
+Correct : Arkansas, Colorado, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do Indiana, Michigan, and Wisconsin neighbor in common?
+LLM     : Indiana, Michigan, and Wisconsin neighbor the state of Illinois in common.
+Correct : Indiana, Michigan, and Wisconsin neighbor Illinois in common.
+
+Question: which state do Alabama, North Carolina, and Tennessee neighbor in common?
+LLM     : Alabama neighbors North Carolina and Tennessee in common.
+Correct : Alabama, North Carolina, and Tennessee neighbor Georgia in common.
+
+Question: which state do Michigan, South Dakota, and Wisconsin neighbor in common?
+LLM     : Michigan, South Dakota, and Wisconsin neighbor the state of Minnesota in common.
+Correct : Michigan, South Dakota, and Wisconsin neighbor Minnesota in common.
+
+Question: which state do Colorado, South Dakota, and Wyoming neighbor in common?
+LLM     : Colorado, South Dakota, and Wyoming neighbor Nebraska in common.
+Correct : Colorado, South Dakota, and Wyoming neighbor Nebraska in common.
+
+Question: which state do Illinois, South Dakota, and Wisconsin neighbor in common?
+LLM     : Illinois, South Dakota, and Wisconsin neighbor the state of Minnesota in common.
+Correct : Illinois, South Dakota, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Arkansas, Georgia, and North Carolina neighbor in common?
+LLM     : Arkansas, Georgia, and North Carolina neighbor in common the state of South Carolina.
+Correct : Arkansas, Georgia, and North Carolina neighbor Tennessee in common.
+
+Question: which state do Georgia, Kentucky, and Virginia neighbor in common?
+LLM     : Georgia, Kentucky, and Virginia neighbor the state of Tennessee in common.
+Correct : Georgia, Kentucky, and Virginia neighbor Tennessee in common.
+
+Question: which state do Iowa, Kansas, and Oklahoma neighbor in common?
+LLM     : Iowa, Kansas, and Oklahoma neighbor the state of Missouri in common.
+Correct : Iowa, Kansas, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Arkansas, Kansas, and Oklahoma neighbor in common?
+LLM     : Arkansas, Kansas, and Oklahoma neighbor in common the state of Texas.
+Correct : Arkansas, Kansas, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Kentucky, Michigan, and Pennsylvania neighbor in common?
+LLM     : Kentucky, Michigan, and Pennsylvania neighbor the state of Ohio in common.
+Correct : Kentucky, Michigan, and Pennsylvania neighbor Ohio in common.
+
+Question: which state do Iowa, South Dakota, and Wisconsin neighbor in common?
+LLM     : Iowa, South Dakota, and Wisconsin neighbor the state of Minnesota in common.
+Correct : Iowa, South Dakota, and Wisconsin neighbor Minnesota in common.
+
+Question: which state do Idaho, North Dakota, and South Dakota neighbor in common?
+LLM     : Idaho, North Dakota, and South Dakota neighbor Montana in common.
+Correct : Idaho, North Dakota, and South Dakota neighbor Montana in common.
+
+Question: which state do Illinois, Nebraska, and South Dakota neighbor in common?
+LLM     : Illinois, Nebraska, and South Dakota neighbor the state of Iowa in common.
+Correct : Illinois, Nebraska, and South Dakota neighbor Iowa in common.
+
+Question: which state do Arkansas, Missouri, and Virginia neighbor in common?
+LLM     : Arkansas, Missouri, and Virginia neighbor Tennessee in common.
+Correct : Arkansas, Missouri, and Virginia neighbor Tennessee in common.
+
+Question: which state do Idaho, Oregon, and Utah neighbor in common?
+LLM     : Idaho, Oregon, and Utah neighbor Washington in common.
+Correct : Idaho, Oregon, and Utah neighbor Nevada in common.
+
+Question: which state do North Dakota, South Dakota, and Wyoming neighbor in common?
+LLM     : North Dakota, South Dakota, and Wyoming neighbor Montana in common.
+Correct : North Dakota, South Dakota, and Wyoming neighbor Montana in common.
+
+Question: which state do Arkansas, Kentucky, and Virginia neighbor in common?
+LLM     : Arkansas, Kentucky, and Virginia neighbor Tennessee in common.
+Correct : Arkansas, Kentucky, and Virginia neighbor Tennessee in common.
+
+Question: which state do Arkansas, Georgia, and Kentucky neighbor in common?
+LLM     : Arkansas, Georgia, and Kentucky neighbor Tennessee in common.
+Correct : Arkansas, Georgia, and Kentucky neighbor Tennessee in common.
+
+Question: which state do Montana, Nebraska, and South Dakota neighbor in common?
+LLM     : Montana, Nebraska, and South Dakota neighbor the state of Wyoming in common.
+Correct : Montana, Nebraska, and South Dakota neighbor Wyoming in common.
+
+Question: which state do South Carolina, Tennessee, and Virginia neighbor in common?
+LLM     : South Carolina, Tennessee, and Virginia neighbor the state of North Carolina in common.
+Correct : South Carolina, Tennessee, and Virginia neighbor North Carolina in common.
+
+Question: which state do Delaware, New Jersey, and West Virginia neighbor in common?
+LLM     : Delaware, New Jersey, and West Virginia neighbor Pennsylvania in common.
+Correct : Delaware, New Jersey, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Alabama, Arkansas, and Louisiana neighbor in common?
+LLM     : Alabama, Arkansas, and Louisiana neighbor in common the state of Mississippi.
+Correct : Alabama, Arkansas, and Louisiana neighbor Mississippi in common.
+
+Question: which state do Arkansas, Illinois, and Nebraska neighbor in common?
+LLM     : Arkansas, Illinois, and Nebraska neighbor the state of Iowa in common.
+Correct : Arkansas, Illinois, and Nebraska neighbor Missouri in common.
+
+Question: which state do Alabama, Arkansas, and Missouri neighbor in common?
+LLM     : Alabama, Arkansas, and Missouri neighbor Tennessee in common.
+Correct : Alabama, Arkansas, and Missouri neighbor Tennessee in common.
+
+Question: which state do Kentucky, Michigan, and Missouri neighbor in common?
+LLM     : Kentucky, Michigan, and Missouri neighbor the state of Tennessee in common.
+Correct : Kentucky, Michigan, and Missouri neighbor Illinois in common.
+
+Question: which state do Maine, Massachusetts, and Vermont neighbor in common?
+LLM     : Maine, Massachusetts, and Vermont neighbor New Hampshire in common.
+Correct : Maine, Massachusetts, and Vermont neighbor New Hampshire in common.
+
+Question: which state do Pennsylvania, Virginia, and West Virginia neighbor in common?
+LLM     : Pennsylvania, Virginia, and West Virginia neighbor the state of Maryland in common.
+Correct : Pennsylvania, Virginia, and West Virginia neighbor Maryland in common.
+
+Question: which state do California, Nevada, and Washington neighbor in common?
+LLM     : California, Nevada, and Washington neighbor the state of Oregon in common.
+Correct : California, Nevada, and Washington neighbor Oregon in common.
+
+Question: which state do Kentucky, Oklahoma, and Tennessee neighbor in common?
+LLM     : Kentucky, Oklahoma, and Tennessee neighbor the state of Arkansas in common.
+Correct : Kentucky, Oklahoma, and Tennessee neighbor Missouri in common.
+
+Question: which state do Montana, Nebraska, and Wyoming neighbor in common?
+LLM     : Montana, Nebraska, and Wyoming neighbor the state of Colorado in common.
+Correct : Montana, Nebraska, and Wyoming neighbor South Dakota in common.
+
+Question: which state do Colorado, Kansas, and Missouri neighbor in common?
+LLM     : Colorado, Kansas, and Missouri neighbor the state of Nebraska in common.
+Correct : Colorado, Kansas, and Missouri neighbor Nebraska, and Oklahoma in common.
+
+Question: which state do Montana, Oregon, and Wyoming neighbor in common?
+LLM     : Montana, Oregon, and Wyoming neighbor Idaho in common.
+Correct : Montana, Oregon, and Wyoming neighbor Idaho in common.
+
+Question: which state do Arkansas, Georgia, and Virginia neighbor in common?
+LLM     : Arkansas, Georgia, and Virginia neighbor Tennessee in common.
+Correct : Arkansas, Georgia, and Virginia neighbor Tennessee in common.
+
+Question: which state do Arkansas, Kentucky, and Tennessee neighbor in common?
+LLM     : Arkansas, Kentucky, and Tennessee neighbor the state of Missouri in common.
+Correct : Arkansas, Kentucky, and Tennessee neighbor Missouri in common.
+
+Question: which state do Alabama, Arkansas, and Mississippi neighbor in common?
+LLM     : Alabama, Arkansas, and Mississippi neighbor Tennessee in common.
+Correct : Alabama, Arkansas, and Mississippi neighbor Tennessee in common.
+
+Question: which state do Kansas, Kentucky, and Nebraska neighbor in common?
+LLM     : Kansas, Kentucky, and Nebraska neighbor the state of Missouri in common.
+Correct : Kansas, Kentucky, and Nebraska neighbor Missouri in common.
+
+Question: which state do Alabama, Kentucky, and Virginia neighbor in common?
+LLM     : Alabama, Kentucky, and Virginia neighbor Tennessee in common.
+Correct : Alabama, Kentucky, and Virginia neighbor Tennessee in common.
+
+Question: which state do Iowa, North Dakota, and Wyoming neighbor in common?
+LLM     : Iowa, North Dakota, and Wyoming all neighbor Montana in common.
+Correct : Iowa, North Dakota, and Wyoming neighbor South Dakota in common.
+
+Question: which state are Mount Adams, Mount Rainier, and Mount Saint Helens located in in common?
+LLM     : Mount Adams is located in Washington State, Mount Rainier is located in Washington State, and Mount Saint Helens is located in Oregon State.
+Correct : Mount Adams, Mount Rainier, and Mount Saint Helens located in Washington in common.
+
+Question: which state do Oregon, Utah, and Wyoming neighbor in common?
+LLM     : Oregon, Utah, and Wyoming neighbor Idaho in common.
+Correct : Oregon, Utah, and Wyoming neighbor Idaho in common.
+
+Question: which state do Arkansas, Nebraska, and Oklahoma neighbor in common?
+LLM     : Arkansas, Nebraska, and Oklahoma neighbor in common the state of Texas.
+Correct : Arkansas, Nebraska, and Oklahoma neighbor Missouri in common.
+
+Question: which state do Oregon, Utah, and Washington neighbor in common?
+LLM     : Oregon, Utah, and Washington neighbor the state of Idaho in common.
+Correct : Oregon, Utah, and Washington neighbor Idaho in common.
+
+Question: which state do Missouri, Nebraska, and Wisconsin neighbor in common?
+LLM     : Missouri, Nebraska, and Wisconsin neighbor the state of Iowa in common.
+Correct : Missouri, Nebraska, and Wisconsin neighbor Iowa in common.
+
+Question: which state do Louisiana, Oklahoma, and Tennessee neighbor in common?
+LLM     : Louisiana, Oklahoma, and Tennessee neighbor Arkansas in common.
+Correct : Louisiana, Oklahoma, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Illinois, Indiana, and Virginia neighbor in common?
+LLM     : Illinois, Indiana, and Virginia neighbor the state of Kentucky in common.
+Correct : Illinois, Indiana, and Virginia neighbor Kentucky in common.
+
+Question: which state do Indiana, Missouri, and West Virginia neighbor in common?
+LLM     : Indiana, Missouri, and West Virginia neighbor Kentucky in common.
+Correct : Indiana, Missouri, and West Virginia neighbor Kentucky in common.
+
+Question: which state do Connecticut, Massachusetts, and Vermont neighbor in common?
+LLM     : Connecticut, Massachusetts, and Vermont neighbor New York in common.
+Correct : Connecticut, Massachusetts, and Vermont neighbor New York in common.
+
+Question: which state do Colorado, Kansas, and Wyoming neighbor in common?
+LLM     : Colorado, Kansas, and Wyoming neighbor the state of Nebraska in common.
+Correct : Colorado, Kansas, and Wyoming neighbor Nebraska in common.
+
+Question: which state do New Hampshire, New York, and Vermont neighbor in common?
+LLM     : New Hampshire, New York, and Vermont neighbor in common the state of Massachusetts.
+Correct : New Hampshire, New York, and Vermont neighbor Massachusetts in common.
+
+Question: which state do Louisiana, Mississippi, and Tennessee neighbor in common?
+LLM     : Louisiana, Mississippi, and Tennessee neighbor Alabama in common.
+Correct : Louisiana, Mississippi, and Tennessee neighbor Arkansas in common.
+
+Question: which state do Idaho, Montana, and South Dakota neighbor in common?
+LLM     : Idaho, Montana, and South Dakota neighbor Wyoming in common.
+Correct : Idaho, Montana, and South Dakota neighbor Wyoming in common.
+
+Question: which state do Louisiana, New Mexico, and Oklahoma neighbor in common?
+LLM     : Louisiana, New Mexico, and Oklahoma neighbor Texas in common.
+Correct : Louisiana, New Mexico, and Oklahoma neighbor Texas in common.
+
+Question: which state do Delaware, Maryland, and West Virginia neighbor in common?
+LLM     : Delaware, Maryland, and West Virginia neighbor the state of Virginia in common.
+Correct : Delaware, Maryland, and West Virginia neighbor Pennsylvania in common.
+
+Question: which state do Colorado, Missouri, and New Mexico neighbor in common?
+LLM     : Colorado, Missouri, and New Mexico neighbor the state of Kansas in common.
+Correct : Colorado, Missouri, and New Mexico neighbor Oklahoma in common.
+
+Question: which state do Indiana, Michigan, and West Virginia neighbor in common?
+LLM     : Indiana, Michigan, and West Virginia neighbor Ohio in common.
+Correct : Indiana, Michigan, and West Virginia neighbor Ohio in common.
+
++-----------------------------------------------------+-------------------+---------------+-----------------+------------+
+| Category                                            |   # Q's Generated |   # Q's Asked |   # Q's Correct | % Passed   |
++=====================================================+===================+===============+=================+============+
+| Geography US States Complex Border Questions AND OR |               543 |           500 |             153 | 30.60%     |
++-----------------------------------------------------+-------------------+---------------+-----------------+------------+
