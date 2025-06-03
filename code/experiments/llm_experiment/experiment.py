@@ -90,8 +90,8 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
         if len(incorrect_qaa_triples) > 0:
             with open(f"incorrect_{test_case_category['text_file']}", "w") as file:
                 for question, llm_answer, correct_answer in incorrect_qaa_triples:
-                    file.write(f"Q: {question}\n")
-                    file.write(f"LLM A: {llm_answer.strip().lower()}\n")
+                    file.write(f"Question : {question}\n")
+                    file.write(f"LLM A    : {llm_answer.strip().lower()}\n")
                     file.write(f"Correct A: {correct_answer.strip().lower()}\n\n")
             
         percent_correct = (correct_question / total_question) * 100
