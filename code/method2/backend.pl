@@ -149,13 +149,13 @@ possessive_question(Q, A) :-
     atomic_list_concat([" A: ", PN_chain, "'s ", Relation, " " , Aux, " ", Objects, ". "], A).
 
 
-print_n_verb(Limit) :-
+print_n_plural_verb(Limit) :-
     findnsols(Limit, Q-A, verb_question(Q, A), Questions),
     tell('verb.txt'),
     print_questions(Questions, 1),
     told.
 
-print_n_possessive(Limit) :-
+print_n_plural_possessive(Limit) :-
     findnsols(Limit, Q-A, possessive_question(Q, A), Questions),
     tell('possessive.txt'),
     print_questions(Questions, 1),
@@ -167,6 +167,11 @@ print_questions([Q-A | Rest], N) :-
     format("~w~n~n", [A]),
     N1 is N + 1,
     print_questions(Rest, N1).
+
+generate :- 
+    print_n_plural_verb(2000000), 
+    print_n_plural_possessive(2000000).
+
 
 
 
