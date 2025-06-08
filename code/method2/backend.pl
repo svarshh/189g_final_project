@@ -151,13 +151,13 @@ possessive_question(Q, A) :-
 
 print_n_plural_verb(Limit) :-
     findnsols(Limit, Q-A, verb_question(Q, A), Questions),
-    tell('verb.txt'),
+    tell('plural_verb.txt'),
     print_questions(Questions, 1),
     told.
 
 print_n_plural_possessive(Limit) :-
     findnsols(Limit, Q-A, possessive_question(Q, A), Questions),
-    tell('possessive.txt'),
+    tell('plural_possessive.txt'),
     print_questions(Questions, 1),
     told.
 
