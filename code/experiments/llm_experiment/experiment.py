@@ -1,3 +1,25 @@
+def compute_bleu_score(reference: str, hypothesis: str):
+    import sacrebleu
+
+    references = [[reference]]
+    hypothesis = [hypothesis]
+
+    bleu_score = sacrebleu.corpus_bleu(hypothesis, references)
+    return bleu_score.score
+
+def compute_bert_score(reference: str, hypothesis: str):
+    from bert_score import score
+    import transformers
+
+    transformers.logging.set_verbosity_error()
+
+    references = [reference]
+    hypothesis = [hypothesis]
+
+    P, R, F1 = score(hypothesis, references, lang="en", verbose=False)
+
+    return P.item(), R.item(), F1.item()
+
 def ask_llm(system_prompt: str, prompt: str) -> str:
     import requests
 
@@ -74,6 +96,9 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
         correct_question = 0
         total_question = 0
 
+        total_bert_p, total_bert_r, total_bert_f1 = 0,0,0
+        total_bleu = 0
+
         incorrect_qaa_triples = []
 
         for question, correct_answer in qa_pairs:
@@ -87,23 +112,34 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
             else:
                 incorrect_qaa_triples.append((question, llm_answer, correct_answer))
 
+            p, r, f1 = compute_bert_score(correct_answer.strip().lower(), llm_answer.strip().lower())
+            total_bert_p+=p
+            total_bert_r+=r
+            total_bert_f1+=f1
+            total_bleu+=compute_bleu_score(correct_answer.strip().lower(), llm_answer.strip().lower())
+           
+
         if len(incorrect_qaa_triples) > 0:
-            with open(f"incorrect_{test_case_category['text_file']}", "w") as file:
+            with open(f"incorrect_outputs/incorrect_{test_case_category['text_file']}", "w") as file:
                 for question, llm_answer, correct_answer in incorrect_qaa_triples:
                     file.write(f"Question : {question}\n")
                     file.write(f"LLM A    : {llm_answer.strip().lower()}\n")
                     file.write(f"Correct A: {correct_answer.strip().lower()}\n\n")
-            
+        
         percent_correct = (correct_question / total_question) * 100
         rows.append([
             category,
             f"{total_gen_questions}",
             f"{total_question}",
             f"{correct_question}",
-            f"{percent_correct:.2f}%"
+            f"{percent_correct:.1f}%",
+            f"{total_bleu/total_question:.2f}",
+            f"{total_bert_p/total_question:.2f}",
+            f"{total_bert_r/total_question:.2f}",
+            f"{total_bert_f1/total_question:.2f}"
         ])
     
-    headers = ["Category", "# Q's Generated", "# Q's Asked", "# Q's Correct", "% Passed"]
+    headers = ["Category", "# Q's Generated", "# Q's Asked", "# Q's Correct", "% Passed", "BLEU", "BERT Precision", "BERT Recall", "BERT F1"]
     if table_print:
         print(tabulate(rows, headers=headers, tablefmt="grid"))
     
