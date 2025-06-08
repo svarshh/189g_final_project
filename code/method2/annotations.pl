@@ -179,8 +179,8 @@ verb_relation(present_simple, neighbor, 'Louisiana', ['Arkansas', 'Mississippi',
 verb_relation(present_simple, neighbor, 'Maine', ['New Hampshire']).
 verb_relation(present_simple, neighbor, 'Maryland', ['Delaware', 'Pennsylvania', 'Virginia', 'West Virginia']).
 verb_relation(present_simple, neighbor, 'Massachusetts', ['Connecticut', 'New Hampshire', 'New York', 'Rhode Island', 'Vermont']).
-verb_relation(present_simple, neighbor, 'Michigan', ['Illinois', 'Indiana', 'Minnesota', 'Ohio', 'Wisconsin']).
-verb_relation(present_simple, neighbor, 'Minnesota', ['Iowa', 'Michigan', 'North Dakota', 'South Dakota', 'Wisconsin']).
+verb_relation(present_simple, neighbor, 'Michigan', ['Indiana', 'Ohio', 'Wisconsin']).
+verb_relation(present_simple, neighbor, 'Minnesota', ['Iowa', 'North Dakota', 'South Dakota', 'Wisconsin']).
 verb_relation(present_simple, neighbor, 'Mississippi', ['Alabama', 'Arkansas', 'Louisiana', 'Tennessee']).
 verb_relation(present_simple, neighbor, 'Missouri', ['Arkansas', 'Illinois', 'Iowa', 'Kansas', 'Kentucky', 'Nebraska', 'Oklahoma', 'Tennessee']).
 verb_relation(present_simple, neighbor, 'Montana', ['Idaho', 'North Dakota', 'South Dakota', 'Wyoming']).

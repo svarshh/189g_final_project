@@ -106,31 +106,6 @@ verb_question(Q, A) :-
     ;   assertz(seen_subset(SortedSubj))
     ),
     collect_object(Subj, Objects),
-    
-
-    (
-
-    (
-        /* OR all*/
-    /* Whether subjects and objects are singular | plural | none */
-    union_all(Objects, Obj),
-
-    phrase_list(Subj, Subject_chain, ', or '),
-    phrase_list(Obj, Object_list, ', and '),
-
-
-    length(Subj, L), (L = 1 -> Collective_subj = singular ; L = 0 -> Collective_subj = none ; Collective_subj = plural),
-    length(Obj, L2), (L2 = 1 -> Collective_obj = singular ; L2 = 0 -> Collective_obj = none ; Collective_obj = plural),
-
-    match(Collective_obj, Obj, Wh),
-    auxiliary(Tense, 'third', Collective_subj, Aux), 
-
-
-    atomic_list_concat(["Q: ",Wh, " ", Aux, " ", Subject_chain, " ", Verb,"?"], Q),
-    ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, "."], A)))
-    )
-    ;
-
 
     (
         /* AND all*/
@@ -148,7 +123,6 @@ verb_question(Q, A) :-
 
     atomic_list_concat(["Q: ", Wh, " ", Aux, " ", Subject_chain, " ", Verb," in common?"], Q),
     ((Collective_obj = none, atomic_list_concat(["A: None"], A)); (Collective_obj \= none, atomic_list_concat(["A: ", Subject_chain," " , Verb, " ", Object_list, " in common."], A)))
-    )
     ).
 
 possessive_question(Q, A) :-
@@ -159,9 +133,7 @@ possessive_question(Q, A) :-
     
     plural_possessive(Single_relation, Relation), !,
 
-
     collect_PN(Single_relation, Tense, PNs),
-    
 
     member(PN, PNs),
 
@@ -177,17 +149,25 @@ possessive_question(Q, A) :-
     atomic_list_concat([" A: ", PN_chain, "'s ", Relation, " " , Aux, " ", Objects, ". "], A).
 
 
+print_n_verb(Limit) :-
+    findnsols(Limit, Q-A, verb_question(Q, A), Questions),
+    tell('verb.txt'),
+    print_questions(Questions, 1),
+    told.
 
-print_n_questions(Limit) :-
-    findnsols(Limit, possessive_question(Q, A), possessive_question(Q, A), Questions),
-    print_questions(Questions, 1).
+print_n_possessive(Limit) :-
+    findnsols(Limit, Q-A, possessive_question(Q, A), Questions),
+    tell('possessive.txt'),
+    print_questions(Questions, 1),
+    told.
 
 print_questions([], _).
-print_questions([possessive_question(Q, A)|Rest], N) :-
-    format("~w~n", [ Q]),
+print_questions([Q-A | Rest], N) :-
+    format("~w~n", [Q]),
     format("~w~n~n", [A]),
     N1 is N + 1,
     print_questions(Rest, N1).
+
 
 
 
