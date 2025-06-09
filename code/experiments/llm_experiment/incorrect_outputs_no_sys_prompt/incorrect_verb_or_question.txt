@@ -1,0 +1,446 @@
+Question : which state do Arizona, Kansas, and Nebraska neighbor in common?
+LLM A    : arizona, kansas, and nebraska are all located in the central united states. they share a common border with the following states:
+
+* arizona borders new mexico to the west and utah to the north.
+* kansas borders missouri to the east and oklahoma to the south.
+* nebraska borders south dakota to the north and iowa to the east.
+
+therefore, all three states neighbor the state of missouri.
+Correct A: arizona, kansas, and nebraska neighbor colorado in common.
+
+Question : which state do Kentucky, Ohio, and Pennsylvania neighbor in common?
+LLM A    : kentucky, ohio, and pennsylvania all border the state of west virginia. therefore, they share a common border with west virginia.
+Correct A: kentucky, ohio, and pennsylvania neighbor west virginia in common.
+
+Question : which state do Montana, Nevada, and Washington neighbor in common?
+LLM A    : montana, nevada, and washington all border the state of idaho.
+Correct A: montana, nevada, and washington neighbor idaho in common.
+
+Question : which state do Arkansas, Illinois, and Iowa neighbor in common?
+LLM A    : arkansas, illinois, and iowa all border the state of missouri. therefore, they all share a common border with missouri.
+Correct A: arkansas, illinois, and iowa neighbor missouri in common.
+
+Question : which state do Georgia, Missouri, and Virginia neighbor in common?
+LLM A    : georgia, missouri, and virginia all border the state of tennessee. therefore, they share a common border with tennessee.
+Correct A: georgia, missouri, and virginia neighbor tennessee in common.
+
+Question : which state do Maryland, Tennessee, and West Virginia neighbor in common?
+LLM A    : maryland, tennessee, and west virginia all border the state of virginia. therefore, they all neighbor virginia in common.
+Correct A: maryland, tennessee, and west virginia neighbor virginia in common.
+
+Question : which state do Arkansas, North Carolina, and Virginia neighbor in common?
+LLM A    : arkansas, north carolina, and virginia all share a border with the state of tennessee. therefore, they all neighbor tennessee in common.
+Correct A: arkansas, north carolina, and virginia neighbor tennessee in common.
+
+Question : which state do Arizona, Colorado, and New Mexico neighbor in common?
+LLM A    : arizona, colorado, and new mexico all border the state of mexico. therefore, they share a common border.
+Correct A: arizona, colorado, and new mexico neighbor utah in common.
+
+Question : which state do Arizona, Kansas, and Wyoming neighbor in common?
+LLM A    : arizona, kansas, and wyoming all share a border with the state of nebraska.
+Correct A: arizona, kansas, and wyoming neighbor colorado in common.
+
+Question : which state do Kansas, Oklahoma, and Utah neighbor in common?
+LLM A    : kansas, oklahoma, and utah all border the state of new mexico. therefore, they share a common border with new mexico.
+Correct A: kansas, oklahoma, and utah neighbor colorado in common.
+
+Question : which state do Colorado, Kansas, and Wyoming neighbor in common?
+LLM A    : all three states (colorado, kansas, and wyoming) border the state of nebraska. therefore, they all neighbor nebraska in common.
+Correct A: colorado, kansas, and wyoming neighbor nebraska in common.
+
+Question : which state do Illinois, Kentucky, and Michigan neighbor in common?
+LLM A    : illinois, kentucky, and michigan all share a border with the state of indiana. therefore, they all neighbor indiana in common.
+Correct A: illinois, kentucky, and michigan neighbor indiana in common.
+
+Question : which state do Georgia, South Carolina, and Tennessee neighbor in common?
+LLM A    : georgia, south carolina, and tennessee all share a common border. they are neighboring states in the southeastern united states.
+Correct A: georgia, south carolina, and tennessee neighbor north carolina in common.
+
+Question : which state do Nevada, Oregon, and Wyoming neighbor in common?
+LLM A    : nevada, oregon, and wyoming all border the state of idaho. therefore, they share a common border with idaho.
+Correct A: nevada, oregon, and wyoming neighbor idaho in common.
+
+Question : which state do Arizona, Colorado, and Wyoming neighbor in common?
+LLM A    : arizona, colorado, and wyoming all border the state of utah. therefore, they share a common border with utah.
+Correct A: arizona, colorado, and wyoming neighbor utah in common.
+
+Question : which state do Delaware, Pennsylvania, and West Virginia neighbor in common?
+LLM A    : delaware, pennsylvania, and west virginia all share a border with the state of maryland. therefore, they neighbor maryland in common.
+Correct A: delaware, pennsylvania, and west virginia neighbor maryland in common.
+
+Question : which state are Mount Elbert, Mount Princeton, and Pikes Peak located in in common?
+LLM A    : mount elbert, mount princeton, and pikes peak are all located in the u.s. state of colorado. specifically, they are located in the following counties:
+
+* mount elbert: saguache county
+* mount princeton: chaffee county
+* pikes peak: el paso county
+
+so, all three mountains are located in the same state of colorado.
+Correct A: mount elbert, mount princeton, and pikes peak located in colorado in common.
+
+Question : which state do Minnesota, Ohio, and Wisconsin neighbor in common?
+LLM A    : minnesota, ohio, and wisconsin all border the state of michigan. therefore, they all share a common neighbor in michigan.
+Correct A: minnesota, ohio, and wisconsin neighbor michigan in common.
+
+Question : which state do Arkansas, Kentucky, and North Carolina neighbor in common?
+LLM A    : arkansas, kentucky, and north carolina all border the state of tennessee. therefore, they all share a common border with tennessee.
+Correct A: arkansas, kentucky, and north carolina neighbor tennessee in common.
+
+Question : which state do Minnesota, Nebraska, and North Dakota neighbor in common?
+LLM A    : minnesota, nebraska, and north dakota all border the state of south dakota. therefore, they all share a common border with south dakota.
+Correct A: minnesota, nebraska, and north dakota neighbor south dakota in common.
+
+Question : which state do Minnesota, Missouri, and Nebraska neighbor in common?
+LLM A    : minnesota, missouri, and nebraska all border the state of iowa. therefore, they have a common neighbor in iowa.
+Correct A: minnesota, missouri, and nebraska neighbor iowa in common.
+
+Question : which state do Louisiana, Mississippi, and Texas neighbor in common?
+LLM A    : louisiana, mississippi, and texas all border the gulf of mexico. therefore, they share a common border along the gulf coast.
+Correct A: louisiana, mississippi, and texas neighbor arkansas in common.
+
+Question : which state do California, New Mexico, and Utah neighbor in common?
+LLM A    : california, new mexico, and utah all share a border with the state of arizona. therefore, they all neighbor arizona in common.
+Correct A: california, new mexico, and utah neighbor arizona in common.
+
+Question : which state do Maine, Massachusetts, and Vermont neighbor in common?
+LLM A    : maine, massachusetts, and vermont all border the state of new hampshire. therefore, they share a common border with new hampshire.
+Correct A: maine, massachusetts, and vermont neighbor new hampshire in common.
+
+Question : which state do Delaware, New Jersey, and Ohio neighbor in common?
+LLM A    : delaware, new jersey, and ohio all border the state of pennsylvania. therefore, they share a common border with pennsylvania.
+Correct A: delaware, new jersey, and ohio neighbor pennsylvania in common.
+
+Question : which state do Connecticut, New Jersey, and Vermont neighbor in common?
+LLM A    : connecticut, new jersey, and vermont all border the state of new york. therefore, they share a common border with new york.
+Correct A: connecticut, new jersey, and vermont neighbor new york in common.
+
+Question : which state do Missouri, Oklahoma, and Texas neighbor in common?
+LLM A    : missouri, oklahoma, and texas all share a border with the state of new mexico. therefore, they neighbor new mexico in common.
+Correct A: missouri, oklahoma, and texas neighbor arkansas in common.
+
+Question : which state do Missouri, South Dakota, and Wisconsin neighbor in common?
+LLM A    : missouri, south dakota, and wisconsin all border the state of minnesota. therefore, they all neighbor minnesota in common.
+Correct A: missouri, south dakota, and wisconsin neighbor iowa in common.
+
+Question : which state do Iowa, Minnesota, and Wyoming neighbor in common?
+LLM A    : iowa, minnesota, and wyoming all border the state of south dakota. therefore, they share a common border with south dakota.
+Correct A: iowa, minnesota, and wyoming neighbor south dakota in common.
+
+Question : which state do Indiana, Iowa, and Michigan neighbor in common?
+LLM A    : indiana, iowa, and michigan all border the state of illinois. therefore, they share a common border with the state of illinois.
+Correct A: indiana, iowa, and michigan neighbor illinois in common.
+
+Question : which state do Iowa, Kansas, and Oklahoma neighbor in common?
+LLM A    : iowa, kansas, and oklahoma are all bordered by the state of missouri. therefore, they share a common border with missouri.
+Correct A: iowa, kansas, and oklahoma neighbor missouri in common.
+
+Question : which state do Delaware, Pennsylvania, and Virginia neighbor in common?
+LLM A    : delaware, pennsylvania, and virginia all share a border with the state of maryland. therefore, the answer is maryland.
+Correct A: delaware, pennsylvania, and virginia neighbor maryland in common.
+
+Question : which state do Arizona, Texas, and Utah neighbor in common?
+LLM A    : arizona, texas, and utah all border the state of new mexico. therefore, they share a common border with new mexico.
+Correct A: arizona, texas, and utah neighbor new mexico in common.
+
+Question : which state do Massachusetts, Pennsylvania, and Vermont neighbor in common?
+LLM A    : massachusetts, pennsylvania, and vermont all border the state of new york. therefore, they share a common border with new york.
+Correct A: massachusetts, pennsylvania, and vermont neighbor new york in common.
+
+Question : which state do Arkansas, Mississippi, and Missouri neighbor in common?
+LLM A    : arkansas, mississippi, and missouri all share a common border. they are all located in the same region of the united states, known as the american south. specifically, they are all located in the midwestern united states.
+Correct A: arkansas, mississippi, and missouri neighbor tennessee in common.
+
+Question : which state do Arkansas, Illinois, and Tennessee neighbor in common?
+LLM A    : arkansas, illinois, and tennessee all border the state of missouri. therefore, they all neighbor missouri in common.
+Correct A: arkansas, illinois, and tennessee neighbor missouri in common.
+
+Question : which state do Indiana, Ohio, and Tennessee neighbor in common?
+LLM A    : indiana, ohio, and tennessee all share a border with the state of kentucky. so, the answer is kentucky.
+Correct A: indiana, ohio, and tennessee neighbor kentucky in common.
+
+Question : which state do Arizona, Nevada, and Wyoming neighbor in common?
+LLM A    : arizona, nevada, and wyoming all border the state of utah. therefore, they share a common border with utah.
+Correct A: arizona, nevada, and wyoming neighbor utah in common.
+
+Question : which state do Arkansas, Colorado, and New Mexico neighbor in common?
+LLM A    : arkansas, colorado, and new mexico all share a common border with the state of arizona.
+Correct A: arkansas, colorado, and new mexico neighbor oklahoma in common.
+
+Question : which state do Missouri, Tennessee, and West Virginia neighbor in common?
+LLM A    : missouri, tennessee, and west virginia all border the state of kentucky. therefore, they have a common neighbor in kentucky.
+Correct A: missouri, tennessee, and west virginia neighbor kentucky in common.
+
+Question : which state do Maryland, New York, and Ohio neighbor in common?
+LLM A    : maryland, new york, and ohio all border the state of pennsylvania. therefore, they share a common border with pennsylvania.
+Correct A: maryland, new york, and ohio neighbor pennsylvania in common.
+
+Question : which state do Arizona, California, and Idaho neighbor in common?
+LLM A    : arizona, california, and idaho all border the state of nevada. therefore, they have a common neighbor in nevada.
+Correct A: arizona, california, and idaho neighbor nevada in common.
+
+Question : which state do Georgia, South Carolina, and Virginia neighbor in common?
+LLM A    : georgia, south carolina, and virginia all share a border with the state of north carolina. therefore, they are neighbors in the state of north carolina.
+Correct A: georgia, south carolina, and virginia neighbor north carolina in common.
+
+Question : which state do North Carolina, Tennessee, and West Virginia neighbor in common?
+LLM A    : north carolina, tennessee, and west virginia all share a border with the state of virginia. therefore, they neighbor virginia in common.
+Correct A: north carolina, tennessee, and west virginia neighbor virginia in common.
+
+Question : which state do Kentucky, Maryland, and West Virginia neighbor in common?
+LLM A    : kentucky, maryland, and west virginia all share a border with the state of virginia. therefore, they all neighbor the state of virginia in common.
+Correct A: kentucky, maryland, and west virginia neighbor virginia in common.
+
+Question : which state do Iowa, Montana, and Wyoming neighbor in common?
+LLM A    : iowa, montana, and wyoming all border the state of north dakota. so, they all neighbor north dakota in common.
+Correct A: iowa, montana, and wyoming neighbor south dakota in common.
+
+Question : which state do Indiana, Tennessee, and Virginia neighbor in common?
+LLM A    : indiana, tennessee, and virginia all border the state of kentucky. therefore, they have a common neighbor in kentucky.
+Correct A: indiana, tennessee, and virginia neighbor kentucky in common.
+
+Question : which state do Colorado, Idaho, and Utah neighbor in common?
+LLM A    : colorado, idaho, and utah all border the state of wyoming in common.
+Correct A: colorado, idaho, and utah neighbor wyoming in common.
+
+Question : which state do Connecticut, New Hampshire, and New York neighbor in common?
+LLM A    : connecticut, new hampshire, and new york all share a common border. they are all located in the northeastern united states and neighbor each other in the following states:
+
+* connecticut borders new york to the west and new hampshire to the north.
+* new hampshire borders connecticut to the south and new york to the east.
+* new york borders connecticut to the northwest and new hampshire to the east.
+Correct A: connecticut, new hampshire, and new york neighbor massachusetts in common.
+
+Question : which state do New Mexico, Oklahoma, and Wyoming neighbor in common?
+LLM A    : new mexico, oklahoma, and wyoming all border the state of colorado. so, they have a common neighbor in colorado.
+Correct A: new mexico, oklahoma, and wyoming neighbor colorado in common.
+
+Question : which state do Arkansas, Iowa, and Tennessee neighbor in common?
+LLM A    : arkansas, iowa, and tennessee all border the state of missouri. so, they all neighbor missouri in common.
+Correct A: arkansas, iowa, and tennessee neighbor missouri in common.
+
+Question : which state do Missouri, Virginia, and West Virginia neighbor in common?
+LLM A    : missouri, virginia, and west virginia all share a common border with the state of kentucky.
+Correct A: missouri, virginia, and west virginia neighbor kentucky in common.
+
+Question : which state are Mount Adams, Mount Baker, and Mount Rainier located in in common?
+LLM A    : mount adams, mount baker, and mount rainier are all located in the state of washington in the united states. specifically, they are located in the following counties:
+
+* mount adams: klickitat county
+* mount baker: whatcom county
+* mount rainier: pierce county
+Correct A: mount adams, mount baker, and mount rainier located in washington in common.
+
+Question : which state do Iowa, Kansas, and Tennessee neighbor in common?
+LLM A    : iowa, kansas, and tennessee are all bordered by the state of missouri. therefore, they have a common border with missouri.
+Correct A: iowa, kansas, and tennessee neighbor missouri in common.
+
+Question : which state do Florida, South Carolina, and Tennessee neighbor in common?
+LLM A    : florida, south carolina, and tennessee all share a border with the state of georgia. therefore, the answer is georgia.
+Correct A: florida, south carolina, and tennessee neighbor georgia in common.
+
+Question : which state do Arizona, Nebraska, and Wyoming neighbor in common?
+LLM A    : arizona, nebraska, and wyoming all border the state of colorado. therefore, they have a common neighbor in colorado.
+Correct A: arizona, nebraska, and wyoming neighbor colorado in common.
+
+Question : which state do Arkansas, Colorado, and Texas neighbor in common?
+LLM A    : arkansas, colorado, and texas all share a border with the state of new mexico. therefore, the answer is new mexico.
+Correct A: arkansas, colorado, and texas neighbor oklahoma in common.
+
+Question : which state do California, Idaho, and Oregon neighbor in common?
+LLM A    : california, idaho, and oregon all border the state of washington. therefore, they share a common border with washington.
+Correct A: california, idaho, and oregon neighbor nevada in common.
+
+Question : which state do Alabama, Georgia, and Mississippi neighbor in common?
+LLM A    : alabama, georgia, and mississippi all share a common border in the state of louisiana.
+Correct A: alabama, georgia, and mississippi neighbor tennessee in common.
+
+Question : which state do Montana, Nebraska, and Wyoming neighbor in common?
+LLM A    : montana, nebraska, and wyoming all border the same state: colorado.
+Correct A: montana, nebraska, and wyoming neighbor south dakota in common.
+
+Question : which state do California, Colorado, and New Mexico neighbor in common?
+LLM A    : california, colorado, and new mexico are all located in the western united states. they share a common border in the state of arizona. therefore, the answer is arizona.
+Correct A: california, colorado, and new mexico neighbor arizona in common.
+
+Question : which state do Maryland, Ohio, and Virginia neighbor in common?
+LLM A    : maryland, ohio, and virginia all border the state of west virginia. therefore, they share a common border with west virginia.
+Correct A: maryland, ohio, and virginia neighbor west virginia in common.
+
+Question : which state do Indiana, Ohio, and Wisconsin neighbor in common?
+LLM A    : indiana, ohio, and wisconsin all border each other, so they neighbor in the state of michigan.
+Correct A: indiana, ohio, and wisconsin neighbor michigan in common.
+
+Question : which state do Kentucky, Tennessee, and West Virginia neighbor in common?
+LLM A    : kentucky, tennessee, and west virginia all border the state of virginia. therefore, they all neighbor virginia in common.
+Correct A: kentucky, tennessee, and west virginia neighbor virginia in common.
+
+Question : which state do Maryland, Pennsylvania, and Virginia neighbor in common?
+LLM A    : maryland, pennsylvania, and virginia all border each other. they are neighboring states in the mid-atlantic region of the united states. specifically, they share a common border along the mason-dixon line.
+Correct A: maryland, pennsylvania, and virginia neighbor west virginia in common.
+
+Question : which state do Mississippi, Oklahoma, and Tennessee neighbor in common?
+LLM A    : mississippi, oklahoma, and tennessee are all states located in the united states. they are neighbors in the state of arkansas. specifically:
+
+* mississippi borders arkansas to the west and south.
+* oklahoma borders arkansas to the northwest.
+* tennessee borders arkansas to the southeast.
+Correct A: mississippi, oklahoma, and tennessee neighbor arkansas in common.
+
+Question : which state do Alabama, Arkansas, and Georgia neighbor in common?
+LLM A    : alabama, arkansas, and georgia all border the state of tennessee. therefore, they have this state in common as a neighbor.
+Correct A: alabama, arkansas, and georgia neighbor tennessee in common.
+
+Question : which state do Arkansas, Kansas, and New Mexico neighbor in common?
+LLM A    : arkansas, kansas, and new mexico all border the state of texas. therefore, they share a common border with texas.
+Correct A: arkansas, kansas, and new mexico neighbor oklahoma in common.
+
+Question : which state do Colorado, South Dakota, and Utah neighbor in common?
+LLM A    : colorado, south dakota, and utah all border the state of wyoming. therefore, they have this state in common as a neighbor.
+Correct A: colorado, south dakota, and utah neighbor wyoming in common.
+
+Question : which state do Indiana, Kentucky, and Pennsylvania neighbor in common?
+LLM A    : indiana, kentucky, and pennsylvania all border the state of ohio. therefore, they share a common border with ohio.
+Correct A: indiana, kentucky, and pennsylvania neighbor ohio in common.
+
+Question : which state do Arizona, Nebraska, and Utah neighbor in common?
+LLM A    : arizona, nebraska, and utah all border the state of colorado. therefore, they all neighbor colorado in common.
+Correct A: arizona, nebraska, and utah neighbor colorado in common.
+
+Question : which state do Illinois, Nebraska, and South Dakota neighbor in common?
+LLM A    : all three states (illinois, nebraska, and south dakota) border the state of minnesota. therefore, they all neighbor minnesota in common.
+Correct A: illinois, nebraska, and south dakota neighbor iowa in common.
+
+Question : which state do Illinois, Kentucky, and Oklahoma neighbor in common?
+LLM A    : illinois, kentucky, and oklahoma are all located in the midwest region of the united states. they share a border with each other in the following states:
+
+* illinois and kentucky share a border along the mississippi river.
+* kentucky and oklahoma share a border along the tennessee river.
+
+so, the answer is that these three states neighbor each other in the state of tennessee.
+Correct A: illinois, kentucky, and oklahoma neighbor missouri in common.
+
+Question : which state do Arizona, Colorado, and Texas neighbor in common?
+LLM A    : arizona, colorado, and texas all border the state of new mexico. therefore, they have a common border with new mexico.
+Correct A: arizona, colorado, and texas neighbor new mexico in common.
+
+Question : which state do Idaho, Montana, and Nebraska neighbor in common?
+LLM A    : idaho, montana, and nebraska all border the state of wyoming. therefore, they share a common neighbor in wyoming.
+Correct A: idaho, montana, and nebraska neighbor wyoming in common.
+
+Question : which state do Illinois, Indiana, and Missouri neighbor in common?
+LLM A    : illinois, indiana, and missouri all border the state of kentucky. therefore, they have a common border with kentucky.
+Correct A: illinois, indiana, and missouri neighbor kentucky in common.
+
+Question : which state do Indiana, Tennessee, and West Virginia neighbor in common?
+LLM A    : indiana, tennessee, and west virginia all border the state of kentucky. therefore, they have a common neighbor in kentucky.
+Correct A: indiana, tennessee, and west virginia neighbor kentucky in common.
+
+Question : which state are Mount Adams, Mount Rainier, and Mount Saint Helens located in in common?
+LLM A    : mount adams, mount rainier, and mount saint helens are all located in the state of washington in the united states. specifically, they are located in the following counties:
+
+* mount adams: jefferson county
+* mount rainier: pierce county
+* mount saint helens: cowlitz county
+Correct A: mount adams, mount rainier, and mount saint helens located in washington in common.
+
+Question : which state do Arkansas, Kentucky, and Oklahoma neighbor in common?
+LLM A    : arkansas, kentucky, and oklahoma all border the state of tennessee. therefore, they all neighbor tennessee in common.
+Correct A: arkansas, kentucky, and oklahoma neighbor missouri in common.
+
+Question : which state do Missouri, Ohio, and Tennessee neighbor in common?
+LLM A    : missouri, ohio, and tennessee all share a common border. they are all located in the same region of the united states, known as the midwest. specifically, they are all located in the midwestern united states, also known as the heartland.
+Correct A: missouri, ohio, and tennessee neighbor kentucky in common.
+
+Question : which state do Iowa, Michigan, and Minnesota neighbor in common?
+LLM A    : iowa, michigan, and minnesota are all located in the same region of the united states, known as the midwest. specifically, they are all located in the upper midwest region, which includes the following states:
+
+* iowa
+* michigan
+* minnesota
+* wisconsin
+* north dakota
+* south dakota
+
+so, to answer your question, iowa, michigan, and minnesota neighbor each other in the state of minnesota.
+Correct A: iowa, michigan, and minnesota neighbor wisconsin in common.
+
+Question : which state do Arkansas, Illinois, and Nebraska neighbor in common?
+LLM A    : arkansas, illinois, and nebraska all border the state of missouri. so, the answer is missouri.
+Correct A: arkansas, illinois, and nebraska neighbor missouri in common.
+
+Question : which state do Louisiana, Mississippi, and Missouri neighbor in common?
+LLM A    : all three states - louisiana, mississippi, and missouri - are located in the southern united states. therefore, they share a common border in the state of arkansas.
+Correct A: louisiana, mississippi, and missouri neighbor arkansas in common.
+
+Question : which state do Idaho, North Dakota, and South Dakota neighbor in common?
+LLM A    : idaho, north dakota, and south dakota all border the state of montana. therefore, they share a common border with montana.
+Correct A: idaho, north dakota, and south dakota neighbor montana in common.
+
+Question : which state do Illinois, Iowa, and Kansas neighbor in common?
+LLM A    : illinois, iowa, and kansas all border the state of nebraska. therefore, they all neighbor nebraska in common.
+Correct A: illinois, iowa, and kansas neighbor missouri in common.
+
+Question : which state do Arkansas, Georgia, and Mississippi neighbor in common?
+LLM A    : arkansas, georgia, and mississippi all border the state of alabama. therefore, they all neighbor alabama in common.
+Correct A: arkansas, georgia, and mississippi neighbor tennessee in common.
+
+Question : which state do Arkansas, Georgia, and Kentucky neighbor in common?
+LLM A    : arkansas, georgia, and kentucky all share a border with the state of tennessee. therefore, they all neighbor tennessee in common.
+Correct A: arkansas, georgia, and kentucky neighbor tennessee in common.
+
+Question : which state do Kentucky, Michigan, and Wisconsin neighbor in common?
+LLM A    : kentucky, michigan, and wisconsin are all bordered by the same state: illinois. they share a common border with illinois to the south.
+Correct A: kentucky, michigan, and wisconsin neighbor illinois in common.
+
+Question : which state do Minnesota, Montana, and Nebraska neighbor in common?
+LLM A    : minnesota, montana, and nebraska all border the state of north dakota. therefore, they all share a common neighbor in north dakota.
+Correct A: minnesota, montana, and nebraska neighbor south dakota in common.
+
+Question : which state do Nevada, Utah, and Washington neighbor in common?
+LLM A    : nevada, utah, and washington all border the state of idaho. therefore, they share a common border with idaho.
+Correct A: nevada, utah, and washington neighbor idaho in common.
+
+Question : which state do Indiana, Minnesota, and Ohio neighbor in common?
+LLM A    : indiana, minnesota, and ohio all share a border with the state of michigan. therefore, they all neighbor michigan in common.
+Correct A: indiana, minnesota, and ohio neighbor michigan in common.
+
+Question : which state do Oregon, Washington, and Wyoming neighbor in common?
+LLM A    : oregon, washington, and wyoming all border the state of idaho. therefore, they neighbor idaho in common.
+Correct A: oregon, washington, and wyoming neighbor idaho in common.
+
+Question : which state do Kansas, Nebraska, and Tennessee neighbor in common?
+LLM A    : kansas, nebraska, and tennessee all border the state of arkansas. therefore, they share a common border with arkansas.
+Correct A: kansas, nebraska, and tennessee neighbor missouri in common.
+
+Question : which state do Arkansas, Kentucky, and Missouri neighbor in common?
+LLM A    : arkansas, kentucky, and missouri all share a common border. they are all located in the same region of the united states, known as the midwest. specifically, they are all located in the central time zone and are neighbors in the states of:
+
+* arkansas shares borders with missouri and oklahoma
+* kentucky shares borders with tennessee, virginia, and missouri
+* missouri shares borders with iowa, kansas, nebraska, and oklahoma.
+Correct A: arkansas, kentucky, and missouri neighbor tennessee in common.
+
+Question : which state do Illinois, Ohio, and Virginia neighbor in common?
+LLM A    : illinois, ohio, and virginia all border the state of pennsylvania. therefore, they share a common border with pennsylvania.
+Correct A: illinois, ohio, and virginia neighbor kentucky in common.
+
+Question : which state do Nebraska, New Mexico, and Wyoming neighbor in common?
+LLM A    : nebraska, new mexico, and wyoming all share a common border with the state of colorado.
+Correct A: nebraska, new mexico, and wyoming neighbor colorado in common.
+
+Question : which state do Illinois, Iowa, and Oklahoma neighbor in common?
+LLM A    : illinois, iowa, and oklahoma are all bordered by the state of missouri. therefore, they share a common border with missouri.
+Correct A: illinois, iowa, and oklahoma neighbor missouri in common.
+
+Question : which state do Montana, Oregon, and Utah neighbor in common?
+LLM A    : montana, oregon, and utah all border the state of idaho. therefore, they have a common neighbor in idaho.
+Correct A: montana, oregon, and utah neighbor idaho in common.
+
+Question : which state do Connecticut, New Hampshire, and Vermont neighbor in common?
+LLM A    : connecticut, new hampshire, and vermont all border the state of massachusetts. therefore, they share a common border with massachusetts.
+Correct A: connecticut, new hampshire, and vermont neighbor massachusetts in common.
+
+Question : which state do New Hampshire, New York, and Vermont neighbor in common?
+LLM A    : new hampshire, new york, and vermont all share a border with the state of massachusetts. so, the answer is massachusetts.
+Correct A: new hampshire, new york, and vermont neighbor massachusetts in common.
+

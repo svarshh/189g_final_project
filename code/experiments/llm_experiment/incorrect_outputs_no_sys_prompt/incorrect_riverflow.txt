@@ -1,0 +1,616 @@
+Question : What states does the mississippi river flow through?
+LLM A    : the mississippi river flows through 10 states in the united states:
+
+1. minnesota
+2. wisconsin
+3. iowa
+4. illinois
+5. missouri
+6. kentucky
+7. tennessee
+8. arkansas
+9. louisiana
+10. mississippi
+
+these states are located along the river's 2,320-mile (3,734 km) course from its source in lake itasca, minnesota to the gulf of mexico.
+Correct A: the mississippi river flows through arkansas, illinois, iowa, kentucky, louisiana, minnesota, mississippi, missouri, tennessee, and wisconsin.
+
+Question : What states does the missouri river flow through?
+LLM A    : the missouri river flows through several states in the united states. here are the states the missouri river flows through, from its source to its confluence with the mississippi river:
+
+1. montana: the missouri river originates in the mountains of western montana and flows southwest through the state before entering north dakota.
+2. north dakota: the river flows through north dakota for about 300 miles (480 km), passing through the cities of williston, minot, and bismarck before entering south dakota.
+3. south dakota: the missouri river flows through southern south dakota, passing through the cities of pierre, sioux falls, and yankton before entering nebraska.
+4. nebraska: the river flows through nebraska for about 200 miles (320 km), passing through the cities of omaha and lincoln before entering iowa.
+5. iowa: the missouri river flows through eastern iowa, passing through the cities of council bluffs and sioux city before entering missouri.
+6. missouri: the river flows through western missouri, passing through the cities of kansas city and st. louis before entering kentucky.
+7. kentucky: the missouri river flows through northern kentucky for about 100 miles (160 km) before entering tennessee.
+8. tennessee: the river flows through eastern tennessee for about 200 miles (320 km) before entering alabama.
+9. alabama: the missouri river flows through southern alabama for about 150 miles (240 km) before entering georgia.
+10. georgia: the river flows through western georgia for about 200 miles (320 km) before entering florida.
+
+so, the states that the missouri river flows through are montana, north dakota, south dakota, nebraska, iowa, missouri, kentucky, tennessee, alabama, and georgia.
+Correct A: the missouri river flows through iowa, missouri, montana, nebraska, north dakota, and south dakota.
+
+Question : What states does the colorado river flow through?
+LLM A    : the colorado river flows through several states in the western united states. the river originates in the rocky mountains of colorado and utah, and flows through the following states:
+
+1. colorado
+2. utah
+3. arizona
+4. nevada
+5. california
+6. mexico (through the sonoran desert)
+
+the colorado river forms the border between arizona and california for a portion of its course, and also flows through the grand canyon national park in arizona.
+Correct A: the colorado river flows through arizona, california, colorado, nevada, and utah.
+
+Question : What states does the ohio river flow through?
+LLM A    : the ohio river flows through several states in the united states. the river originates in western pennsylvania and flows through the following states before emptying into the mississippi river at cincinnati, ohio:
+
+1. pennsylvania
+2. west virginia
+3. ohio (through which it flows)
+4. indiana
+5. illinois
+
+in total, the ohio river flows through six states: pennsylvania, west virginia, ohio, indiana, illinois, and kentucky.
+Correct A: the ohio river flows through illinois, indiana, kentucky, ohio, pennsylvania, and west virginia.
+
+Question : What states does the red river flow through?
+LLM A    : the red river flows through several states in the united states and canada. in the united states, the red river flows through the following states:
+
+1. north dakota
+2. minnesota
+3. wisconsin
+4. iowa
+5. south dakota
+
+in canada, the red river flows through the province of manitoba.
+Correct A: the red river flows through arkansas, louisiana, new mexico, oklahoma, and texas.
+
+Question : What states does the arkansas river flow through?
+LLM A    : the arkansas river flows through several states in the united states, including:
+
+1. colorado: the arkansas river originates in the sawatch range of the rocky mountains in chaffee county, colorado, and flows southwest through the arkansas river valley before emptying into the rio grande at lake pueblo.
+2. kansas: the river then flows through kansas, passing through the cities of salina, great bend, and wichita, before entering oklahoma.
+3. oklahoma: the arkansas river enters oklahoma from kansas and flows through the southeastern part of the state, passing through the cities of muskogee and fort gibson, before emptying into lake tenkiller.
+4. arkansas: the river then flows through the western part of arkansas, passing through the cities of dardanelle, russellville, and conway, before entering the mississippi river at little rock.
+
+in total, the arkansas river flows through four states in the united states: colorado, kansas, oklahoma, and arkansas.
+Correct A: the arkansas river flows through arkansas, colorado, kansas, and oklahoma.
+
+Question : What states does the canadian river flow through?
+LLM A    : the canadian river is a fictional river, so it doesn't actually flow through any states. the name "canadian river" is likely a reference to the fact that canada is a country located in north america, and the river may be imaginary or hypothetical. if you have any other questions, feel free to ask!
+Correct A: the canadian river flows through colorado, new mexico, oklahoma, and texas.
+
+Question : What states does the connecticut river flow through?
+LLM A    : the connecticut river flows through several states in new england, including:
+
+1. connecticut
+2. massachusetts
+3. vermont
+4. new hampshire
+5. maine
+
+the connecticut river is approximately 410 miles (660 km) long and forms the border between connecticut and massachusetts before flowing into long island sound. it passes through several major cities, including hartford, connecticut; springfield, massachusetts; and pittsfield, massachusetts.
+Correct A: the connecticut river flows through connecticut, massachusetts, new hampshire, and vermont.
+
+Question : What states does the delaware river flow through?
+LLM A    : the delaware river flows through several states in the eastern united states. the river's course spans across four states:
+
+1. pennsylvania
+2. new jersey
+3. delaware
+4. maryland
+
+here are the specific counties and cities in each state where the delaware river flows:
+
+pennsylvania:
+
+* counties: lackawanna, wayne, pike, monroe, carbon, northampton, bucks, montgomery, philadelphia, and chester
+* cities: scranton, wilkes-barre, allentown, bethlehem, easton, philadelphia
+
+new jersey:
+
+* counties: warren, hunterdon, somerset, mercer, middlesex, burlington, camden, gloucester
+* cities: belmar, cape may, hammonton, trenton, new brunswick, woodbridge
+
+delaware:
+
+* counties: sussex, kent, new castle
+* cities: rehoboth beach, dewey beach, milton, dover
+
+maryland:
+
+* counties: cecil, harford, baltimore, carroll, frederick, washington
+* cities: elkton, havre de grace, bel air, annapolis, frederick
+
+the delaware river originates in the pocono mountains of pennsylvania and flows approximately 210 miles (338 km) southwest through these four states before emptying into the delaware bay and eventually the atlantic ocean.
+Correct A: the delaware river flows through delaware, new jersey, new york, and pennsylvania.
+
+Question : What states does the little missouri river flow through?
+LLM A    : the little missouri river is a tributary of the missouri river and flows through several states in the united states. the little missouri river originates in the black hills of south dakota and flows through the following states:
+
+1. south dakota: the little missouri river flows through the western part of south dakota, including the black hills and the badlands.
+2. north dakota: the river then enters north dakota and flows through the western part of the state, including the fort yellowstone area.
+3. montana: the little missouri river enters montana and flows through the western part of the state, including the beartooth mountains and the paradise valley.
+4. wyoming: the river then enters wyoming and flows through the jackson hole area before joining the missouri river near fort benton.
+
+so, to answer your question, the little missouri river flows through the following states: south dakota, north dakota, montana, and wyoming.
+Correct A: the little missouri river flows through montana, north dakota, south dakota, and wyoming.
+
+Question : What states does the snake river flow through?
+LLM A    : the snake river flows through several states in the western united states, including:
+
+1. idaho
+2. wyoming
+3. montana
+4. oregon
+5. washington
+
+the snake river originates in the rocky mountains of wyoming and flows southward through idaho and montana before entering oregon and washington, where it empties into the columbia river.
+Correct A: the snake river flows through idaho, oregon, washington, and wyoming.
+
+Question : What states does the chattahoochee river flow through?
+LLM A    : the chattahoochee river flows through several states in the southeastern united states. here are the states that the river flows through:
+
+1. georgia: the chattahoochee river originates in the blue ridge mountains of north-central georgia and flows southward through the state for approximately 430 miles (690 km) before reaching lake lanier.
+2. alabama: after passing through georgia, the chattahoochee river enters alabama and flows for about 150 miles (240 km) before emptying into lake weiss.
+3. florida: the river then continues into florida, where it flows for about 150 miles (240 km) before entering the gulf of mexico at the florida-alabama border.
+
+so, to summarize, the chattahoochee river flows through the following states: georgia, alabama, and florida.
+Correct A: the chattahoochee river flows through florida and georgia.
+
+Question : What states does the cimarron river flow through?
+LLM A    : the cimarron river is a river located in the south-central united states. it flows through several states, including:
+
+1. new mexico: the cimarron river originates in the sangre de cristo mountains of northern new mexico and flows southeast through the state before entering texas.
+2. texas: the river flows through the texas panhandle, passing through the towns of eagle nest, red river, and cimarron.
+3. oklahoma: the cimarron river enters oklahoma from the north and flows south through the state, passing through the towns of fritch and texhoma.
+4. kansas: the river enters kansas from the west and flows east through the state, passing through the town of baxter springs before emptying into the arkansas river.
+
+overall, the cimarron river flows through four states in the south-central united states: new mexico, texas, oklahoma, and kansas.
+Correct A: the cimarron river flows through kansas, new mexico, and oklahoma.
+
+Question : What states does the green river flow through?
+LLM A    : the green river flows through several states in the western united states. here are the states that the green river flows through:
+
+1. colorado - the green river originates in the mountains of colorado and flows through the state for a distance of about 200 miles (322 km) before entering utah.
+2. utah - the green river flows through utah for about 250 miles (403 km), passing through the green river canyon and the flaming gorge reservoir.
+3. wyoming - the green river enters wyoming from utah and flows through the state for about 100 miles (161 km) before entering idaho.
+4. idaho - the green river flows through idaho for about 200 miles (322 km), passing through the snake river canyon and the hells canyon national recreation area.
+5. oregon - the green river enters oregon from idaho and flows through the state for about 50 miles (80 km) before emptying into the columbia river.
+
+overall, the green river flows through five states in the western united states: colorado, utah, wyoming, idaho, and oregon.
+Correct A: the green river flows through colorado, utah, and wyoming.
+
+Question : What states does the north platte river flow through?
+LLM A    : the north platte river flows through several states in the united states, including:
+
+1. nebraska: the north platte river originates in the rocky mountains of wyoming and flows through much of western nebraska before joining the south platte river near north platte, nebraska.
+2. colorado: the river then flows through northeastern colorado, passing through the cities of bridgeport, sinclair, and kersey before entering wyoming.
+3. wyoming: the north platte river flows through southeastern wyoming, passing through the cities of saratoga, rawlins, and encampment before joining the south platte river near wheatland, wyoming.
+4. kansas: the river then flows through northeastern kansas, passing through the cities of gothenburg, mccook, and north platte before entering nebraska.
+5. south dakota: the north platte river flows through western south dakota, passing through the city of mitchell before entering nebraska.
+
+in total, the north platte river flows through six states: nebraska, colorado, wyoming, kansas, and south dakota.
+Correct A: the north platte river flows through colorado, nebraska, and wyoming.
+
+Question : What states does the potomac river flow through?
+LLM A    : the potomac river flows through several states in the united states, including:
+
+1. virginia: the potomac river forms the border between maryland and virginia, and it flows through the following counties in virginia:
+	* arlington county
+	* fairfax county
+	* prince william county
+	* loudoun county
+	* frederick county
+	* clarke county
+	* warren county
+2. maryland: the potomac river also forms the border between maryland and virginia, and it flows through the following counties in maryland:
+	* montgomery county
+	* prince george's county
+	* charles county
+	* st. mary's county
+3. washington, d.c.: the potomac river flows through the district of columbia, specifically through the following areas:
+	* georgetown
+	* southwest d.c.
+	* anacostia
+4. west virginia: the potomac river forms the border between west virginia and maryland, and it flows through the following counties in west virginia:
+	* berkeley county
+	* jefferson county
+	* morgan county
+	* grant county
+
+in total, the potomac river flows through 5 states in the united states.
+Correct A: the potomac river flows through district of columbia, maryland, virginia, and west virginia.
+
+Question : What states does the republican river flow through?
+LLM A    : the republican river is a river located in the western united states, primarily flowing through kansas and nebraska. the river originates in southern colorado and flows through the following states:
+
+1. colorado
+2. kansas
+3. nebraska
+
+in kansas, the republican river flows through the following counties:
+
+* chase county
+* cowley county
+* elk county
+* greenwood county
+* marion county
+* mcpherson county
+* rice county
+* reno county
+* riley county
+* saline county
+* scott county
+* wichita county
+
+in nebraska, the republican river flows through the following counties:
+
+* butler county
+* colfax county
+* cuming county
+* dakota county
+* dodge county
+* fillmore county
+* thurston county
+
+note that the river's path may change slightly depending on the location and time of year due to factors such as precipitation, evaporation, and other environmental conditions.
+Correct A: the republican river flows through colorado, kansas, and nebraska.
+
+Question : What states does the rio grande river flow through?
+LLM A    : the rio grande river flows through several states in north america, including:
+
+1. texas, united states - the rio grande forms the border between texas and mexico before flowing into new mexico.
+2. new mexico, united states - the river flows through the western part of new mexico, including the cities of el paso and las cruces.
+3. colorado, united states - the rio grande flows through the southwestern part of colorado, including the cities of monte vista and alamosa.
+4. arizona, united states - the river flows through the southern part of arizona, including the city of tucson.
+5. mexico - the rio grande forms the border between texas and mexico before flowing into the gulf of california.
+
+in total, the rio grande river flows through 6 states in the united states and 1 country (mexico).
+Correct A: the rio grande river flows through colorado, new mexico, and texas.
+
+Question : What states does the san juan river flow through?
+LLM A    : the san juan river flows through several states in the southwestern united states. the river's course spans across arizona, new mexico, and utah. here are the specific states that the san juan river flows through:
+
+1. arizona: the san juan river originates in the colorado plateau in northern arizona, specifically in the white mountains of apache county. it flows southeast through the navajo nation and eventually enters utah.
+2. new mexico: the san juan river flows through western new mexico, passing through the san juan national forest and the navajo reservation. it joins the colorado river near bluff, utah.
+3. utah: the san juan river enters utah from arizona and flows northwest through the san juan mountains before merging with the colorado river.
+
+in total, the san juan river flows through three states in the southwestern united states.
+Correct A: the san juan river flows through colorado, new mexico, and utah.
+
+Question : What states does the tennessee river flow through?
+LLM A    : the tennessee river flows through several states in the southeastern united states. here are the states that the tennessee river flows through, from source to mouth:
+
+1. tennessee: the tennessee river originates in the great smoky mountains of tennessee and flows through the state for approximately 200 miles before entering alabama.
+2. alabama: the river then flows through northern alabama, passing through the cities of decatur, athens, and huntsville, before entering the gulf of mexico.
+3. georgia: the tennessee river enters georgia near the city of chattanooga and flows southward through the state, passing through the cities of columbus and lagrange, before entering alabama again.
+4. kentucky: a short section of the tennessee river flows through western kentucky before entering tennessee again.
+5. mississippi: the river then flows through southern mississippi, passing through the cities of tuscumbia and corinth, before entering alabama once more.
+6. arkansas: the tennessee river enters arkansas near the city of pickwick dam and flows southward through the state, passing through the cities of blytheville and marianna, before entering tennessee again.
+7. tennessee (again): finally, the tennessee river flows through western tennessee, passing through the cities of savannah and martin, before emptying into the ohio river at paducah, kentucky.
+
+so, to summarize, the tennessee river flows through the following states: tennessee, alabama, georgia, kentucky, mississippi, arkansas, and tennessee (again).
+Correct A: the tennessee river flows through alabama, kentucky, and tennessee.
+
+Question : What states does the wabash river flow through?
+LLM A    : the wabash river is a major river in the midwestern united states, and it flows through several states. here are the states that the wabash river flows through:
+
+1. indiana: the wabash river originates in western indiana, near the city of monticello, and flows southwest through the state to its confluence with the ohio river.
+2. illinois: the river then flows into southern illinois, where it passes through the cities of vincennes, terre haute, and carbondale before entering kentucky.
+3. kentucky: the wabash river enters kentucky from the north and flows south through the western part of the state, passing through the cities of owensboro and paducah.
+4. missouri: the river then flows into southern missouri, where it passes through the city of st. louis before entering tennessee.
+5. tennessee: the wabash river enters tennessee from the south and flows north through the western part of the state, passing through the cities of martin and hardin county before entering alabama.
+
+in total, the wabash river flows through five states: indiana, illinois, kentucky, missouri, and tennessee.
+Correct A: the wabash river flows through illinois, indiana, and ohio.
+
+Question : What states does the yellowstone river flow through?
+LLM A    : the yellowstone river is a major river in the western united states and flows through several states. here are the states that the yellowstone river flows through:
+
+1. montana: the yellowstone river originates in the northern part of montana, specifically in the beartooth mountains near the town of absarokee. it flows southwest through montana and forms the border between montana and wyoming before entering yellowstone national park.
+2. wyoming: within yellowstone national park, the yellowstone river flows through the park's northern region, passing by geysers, hot springs, and other hydrothermal features.
+3. nebraska: after leaving yellowstone national park, the yellowstone river flows south into nebraska, where it forms the border between nebraska and south dakota before entering kansas.
+4. kansas: the yellowstone river flows through western kansas, passing through the cities of scott city and beloit before entering oklahoma.
+5. oklahoma: in oklahoma, the yellowstone river flows through the southeastern part of the state, passing through the city of tulsa before entering arkansas.
+6. arkansas: the yellowstone river enters arkansas from oklahoma and flows through the western part of the state, passing through the cities of fort smith and van buren before entering louisiana.
+7. louisiana: in louisiana, the yellowstone river flows through the eastern part of the state, passing through the city of shreveport before entering texas.
+8. texas: the yellowstone river enters texas from louisiana and flows through the western part of the state, passing through the cities of marshall and longview before entering oklahoma.
+
+overall, the yellowstone river flows through eight states in the western united states: montana, wyoming, nebraska, kansas, oklahoma, arkansas, louisiana, and texas.
+Correct A: the yellowstone river flows through montana, north dakota, and wyoming.
+
+Question : What states does the allegheny river flow through?
+LLM A    : the allegheny river flows through several states in the eastern united states. here are the states it flows through:
+
+1. pennsylvania: the allegheny river originates in cook forest, pennsylvania, and flows southeast through the state before emptying into the ohio river at pittsburgh.
+2. west virginia: the river then flows southwest through west virginia, passing through the cities of warren and parkersburg.
+3. ohio: the allegheny river enters ohio from west virginia and flows through the northern part of the state, passing through the cities of warren, youngstown, and east liverpool before emptying into the ohio river.
+4. new york: a small portion of the allegheny river flows through western new york, specifically in the town of olean.
+
+overall, the allegheny river flows through a total of four states: pennsylvania, west virginia, ohio, and new york.
+Correct A: the allegheny river flows through new york and pennsylvania.
+
+Question : What states does the bighorn river flow through?
+LLM A    : the bighorn river is a river located in the state of montana, united states. it flows through several counties and cities before emptying into the yellowstone river. the main states that the bighorn river flows through are:
+
+1. montana: the bighorn river originates in the bighorn canyon national recreation area in south-central montana and flows westward through the bighorn mountains before emptying into the yellowstone river.
+2. wyoming: the river then flows into wyoming, where it passes through the town of buffalo and continues westward until it reaches the yellowstone river.
+3. yellowstone national park: a small portion of the bighorn river flows through yellowstone national park in wyoming before it enters montana again.
+
+overall, the bighorn river flows through a total of four states: montana, wyoming, montana (again), and yellowstone national park (wyoming).
+Correct A: the bighorn river flows through montana and wyoming.
+
+Question : What states does the cheyenne river flow through?
+LLM A    : the cheyenne river flows through several states in the united states. here are the states it flows through:
+
+1. south dakota: the cheyenne river originates in the black hills of south dakota and flows eastward through the state, passing through the counties of pennington, meade, and stanley.
+2. wyoming: after exiting south dakota, the cheyenne river enters wyoming and flows northward through the counties of campbell, johnson, and sheridan.
+3. montana: the river then enters montana and flows westward through the counties of rosebud and powell.
+4. nebraska: finally, the cheyenne river enters nebraska and flows eastward through the county of scotts bluff before emptying into the north platte river.
+
+so, to summarize, the cheyenne river flows through the following states: south dakota, wyoming, montana, and nebraska.
+Correct A: the cheyenne river flows through north dakota and wyoming.
+
+Question : What states does the clark fork river flow through?
+LLM A    : the clark fork river is a major river located in western montana, united states. it flows through several states before emptying into flathead lake and eventually the mission river. the clark fork river flows through the following states:
+
+1. montana: the clark fork river originates in the mission mountains of southwestern montana and flows northward through the western part of the state, passing through the cities of missoula, florence, and clinton.
+2. idaho: after flowing through montana, the clark fork river enters idaho and flows westward through the counties of ravalli, bitterroot, and valley. it forms the border between idaho and montana for a portion of its course.
+3. wyoming: the clark fork river then flows into wyoming, where it joins the bitterroot river to form the beaverhead river.
+
+overall, the clark fork river flows through three states in the western united states: montana, idaho, and wyoming.
+Correct A: the clark fork river flows through idaho and montana.
+
+Question : What states does the columbia river flow through?
+LLM A    : the columbia river flows through several states in the pacific northwest region of the united states. the river originates in the rocky mountains of british columbia, canada, and flows south through the following states:
+
+1. british columbia, canada
+2. washington state, usa
+3. oregon state, usa
+4. idaho state, usa
+5. montana state, usa
+6. north dakota state, usa (briefly)
+7. south dakota state, usa (briefly)
+
+the columbia river eventually empties into the pacific ocean at the columbia river estuary, which is located on the oregon-washington border.
+Correct A: the columbia river flows through oregon and washington.
+
+Question : What states does the cumberland river flow through?
+LLM A    : the cumberland river is a major river located in the eastern united states. it flows through several states, including:
+
+1. tennessee: the cumberland river originates in caryville, tennessee and flows through the western part of the state before entering kentucky.
+2. kentucky: the river flows through kentucky for approximately 210 miles (338 km), passing through cities such as clarksville, hopkinsville, and bowling green.
+3. alabama: the cumberland river enters alabama from the north and flows through the northern part of the state before entering into guntersville lake.
+4. georgia: the river flows through the southern part of georgia, passing through cities such as lagrange and carrollton.
+5. south carolina: the cumberland river enters south carolina from the south and flows through the western part of the state before emptying into lake hartwell.
+
+overall, the cumberland river flows through a total of 4 states in the eastern united states.
+Correct A: the cumberland river flows through kentucky and tennessee.
+
+Question : What states does the dakota river flow through?
+LLM A    : the dakota river flows through several states in the united states. here are the states it flows through, from source to mouth:
+
+1. minnesota: the dakota river originates in carver county, minnesota, and flows southwest through the twin cities metropolitan area before emptying into the mississippi river near red wing, minnesota.
+2. wisconsin: after flowing through minnesota, the dakota river enters wisconsin and flows through goodhue, red wing, and wabasha counties before reaching the mississippi river.
+3. iowa: the dakota river then enters iowa and flows through allamakee county before entering the mississippi river.
+
+so, to answer your question, the dakota river flows through the following states: minnesota, wisconsin, and iowa.
+Correct A: the dakota river flows through north dakota and south dakota.
+
+Question : What states does the gila river flow through?
+LLM A    : the gila river is a major river in the southwestern united states, and it flows through several states. the river originates in the gila national forest in new mexico and flows through the following states:
+
+1. new mexico: the gila river flows through the western part of new mexico, passing through the gila national forest and the towns of silver city, cliff, and gila.
+2. arizona: the river enters arizona from new mexico and flows through the counties of graham, greenlee, and apache. it passes through the towns of duncan, st. johns, and florence before reaching its confluence with the colorado river.
+3. texas: a small portion of the gila river flows through southeastern texas, specifically in the big bend national park.
+
+the gila river is approximately 320 miles (515 km) long and is a significant source of water for irrigation, drinking water, and recreational activities in the states it flows through.
+Correct A: the gila river flows through arizona and new mexico.
+
+Question : What states does the hudson river flow through?
+LLM A    : the hudson river flows through several states in the northeastern united states. here are the states that the hudson river flows through, from south to north:
+
+1. new york: the hudson river begins in the adirondack mountains of upstate new york and flows southward through the state, passing through the cities of albany, troy, and newburgh before emptying into the atlantic ocean at new york harbor.
+2. new jersey: the hudson river forms the eastern boundary of new jersey, flowing through the counties of bergen, hudson, and essex before entering new york state.
+3. connecticut: the hudson river flows through the western part of connecticut, passing through the towns of ridgefield, wilton, and norwalk before entering new york state.
+4. massachusetts: the hudson river forms the eastern boundary of massachusetts, flowing through the berkshire mountains and passing through the cities of pittsfield and north adams before entering new york state.
+
+overall, the hudson river flows through the states of new york, new jersey, connecticut, and massachusetts.
+Correct A: the hudson river flows through new jersey and new york.
+
+Question : What states does the neosho river flow through?
+LLM A    : the neosho river flows through several states in the united states, including:
+
+1. missouri: the neosho river originates in the ozark mountains of southern missouri and flows westward through the counties of newton, mcdonald, and barry before entering oklahoma.
+2. oklahoma: the neosho river flows through the western part of oklahoma, passing through the counties of ottawa, craig, and nowata before entering kansas.
+3. kansas: the neosho river enters kansas in the north-central part of the state and flows southward through the counties of greenwood, labette, and cherokee before reaching its confluence with the arkansas river.
+
+in total, the neosho river flows through the states of missouri, oklahoma, and kansas.
+Correct A: the neosho river flows through kansas and oklahoma.
+
+Question : What states does the niobrara river flow through?
+LLM A    : the niobrara river flows through several states in the united states, including:
+
+1. nebraska: the niobrara river originates in the sandhills of northern nebraska and flows south through the state before entering wyoming.
+2. wyoming: the river flows through western wyoming, passing through the towns of valentine, chadron, and scottsbluff.
+3. south dakota: the niobrara river enters south dakota from wyoming and flows east through the states of north and south dakota before entering the missouri river.
+
+in total, the niobrara river flows through three states: nebraska, wyoming, and south dakota.
+Correct A: the niobrara river flows through nebraska and wyoming.
+
+Question : What states does the ouachita river flow through?
+LLM A    : the ouachita river is a significant river in the southeastern united states, and it flows through several states before emptying into the arkansas river. the states through which the ouachita river flows are:
+
+1. arkansas: the ouachita river originates in the ouachita mountains of central arkansas and flows southwest through the state before entering louisiana.
+2. louisiana: the river flows through northern louisiana, passing through the cities of monroe and west monroe before entering the red river.
+3. oklahoma: the ouachita river forms the border between oklahoma and arkansas for a portion of its course, flowing through the southeastern part of the state before entering texas.
+4. texas: the river flows through eastern texas, passing through the cities of jefferson and jasper before emptying into the neches river.
+
+overall, the ouachita river flows through four states in the southeastern united states: arkansas, louisiana, oklahoma, and texas.
+Correct A: the ouachita river flows through arkansas and louisiana.
+
+Question : What states does the pearl river flow through?
+LLM A    : the pearl river flows through several states in the united states. here are the states that the pearl river flows through, from its source to its mouth:
+
+1. mississippi: the pearl river originates in central mississippi, near the town of carthage, and flows westward through the state.
+2. alabama: the river enters alabama from mississippi and flows southward through the state, passing through the cities of columbus and meridian.
+3. georgia: the pearl river enters georgia from alabama and flows southeastward through the state, passing through the city of albany.
+4. south carolina: the river enters south carolina from georgia and flows southward through the state, eventually emptying into the atlantic ocean near the city of charleston.
+
+in summary, the pearl river flows through the following states: mississippi, alabama, georgia, and south carolina.
+Correct A: the pearl river flows through louisiana and michigan.
+
+Question : What states does the pecos river flow through?
+LLM A    : the pecos river flows through several states in the southwestern united states. here are the states it flows through, from its source to its mouth:
+
+1. new mexico: the pecos river originates in the sangre de cristo mountains of northern new mexico and flows southeast through the state before entering texas.
+2. texas: the river enters texas near the town of pecos and flows southwest through the trans-pecos region, passing through the towns of del rio, eagle pass, and laughlin air force base.
+3. chihuahua: the pecos river forms part of the border between texas and mexico before entering the mexican state of chihuahua.
+4. coahuila: the river continues to flow through the mexican states of coahuila and durango before emptying into the rio grande near the city of ciudad juárez.
+
+in total, the pecos river flows through four states in the united states (new mexico, texas, arizona, and oklahoma) and two states in mexico (chihuahua and coahuila).
+Correct A: the pecos river flows through new mexico and texas.
+
+Question : What states does the powder river flow through?
+LLM A    : the powder river flows through several states in the united states, including:
+
+1. wyoming: the powder river flows through northern wyoming, passing through the powder river basin.
+2. montana: the river flows into montana from wyoming and flows through the eastern part of the state.
+3. north dakota: the powder river enters north dakota from montana and flows through the western part of the state.
+4. south dakota: the river flows through southern south dakota, passing through the badlands region.
+
+overall, the powder river flows through parts of four states in the united states: wyoming, montana, north dakota, and south dakota.
+Correct A: the powder river flows through montana and wyoming.
+
+Question : What states does the roanoke river flow through?
+LLM A    : the roanoke river flows through several states in the southeastern united states. the river originates in virginia and flows through the following states:
+
+1. virginia: the roanoke river begins in montgomery county, virginia, and flows southwest through the state before emptying into the albemarle sound.
+2. north carolina: the river then enters north carolina and flows through several counties, including rocky mount, tarboro, and greenville, before reaching its confluence with the atlantic ocean.
+3. south carolina: a short section of the roanoke river flows through south carolina, specifically in the eastern part of the state near the town of weldon.
+4. tennessee: the river briefly enters tennessee before flowing into the holston river, a tributary of the tennessee river.
+
+overall, the roanoke river flows through the states of virginia, north carolina, south carolina, and tennessee.
+Correct A: the roanoke river flows through north carolina and virginia.
+
+Question : What states does the rock river flow through?
+LLM A    : the rock river flows through several states in the united states, including:
+
+1. wisconsin: the rock river originates in vilas county, wisconsin, and flows southwest through the state to join the mississippi river near janesville, wisconsin.
+2. illinois: the rock river flows through northern illinois, passing through the cities of rockford, beloit, and loves park before emptying into the illinois river.
+3. iowa: the rock river forms part of the border between wisconsin and iowa, flowing through the northeastern part of iowa before joining the mississippi river near dubuque, iowa.
+
+in total, the rock river flows through four states in the midwest: wisconsin, illinois, iowa, and minnesota.
+Correct A: the rock river flows through illinois and wisconsin.
+
+Question : What states does the smoky hill river flow through?
+LLM A    : the smoky hill river is a river located in the state of kansas, united states. it flows through the following counties and cities:
+
+1. barton county
+2. pawnee county
+3. rice county
+4. reno county
+5. ellis county
+6. wichita county
+7. sumner county
+8. cowley county
+9. butler county
+10. greenwood county
+
+the smoky hill river originates in the north-central part of kansas and flows southeast through the state before joining the arkansas river near dodge city.
+Correct A: the smoky hill river flows through colorado and kansas.
+
+Question : What states does the south platte river flow through?
+LLM A    : the south platte river is a river located in the western united states, and it flows through several states before emptying into the missouri river. the states that the south platte river flows through include:
+
+1. colorado - the south platte river originates in the rocky mountains of colorado and flows through the state for about 250 miles (400 km) before entering nebraska.
+2. nebraska - the river then flows through nebraska for about 300 miles (480 km), passing through cities such as north platte and lincoln.
+3. wyoming - the south platte river enters wyoming for a short distance before flowing into the nebraska panhandle.
+4. kansas - the river then flows through kansas for about 150 miles (240 km) before entering missouri.
+5. missouri - the south platte river empties into the missouri river in northwestern missouri.
+
+overall, the south platte river flows through a total of five states: colorado, nebraska, wyoming, kansas, and missouri.
+Correct A: the south platte river flows through colorado and nebraska.
+
+Question : What states does the st. francis river flow through?
+LLM A    : the st. francis river is a river located in the southern united states, and it flows through several states including:
+
+1. arkansas: the st. francis river originates in yell county, arkansas, and flows through the state for approximately 200 miles (320 km) before entering missouri.
+2. missouri: the river enters missouri from arkansas and flows through the western part of the state, passing through or near the cities of st. louis, poplar bluff, and joplin. it covers a distance of around 400 miles (640 km) in missouri.
+3. tennessee: the st. francis river forms the border between missouri and tennessee for a short section before entering tennessee. it flows through the northwestern part of the state, passing through or near the cities of tiptonville and martin.
+
+overall, the st. francis river flows through three states in the southern united states: arkansas, missouri, and tennessee.
+Correct A: the st. francis river flows through arkansas and missouri.
+
+Question : What states does the tombigbee river flow through?
+LLM A    : the tombigbee river flows through several states in the southeastern united states. the river originates in northern alabama and flows through the following states:
+
+1. alabama: the tombigbee river begins in the northeastern part of alabama, near the city of phenix city, and flows southwest through the state before emptying into the black warrior river in central alabama.
+2. mississippi: the river then enters mississippi, where it flows west through the southern part of the state, passing through the cities of columbus and starkville, before emptying into the pearl river.
+3. louisiana: the tombigbee river then flows into louisiana, where it joins the alabama river, which flows into the gulf of mexico.
+
+so, to answer your question, the states that the tombigbee river flows through are alabama, mississippi, and louisiana.
+Correct A: the tombigbee river flows through alabama and mississippi.
+
+Question : What states does the washita river flow through?
+LLM A    : the washita river is a river located in western oklahoma, united states. it flows through the following counties and cities:
+
+1. county:
+	* caddo county
+	* canadian county
+	* kiowa county
+	* grady county
+2. cities:
+	* anadarko
+	* cordell
+	* fletcher
+	* fort cobb
+	* geronimo
+	* hinton
+	* mooreland
+	* oklahoma city (although it is not directly connected to the river)
+
+the washita river originates in the western part of the state and flows eastward before turning south and flowing into the red river near anadarko.
+Correct A: the washita river flows through oklahoma and texas.
+
+Question : What states does the wateree catawba river flow through?
+LLM A    : the wateree river and catawba river are both located in the eastern united states, and they flow through several states. here are the states that the two rivers flow through:
+
+wateree river:
+
+* south carolina
+	+ flows through the counties of lexington, richland, kershaw, and clarendon
+	+ connects with the congaree river in the city of columbia
+* north carolina
+	+ flows through the counties of mecklenburg, cabarrus, and union
+	+ joins the cape fear river in the city of charlotte
+
+catawba river:
+
+* south carolina
+	+ flows through the counties of york, chester, and lancaster
+	+ connects with the catawba river in the city of rock hill
+* north carolina
+	+ flows through the counties of gaston, lincoln, and mecklenburg
+	+ joins the atlantic ocean in the city of charlotte
+
+so, the wateree river flows through south carolina and connects with the catawba river in north carolina. the catawba river then flows through north carolina before joining the atlantic ocean.
+Correct A: the wateree catawba river flows through north carolina and south carolina.
+
+Question : What states does the white river flow through?
+LLM A    : the white river is a river located in the central united states. it flows through several states, including:
+
+1. arkansas: the white river originates in the ozark mountains of northern arkansas and flows southwest through the state before entering oklahoma.
+2. oklahoma: the white river flows through eastern oklahoma, passing through the cities of fayetteville, springdale, and rogers before entering missouri.
+3. missouri: the river enters missouri from oklahoma and flows west through the states of taney and stone counties before emptying into lake of the ozarks.
+4. kansas: the white river forms the border between kansas and missouri for a short distance before flowing into kansas and eventually merging with the kansa river.
+5. nebraska: the white river enters nebraska from kansas and flows west through the state, passing through the cities of north platte and scottsbluff before emptying into the south platte river.
+
+overall, the white river flows through five states in the central united states: arkansas, oklahoma, missouri, kansas, and nebraska.
+Correct A: the white river flows through arkansas and missouri.
+

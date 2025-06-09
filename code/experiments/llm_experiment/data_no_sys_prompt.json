@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "category": "Geography US State Abbreviation Knowledge",
+            "system_prompt": "", 
+            "text_file": "abbrev.txt" },
+        {
+            "category": "Geography US State Capital Knowledge",
+            "system_prompt": "",
+            "text_file": "statecapital.txt"
+        },
+        {
+            "category": "Geography US Rivers Knowledge",
+            "system_prompt":"",
+            "text_file": "riverflow.txt"
+
+        },
+        {
+            "category": "Geography US State Simple Border Questions",
+            "system_prompt": "",
+            "text_file": "simple_border.txt"
+        },
+        {
+            "category": "Geography US States Complex Border and Location questions AND",
+            "system_prompt": "" ,
+            "text_file": "verb_or_question.txt",
+            "sample": 100
+        },
+        {
+            "category": "Geography US States Complex Border Questions AND BUT",
+            "system_prompt": "" ,
+            "text_file": "complex_logic_border.txt",
+            "sample": 100
+        },
+        {
+            "category": "Geography US States Complex Total population",
+            "system_prompt": "" ,
+            "text_file": "population_total.txt",
+            "sample": 100
+        }
+    ]
+}

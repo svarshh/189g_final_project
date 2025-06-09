@@ -1,8 +1,0 @@
-Q: What is district of columbia's capital?
-LLM A: washington d.c.'s capital is washington d.c.
-Correct A: district of columbia's capital is washington.
-
-Q: What is minnesota's capital?
-LLM A: minnesota's capital is saint paul.
-Correct A: minnesota's capital is st. paul.
-

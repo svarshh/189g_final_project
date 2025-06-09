@@ -1,0 +1,548 @@
+Question : What states does alabama border?
+LLM A    : alabama borders the following states:
+
+1. georgia to the south
+2. florida to the southwest
+3. alabama gulf coast to the south
+4. mississippi to the west
+5. tennessee to the north
+6. north carolina to the northeast
+7. georgia to the east.
+Correct A: alabama borders florida, georgia, mississippi, and tennessee.
+
+Question : What states does arizona border?
+LLM A    : arizona borders the following states:
+
+1. california - to the west
+2. nevada - to the northwest
+3. utah - to the north
+4. new mexico - to the east
+5. sonora, mexico - to the south (via the arizona-mexico border)
+Correct A: arizona borders california, colorado, nevada, new mexico, and utah.
+
+Question : What states does arkansas border?
+LLM A    : arkansas borders several states:
+
+1. tennessee to the north
+2. missouri to the northwest
+3. oklahoma to the west
+4. texas to the southwest
+5. louisiana to the south
+6. mississippi to the east
+7. alabama to the southeast
+
+so, arkansas borders seven states in total.
+Correct A: arkansas borders louisiana, mississippi, missouri, oklahoma, tennessee, and texas.
+
+Question : What states does california border?
+LLM A    : california borders the following states:
+
+1. oregon - to the north
+2. nevada - to the east
+3. arizona - to the southeast
+4. mexico - to the south, through the san ysidro and calexico ports of entry
+5. oregon - to the northwest (across the pacific ocean)
+
+so, california borders five states: oregon, nevada, arizona, mexico, and oregon again (across the pacific ocean).
+Correct A: california borders arizona, nevada, and oregon.
+
+Question : What states does colorado border?
+LLM A    : colorado is bordered by six states:
+
+1. utah to the west
+2. wyoming to the north
+3. nebraska to the northeast
+4. kansas to the east
+5. new mexico to the southwest
+6. arizona to the south.
+Correct A: colorado borders arizona, kansas, nebraska, new mexico, oklahoma, utah, and wyoming.
+
+Question : What states does connecticut border?
+LLM A    : connecticut borders the following states:
+
+1. massachusetts to the north
+2. rhode island to the east
+3. long island sound to the southwest
+4. new york to the west and northwest
+
+so, the states that connecticut borders are massachusetts, rhode island, and new york.
+Correct A: connecticut borders massachusetts, new york, and rhode island.
+
+Question : What states does delaware border?
+LLM A    : delaware borders three states:
+
+1. pennsylvania to the north
+2. maryland to the east and south
+3. new jersey to the west
+Correct A: delaware borders maryland, new jersey, and pennsylvania.
+
+Question : What states does district of columbia border?
+LLM A    : the district of columbia (washington d.c.) does not border any state. it is a federal district located on the east coast of the united states, and it is not part of any state. the closest states to washington d.c. are maryland and virginia, which border the district to the northwest and southeast, respectively.
+Correct A: district of columbia borders maryland and virginia.
+
+Question : What states does florida border?
+LLM A    : florida borders the following states:
+
+1. georgia to the north
+2. alabama to the northwest
+3. louisiana to the west
+4. texas to the southwest
+5. caribbean sea to the southeast (across the florida strait)
+6. gulf of mexico to the southwest (across the florida gulf coast)
+
+so, florida borders six states: georgia, alabama, louisiana, texas, and the two coastal waters (florida strait and gulf of mexico).
+Correct A: florida borders alabama and georgia.
+
+Question : What states does georgia border?
+LLM A    : georgia borders the following states:
+
+1. florida to the south
+2. alabama to the west
+3. south carolina to the east
+4. tennessee to the north
+5. north carolina to the northeast.
+Correct A: georgia borders alabama, florida, north carolina, south carolina, and tennessee.
+
+Question : What states does idaho border?
+LLM A    : idaho borders the following states:
+
+1. montana to the east and northeast
+2. wyoming to the east and south
+3. utah to the south and west
+4. oregon to the west
+5. washington to the northwest.
+Correct A: idaho borders montana, nevada, oregon, utah, washington, and wyoming.
+
+Question : What states does illinois border?
+LLM A    : illinois borders several states, including:
+
+1. wisconsin to the north
+2. lake michigan to the east
+3. indiana to the south
+4. kentucky to the southeast
+5. missouri to the west.
+Correct A: illinois borders indiana, iowa, kentucky, missouri, and wisconsin.
+
+Question : What states does indiana border?
+LLM A    : indiana borders several states:
+
+1. illinois to the west and southwest
+2. michigan to the northwest
+3. ohio to the east and southeast
+4. kentucky to the south
+5. lake michigan to the northwest (indiana has a shoreline along lake michigan)
+
+so, indiana borders five states: illinois, michigan, ohio, kentucky, and lake michigan.
+Correct A: indiana borders illinois, kentucky, michigan, and ohio.
+
+Question : What states does iowa border?
+LLM A    : iowa is a state located in the midwestern united states. it borders several other states, including:
+
+1. minnesota to the north
+2. south dakota to the west
+3. nebraska to the southwest
+4. kansas to the south
+5. missouri to the southeast
+6. illinois to the east
+
+iowa is also bordered by lake okoboji and the mississippi river to the south.
+Correct A: iowa borders illinois, minnesota, missouri, nebraska, south dakota, and wisconsin.
+
+Question : What states does kansas border?
+LLM A    : kansas borders several states:
+
+1. missouri to the west
+2. oklahoma to the south
+3. nebraska to the north
+4. colorado to the northwest
+5. new mexico to the southwest.
+Correct A: kansas borders colorado, missouri, nebraska, and oklahoma.
+
+Question : What states does kentucky border?
+LLM A    : kentucky borders several states, including:
+
+1. tennessee to the southeast
+2. virginia to the east
+3. west virginia to the northwest
+4. ohio to the north and west
+5. indiana to the northwest
+6. illinois to the north and west
+
+so, the states that kentucky borders are tennessee, virginia, west virginia, ohio, indiana, and illinois.
+Correct A: kentucky borders illinois, indiana, missouri, ohio, tennessee, virginia, and west virginia.
+
+Question : What states does louisiana border?
+LLM A    : louisiana borders the following states:
+
+1. texas to the west and north
+2. arkansas to the northwest
+3. mississippi to the east and southeast
+4. alabama to the northeast
+5. gulf of mexico to the south and southwest.
+Correct A: louisiana borders arkansas, mississippi, and texas.
+
+Question : What state does maine border?
+LLM A    : maine borders the following states:
+
+* new hampshire to the west
+* vermont to the north
+* quebec, canada, to the northwest (across the saint croix river)
+* atlantic ocean to the east
+* gulf of maine to the south.
+Correct A: maine borders new hampshire.
+
+Question : What states does maryland border?
+LLM A    : maryland borders the following states:
+
+1. delaware - to the east
+2. virginia - to the south and west
+3. west virginia - to the west
+4. pennsylvania - to the north and northwest
+
+so, maryland is bordered by four states: delaware, virginia, west virginia, and pennsylvania.
+Correct A: maryland borders delaware, district of columbia, pennsylvania, virginia, and west virginia.
+
+Question : What states does massachusetts border?
+LLM A    : massachusetts borders the following states:
+
+1. new hampshire to the north
+2. vermont to the west
+3. new york to the southwest
+4. rhode island to the east
+5. connecticut to the southeast
+
+so, massachusetts borders five states in total.
+Correct A: massachusetts borders connecticut, new hampshire, new york, rhode island, and vermont.
+
+Question : What states does michigan border?
+LLM A    : michigan borders several states, including:
+
+1. lake superior to the north
+2. lake michigan to the west
+3. illinois to the southwest
+4. indiana to the south
+5. ohio to the southeast
+6. ontario, canada to the northwest (across lake huron)
+Correct A: michigan borders indiana, ohio, and wisconsin.
+
+Question : What states does minnesota border?
+LLM A    : minnesota borders several states in the united states:
+
+1. wisconsin - to the east and southeast
+2. iowa - to the southwest
+3. south dakota - to the west
+4. north dakota - to the northwest
+5. canada (manitoba) - to the north.
+Correct A: minnesota borders iowa, north dakota, south dakota, and wisconsin.
+
+Question : What states does mississippi border?
+LLM A    : mississippi is a state located in the southern region of the united states. it borders several states, including:
+
+1. alabama - to the west and north
+2. arkansas - to the northeast
+3. georgia - to the southeast
+4. louisiana - to the southwest
+5. tennessee - to the north
+6. texas - to the south (only on a very small portion of the state's border)
+
+so, the states that mississippi borders are alabama, arkansas, georgia, louisiana, tennessee, and texas.
+Correct A: mississippi borders alabama, arkansas, louisiana, and tennessee.
+
+Question : What states does missouri border?
+LLM A    : missouri borders several states in the united states. here are the states that missouri borders:
+
+1. iowa to the north
+2. illinois to the east
+3. kentucky to the southeast
+4. tennessee to the south
+5. arkansas to the southwest
+6. oklahoma to the west
+7. kansas to the northwest.
+Correct A: missouri borders arkansas, illinois, iowa, kansas, kentucky, nebraska, oklahoma, and tennessee.
+
+Question : What states does montana border?
+LLM A    : montana borders three states:
+
+1. idaho - to the south
+2. wyoming - to the east
+3. north dakota - to the north and east
+
+so, montana borders a total of three states.
+Correct A: montana borders idaho, north dakota, south dakota, and wyoming.
+
+Question : What states does nebraska border?
+LLM A    : nebraska borders the following states:
+
+1. colorado
+2. iowa
+3. kansas
+4. montana
+5. south dakota
+6. wyoming
+Correct A: nebraska borders colorado, iowa, kansas, missouri, south dakota, and wyoming.
+
+Question : What states does nevada border?
+LLM A    : nevada borders the following states:
+
+1. california - to the west and south
+2. arizona - to the east
+3. utah - to the north
+4. idaho - to the northeast
+
+nevada also touches the mexican state of baja california sur to the southwest, but it does not border any other states directly.
+Correct A: nevada borders arizona, california, idaho, oregon, and utah.
+
+Question : What states does new hampshire border?
+LLM A    : new hampshire borders the following states:
+
+1. maine to the north
+2. vermont to the west
+3. massachusetts to the south
+4. connecticut to the southwest
+5. rhode island to the southeast
+
+so, new hampshire borders five states in total.
+Correct A: new hampshire borders maine, massachusetts, and vermont.
+
+Question : What states does new jersey border?
+LLM A    : new jersey borders several states in the united states. here are the states that new jersey borders:
+
+1. pennsylvania - to the west and northwest
+2. new york - to the north and east
+3. delaware - to the southeast
+4. maryland - to the south
+5. virginia - to the southwest (across the delaware river)
+
+so, new jersey borders a total of 5 states.
+Correct A: new jersey borders delaware, new york, and pennsylvania.
+
+Question : What states does new mexico border?
+LLM A    : new mexico borders the following states:
+
+1. arizona - to the west and south
+2. colorado - to the north
+3. kansas - to the northeast
+4. oklahoma - to the southeast
+5. texas - to the east and south
+
+so, new mexico borders five states in total.
+Correct A: new mexico borders arizona, colorado, oklahoma, texas, and utah.
+
+Question : What states does new york border?
+LLM A    : new york is a state located in the northeastern united states. it borders several other states, including:
+
+1. pennsylvania to the west and northwest
+2. new jersey to the east and south
+3. connecticut to the southeast
+4. massachusetts to the north
+5. vermont to the northwest
+6. quebec, canada to the north (across lake ontario)
+
+so, the states that new york borders are: pennsylvania, new jersey, connecticut, massachusetts, and vermont.
+Correct A: new york borders connecticut, massachusetts, new jersey, pennsylvania, and vermont.
+
+Question : What states does north carolina border?
+LLM A    : north carolina borders the following states:
+
+1. virginia to the north and northeast
+2. south carolina to the south and southeast
+3. tennessee to the west
+4. georgia to the southwest
+5. atlantic ocean to the east
+
+so, north carolina borders 5 states in total.
+Correct A: north carolina borders georgia, south carolina, tennessee, and virginia.
+
+Question : What states does north dakota border?
+LLM A    : north dakota borders the following states:
+
+1. minnesota to the west
+2. south dakota to the south and east
+3. montana to the northwest
+4. canada (provinces of manitoba and saskatchewan) to the north.
+Correct A: north dakota borders minnesota, montana, and south dakota.
+
+Question : What states does ohio border?
+LLM A    : ohio borders several states, including:
+
+1. michigan to the north
+2. ontario, canada to the northwest (across lake erie)
+3. pennsylvania to the east
+4. west virginia to the southeast
+5. kentucky to the south
+6. indiana to the west.
+Correct A: ohio borders indiana, kentucky, michigan, pennsylvania, and west virginia.
+
+Question : What states does oklahoma border?
+LLM A    : oklahoma borders several states:
+
+1. texas to the south and west
+2. new mexico to the west
+3. kansas to the north
+4. missouri to the northeast
+5. arkansas to the southeast
+
+so, oklahoma borders five states in total.
+Correct A: oklahoma borders arkansas, colorado, kansas, missouri, new mexico, and texas.
+
+Question : What states does oregon border?
+LLM A    : oregon is a state located in the pacific northwest region of the united states. it borders several states, including:
+
+1. california - oregon's southwestern border is shared with california.
+2. nevada - oregon's southeastern border is shared with nevada.
+3. idaho - oregon's eastern border is shared with idaho.
+4. washington - oregon's northwestern border is shared with washington.
+5. montana - oregon's northeastern border is shared with montana.
+
+so, to summarize, oregon borders the following states: california, nevada, idaho, washington, and montana.
+Correct A: oregon borders california, idaho, nevada, and washington.
+
+Question : What states does pennsylvania border?
+LLM A    : pennsylvania borders several states in the united states. here are the states that pennsylvania borders:
+
+1. new york - to the north and west
+2. ohio - to the west
+3. west virginia - to the southwest
+4. maryland - to the southeast
+5. delaware - to the east
+6. new jersey - to the east and south
+
+so, pennsylvania borders a total of 6 states.
+Correct A: pennsylvania borders delaware, maryland, new jersey, new york, ohio, and west virginia.
+
+Question : What states does rhode island border?
+LLM A    : rhode island borders three states:
+
+1. connecticut to the west and north
+2. massachusetts to the north and east
+3. providence plantations (also known as narragansett bay) to the south
+
+so, rhode island does not border any other state aside from these three.
+Correct A: rhode island borders connecticut and massachusetts.
+
+Question : What states does south carolina border?
+LLM A    : south carolina borders the following states:
+
+1. georgia to the north and northeast
+2. north carolina to the north and northwest
+3. tennessee to the north and west
+4. atlantic ocean to the east
+5. gulf of mexico to the south
+
+so, south carolina borders five states in total.
+Correct A: south carolina borders georgia and north carolina.
+
+Question : What states does south dakota border?
+LLM A    : south dakota borders the following states:
+
+1. minnesota to the north
+2. montana to the west
+3. wyoming to the northwest
+4. nebraska to the northeast
+5. iowa to the east
+6. north dakota to the north and east.
+Correct A: south dakota borders iowa, minnesota, montana, nebraska, north dakota, and wyoming.
+
+Question : What states does tennessee border?
+LLM A    : tennessee borders the following states:
+
+1. virginia to the north
+2. kentucky to the northwest
+3. alabama to the south
+4. georgia to the southeast
+5. mississippi to the southwest
+6. arkansas to the west
+
+so, tennessee borders six states in total.
+Correct A: tennessee borders alabama, arkansas, georgia, kentucky, mississippi, missouri, north carolina, and virginia.
+
+Question : What states does texas border?
+LLM A    : texas borders several states in the united states. here are the states that texas borders:
+
+1. louisiana - texas shares a border with louisiana to the east and southeast.
+2. arkansas - texas shares a border with arkansas to the northeast.
+3. oklahoma - texas shares a border with oklahoma to the northwest.
+4. new mexico - texas shares a border with new mexico to the west.
+5. mexico - texas shares an international border with the state of chihuahua in mexico to the south.
+Correct A: texas borders arkansas, louisiana, new mexico, and oklahoma.
+
+Question : What states does utah border?
+LLM A    : utah borders the following states:
+
+1. arizona - to the south
+2. colorado - to the north
+3. idaho - to the northwest
+4. nevada - to the west
+5. new mexico - to the southeast
+6. wyoming - to the northeast.
+Correct A: utah borders arizona, colorado, idaho, nevada, new mexico, and wyoming.
+
+Question : What states does vermont border?
+LLM A    : vermont borders the following states:
+
+1. new hampshire to the east
+2. massachusetts to the south
+3. new york to the west
+4. quebec, canada to the north.
+Correct A: vermont borders massachusetts, new hampshire, and new york.
+
+Question : What states does virginia border?
+LLM A    : virginia borders the following states:
+
+1. maryland to the north
+2. west virginia to the southwest
+3. kentucky to the south
+4. tennessee to the southeast
+5. north carolina to the east and south
+
+so, virginia borders five states in total.
+Correct A: virginia borders district of columbia, kentucky, maryland, north carolina, tennessee, and west virginia.
+
+Question : What states does washington border?
+LLM A    : washington state borders several states in the united states. here are the states that washington borders:
+
+1. idaho - to the east
+2. montana - to the east and north
+3. oregon - to the west
+4. california - to the southwest
+5. nevada - to the southeast (only a very small portion of the state border)
+
+so, washington state borders five states in total.
+Correct A: washington borders idaho and oregon.
+
+Question : What states does west virginia border?
+LLM A    : west virginia borders the following states:
+
+1. maryland to the east
+2. virginia to the south and west
+3. kentucky to the southeast
+4. ohio to the northwest
+
+so, west virginia borders three states: maryland, virginia, and kentucky, and shares a border with ohio to the northwest.
+Correct A: west virginia borders kentucky, maryland, ohio, pennsylvania, and virginia.
+
+Question : What states does wisconsin border?
+LLM A    : wisconsin borders several states:
+
+1. minnesota to the west
+2. iowa to the southwest
+3. illinois to the southeast
+4. lake superior to the north
+5. michigan to the northeast
+
+so, the states that wisconsin borders are minnesota, iowa, illinois, and michigan.
+Correct A: wisconsin borders illinois, iowa, michigan, and minnesota.
+
+Question : What states does wyoming border?
+LLM A    : wyoming borders the following states:
+
+1. montana - north
+2. idaho - northwest
+3. utah - west
+4. colorado - southwest
+5. nebraska - southeast
+6. south dakota - east
+
+so, wyoming borders six states in total.
+Correct A: wyoming borders colorado, idaho, montana, nebraska, south dakota, and utah.
+

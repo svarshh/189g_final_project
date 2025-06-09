@@ -1,0 +1,132 @@
+Question : What is alabama's capital?
+LLM A    : the capital of alabama is montgomery.
+Correct A: alabama's capital is montgomery.
+
+Question : What is alaska's capital?
+LLM A    : the capital of alaska is juneau.
+Correct A: alaska's capital is juneau.
+
+Question : What is arkansas' capital?
+LLM A    : the capital of arkansas is little rock.
+Correct A: arkansas' capital is little rock.
+
+Question : What is california's capital?
+LLM A    : the capital of california is sacramento.
+Correct A: california's capital is sacramento.
+
+Question : What is colorado's capital?
+LLM A    : the capital of colorado is denver.
+Correct A: colorado's capital is denver.
+
+Question : What is delaware's capital?
+LLM A    : the capital of delaware is dover.
+Correct A: delaware's capital is dover.
+
+Question : What is district of columbia's capital?
+LLM A    : the district of columbia (dc) does not have a capital. dc is the capital city of the united states and serves as the seat of the federal government. it is a federal district, which means it is not part of any state and is not subject to the authority of any state government. the district of columbia is home to many national monuments and institutions, including the white house, the u.s. capitol, and the supreme court.
+Correct A: district of columbia's capital is washington.
+
+Question : What is florida's capital?
+LLM A    : the capital of florida is tallahassee.
+Correct A: florida's capital is tallahassee.
+
+Question : What is georgia's capital?
+LLM A    : the capital of georgia is atlanta.
+Correct A: georgia's capital is atlanta.
+
+Question : What is hawaii's capital?
+LLM A    : hawaii does not have a capital city. hawaii is an island state located in the pacific ocean and does not have a centralized government or capital city. instead, the state of hawaii is divided into five counties: honolulu county, maui county, kauai county, hawaii island, and lanai county. each county has its own government and administrative center.
+Correct A: hawaii's capital is honolulu.
+
+Question : What is illinois' capital?
+LLM A    : the capital of illinois is springfield.
+Correct A: illinois' capital is springfield.
+
+Question : What is iowa's capital?
+LLM A    : the capital of iowa is des moines.
+Correct A: iowa's capital is des moines.
+
+Question : What is kansas' capital?
+LLM A    : the capital of kansas is topeka.
+Correct A: kansas' capital is topeka.
+
+Question : What is kentucky's capital?
+LLM A    : the capital of kentucky is frankfort.
+Correct A: kentucky's capital is frankfort.
+
+Question : What is louisiana's capital?
+LLM A    : the capital of louisiana is baton rouge.
+Correct A: louisiana's capital is baton rouge.
+
+Question : What is maryland's capital?
+LLM A    : the capital of maryland is annapolis.
+Correct A: maryland's capital is annapolis.
+
+Question : What is minnesota's capital?
+LLM A    : minnesota's capital is saint paul.
+Correct A: minnesota's capital is st. paul.
+
+Question : What is montana's capital?
+LLM A    : the capital of montana is helena.
+Correct A: montana's capital is helena.
+
+Question : What is new hampshire's capital?
+LLM A    : the capital of new hampshire is concord.
+Correct A: new hampshire's capital is concord.
+
+Question : What is new jersey's capital?
+LLM A    : the capital of new jersey is trenton.
+Correct A: new jersey's capital is trenton.
+
+Question : What is new mexico's capital?
+LLM A    : the capital of new mexico is santa fe.
+Correct A: new mexico's capital is santa fe.
+
+Question : What is new york's capital?
+LLM A    : new york state has a capital city called albany.
+Correct A: new york's capital is albany.
+
+Question : What is north dakota's capital?
+LLM A    : the capital of north dakota is bismarck.
+Correct A: north dakota's capital is bismarck.
+
+Question : What is pennsylvania's capital?
+LLM A    : the capital of pennsylvania is harrisburg.
+Correct A: pennsylvania's capital is harrisburg.
+
+Question : What is rhode island's capital?
+LLM A    : the capital of rhode island is providence.
+Correct A: rhode island's capital is providence.
+
+Question : What is south carolina's capital?
+LLM A    : the capital of south carolina is columbia.
+Correct A: south carolina's capital is columbia.
+
+Question : What is south dakota's capital?
+LLM A    : the capital of south dakota is pierre.
+Correct A: south dakota's capital is pierre.
+
+Question : What is tennessee's capital?
+LLM A    : the capital of tennessee is nashville.
+Correct A: tennessee's capital is nashville.
+
+Question : What is texas' capital?
+LLM A    : the capital of texas is austin.
+Correct A: texas' capital is austin.
+
+Question : What is utah's capital?
+LLM A    : the capital of utah is salt lake city.
+Correct A: utah's capital is salt lake city.
+
+Question : What is vermont's capital?
+LLM A    : the capital of vermont is montpelier.
+Correct A: vermont's capital is montpelier.
+
+Question : What is washington's capital?
+LLM A    : washington d.c. (short for district of columbia) is the capital of the united states. it is located on the east coast of the united states and is home to many national monuments, museums, and government buildings. the city is named after george washington, the first president of the united states.
+Correct A: washington's capital is olympia.
+
+Question : What is wisconsin's capital?
+LLM A    : the capital of wisconsin is madison.
+Correct A: wisconsin's capital is madison.
+

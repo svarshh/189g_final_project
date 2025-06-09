@@ -1,0 +1,20 @@
+Question : What is connecticut's abbreviation?
+LLM A    : connecticut's abbreviation is "ct".
+Correct A: connecticut's abbreviation is ct.
+
+Question : What is district of columbia's abbreviation?
+LLM A    : the district of columbia's abbreviation is "dc".
+Correct A: district of columbia's abbreviation is dc.
+
+Question : What is indiana's abbreviation?
+LLM A    : indiana's abbreviation is "in".
+Correct A: indiana's abbreviation is in.
+
+Question : What is south dakota's abbreviation?
+LLM A    : the abbreviation for south dakota is sd.
+Correct A: south dakota's abbreviation is sd.
+
+Question : What is texas' abbreviation?
+LLM A    : the abbreviation for texas is tx.
+Correct A: texas' abbreviation is tx.
+

@@ -1,4 +1,0 @@
-Q: What is california's abbreviation?
-LLM A: ohio's abbreviation is oh.
-Correct A: california's abbreviation is ca.
-
