@@ -1,0 +1,392 @@
+Question : What states border kentucky, north carolina, and west virginia but not kansas?
+LLM A    : tennessee borders kentucky, north carolina, and west virginia but not kansas.
+Correct A: virginia borders kentucky, north carolina, and west virginia but not kansas.
+
+Question : What states border new york, ohio, and west virginia but not california?
+LLM A    : pennsylvania borders new york, ohio, west virginia, but not california.
+Correct A: pennsylvania borders new york, ohio, and west virginia but not california.
+
+Question : What states border kentucky, missouri, and virginia but not new mexico?
+LLM A    : tennessee borders kentucky, missouri, virginia, but not new mexico.
+Correct A: tennessee borders kentucky, missouri, and virginia but not new mexico.
+
+Question : What states border missouri, oklahoma, and tennessee but not idaho?
+LLM A    : oklahoma borders arkansas, kansas, and louisiana, but not idaho.
+Correct A: arkansas borders missouri, oklahoma, and tennessee but not idaho.
+
+Question : What states border arizona, oklahoma, and texas but not ohio?
+LLM A    : arizona borders new mexico, utah, and mexico, but not ohio.
+Correct A: new mexico borders arizona, oklahoma, and texas but not ohio.
+
+Question : What states border alabama, florida, and south carolina but not nebraska?
+LLM A    : alabama borders georgia, louisiana, mississippi, and tennessee, but not nebraska.
+Correct A: georgia borders alabama, florida, and south carolina but not nebraska.
+
+Question : What states border alabama, missouri, and virginia but not nevada?
+LLM A    : alabama borders arkansas, florida, georgia, and louisiana but not nevada.
+Correct A: tennessee borders alabama, missouri, and virginia but not nevada.
+
+Question : What states border iowa, montana, and wyoming but not rhode island?
+LLM A    : iowa borders nebraska, minnesota, south dakota, and wisconsin, but not rhode island.
+Correct A: south dakota borders iowa, montana, and wyoming but not rhode island.
+
+Question : What states border new york, rhode island, and vermont but not iowa?
+LLM A    : massachusetts borders new york, rhode island, vermont, but not iowa.
+Correct A: massachusetts borders new york, rhode island, and vermont but not iowa.
+
+Question : What states border iowa, montana, and wyoming but not new hampshire?
+LLM A    : iowa borders nebraska, minnesota, south dakota, and north dakota, but not new hampshire.
+Correct A: south dakota borders iowa, montana, and wyoming but not new hampshire.
+
+Question : What states border minnesota, nebraska, and north dakota but not connecticut?
+LLM A    : minnesota borders north dakota, south dakota, and wisconsin, but not connecticut.
+Correct A: south dakota borders minnesota, nebraska, and north dakota but not connecticut.
+
+Question : What states border nevada, oregon, and wyoming but not california?
+LLM A    : nevada borders idaho, montana, utah, and wyoming, but not california.
+Correct A: idaho borders nevada, oregon, and wyoming but not california.
+
+Question : What states border idaho, south dakota, and wyoming but not mississippi?
+LLM A    : idaho borders montana, wyoming, and utah but not mississippi.
+Correct A: montana borders idaho, south dakota, and wyoming but not mississippi.
+
+Question : What states border iowa, missouri, and wisconsin but not georgia?
+LLM A    : iowa borders nebraska, minnesota, and south dakota, but not georgia.
+Correct A: illinois borders iowa, missouri, and wisconsin but not georgia.
+
+Question : What states border new jersey, new york, and ohio but not michigan?
+LLM A    : pennsylvania borders new jersey, new york, and ohio, but not michigan.
+Correct A: pennsylvania borders new jersey, new york, and ohio but not michigan.
+
+Question : What states border ohio, pennsylvania, and virginia but not georgia?
+LLM A    : ohio borders west virginia, kentucky, and michigan, but not georgia.
+Correct A: west virginia borders ohio, pennsylvania, and virginia but not georgia.
+
+Question : What states border colorado, idaho, and utah but not iowa?
+LLM A    : colorado borders arizona, new mexico, and utah but not iowa.
+Correct A: wyoming borders colorado, idaho, and utah but not iowa.
+
+Question : What states border arizona, kansas, and wyoming but not north carolina?
+LLM A    : arizona borders new mexico, utah, and nevada, but not north carolina.
+Correct A: colorado borders arizona, kansas, and wyoming but not north carolina.
+
+Question : What states border connecticut, massachusetts, and pennsylvania but not tennessee?
+LLM A    : connecticut borders massachusetts, new york, and rhode island, but not tennessee.
+Correct A: new york borders connecticut, massachusetts, and pennsylvania but not tennessee.
+
+Question : What states border missouri, north carolina, and virginia but not nevada?
+LLM A    : missouri borders arkansas, iowa, kansas, nebraska, and oklahoma, but not nevada.
+Correct A: tennessee borders missouri, north carolina, and virginia but not nevada.
+
+Question : What states border mississippi, oklahoma, and tennessee but not rhode island?
+LLM A    : mississippi borders alabama, arkansas, louisiana, and tennessee, but not rhode island.
+Correct A: arkansas borders mississippi, oklahoma, and tennessee but not rhode island.
+
+Question : What states border mississippi, north carolina, and virginia but not oklahoma?
+LLM A    : mississippi borders tennessee, arkansas, alabama, and louisiana, but not oklahoma.
+Correct A: tennessee borders mississippi, north carolina, and virginia but not oklahoma.
+
+Question : What states border alabama, kentucky, and missouri but not new jersey?
+LLM A    : alabama borders tennessee, georgia, florida, and louisiana, but not new jersey.
+Correct A: tennessee borders alabama, kentucky, and missouri but not new jersey.
+
+Question : What states border california, nevada, and new mexico but not north dakota?
+LLM A    : california borders arizona, nevada, and new mexico but not north dakota.
+Correct A: arizona borders california, nevada, and new mexico but not north dakota.
+
+Question : What states border kansas, oklahoma, and tennessee but not utah?
+LLM A    : oklahoma borders arkansas, missouri, and texas, but not utah.
+Correct A: missouri borders kansas, oklahoma, and tennessee but not utah.
+
+Question : What states border georgia, mississippi, and missouri but not iowa?
+LLM A    : georgia borders alabama, florida, and south carolina, but not iowa.
+Correct A: tennessee borders georgia, mississippi, and missouri but not iowa.
+
+Question : What states border arizona, california, and idaho but not montana?
+LLM A    : arizona borders california, idaho, and nevada, but not montana.
+Correct A: nevada borders arizona, california, and idaho but not montana.
+
+Question : What states border iowa, south dakota, and wyoming but not alabama?
+LLM A    : iowa borders nebraska, minnesota, and wisconsin, but not alabama.
+Correct A: nebraska borders iowa, south dakota, and wyoming but not alabama.
+
+Question : What states border california, idaho, and oregon but not new hampshire?
+LLM A    : california borders idaho and oregon but not new hampshire.
+Correct A: nevada borders california, idaho, and oregon but not new hampshire.
+
+Question : What states border alabama, mississippi, and north carolina but not south carolina?
+LLM A    : alabama borders georgia, louisiana, and tennessee, but not south carolina.
+Correct A: tennessee borders alabama, mississippi, and north carolina but not south carolina.
+
+Question : What states border kentucky, maryland, and west virginia but not new hampshire?
+LLM A    : tennessee borders kentucky, maryland, west virginia, but not new hampshire.
+Correct A: virginia borders kentucky, maryland, and west virginia but not new hampshire.
+
+Question : What states border indiana, ohio, and tennessee but not minnesota?
+LLM A    : indiana borders kentucky, michigan, ohio, and pennsylvania but not minnesota.
+Correct A: kentucky borders indiana, ohio, and tennessee but not minnesota.
+
+Question : What states border colorado, kansas, and texas but not arizona?
+LLM A    : oklahoma borders colorado, kansas, texas, but not arizona.
+Correct A: oklahoma borders colorado, kansas, and texas but not arizona.
+
+Question : What states border district of columbia, pennsylvania, and virginia but not iowa?
+LLM A    : maryland borders district of columbia, pennsylvania, virginia, but not iowa.
+Correct A: maryland borders district of columbia, pennsylvania, and virginia but not iowa.
+
+Question : What states border arizona, nevada, and new mexico but not massachusetts?
+LLM A    : arizona borders utah, nevada, and new mexico, but not massachusetts.
+Correct A: utah borders arizona, nevada, and new mexico but not massachusetts.
+
+Question : What states border illinois, missouri, and wisconsin but not colorado?
+LLM A    : illinois borders iowa, michigan, and northern indiana, but not colorado.
+Correct A: iowa borders illinois, missouri, and wisconsin but not colorado.
+
+Question : What states border iowa, nebraska, and oklahoma but not pennsylvania?
+LLM A    : iowa borders nebraska and oklahoma but not pennsylvania.
+Correct A: missouri borders iowa, nebraska, and oklahoma but not pennsylvania.
+
+Question : What states border delaware, virginia, and west virginia but not massachusetts?
+LLM A    : delaware borders maryland, pennsylvania, virginia, and west virginia, but not massachusetts.
+Correct A: maryland borders delaware, virginia, and west virginia but not massachusetts.
+
+Question : What states border illinois, iowa, and kentucky but not district of columbia?
+LLM A    : illinois borders wisconsin, iowa, and kentucky, but does not border district of columbia.
+Correct A: missouri borders illinois, iowa, and kentucky but not district of columbia.
+
+Question : What states border louisiana, missouri, and oklahoma but not alabama?
+LLM A    : oklahoma borders arkansas, louisiana, and texas, but not alabama.
+Correct A: arkansas borders louisiana, missouri, and oklahoma but not alabama.
+
+Question : What states border nevada, washington, and wyoming but not kentucky?
+LLM A    : oregon borders nevada, washington, and wyoming but not kentucky.
+Correct A: idaho borders nevada, washington, and wyoming but not kentucky.
+
+Question : What states border mississippi, missouri, and oklahoma but not vermont?
+LLM A    : oklahoma borders arkansas, kansas, missouri, texas, but not vermont.
+Correct A: arkansas borders mississippi, missouri, and oklahoma but not vermont.
+
+Question : What states border colorado, new mexico, and wyoming but not massachusetts?
+LLM A    : colorado borders new mexico, wyoming, and utah but not massachusetts.
+Correct A: utah borders colorado, new mexico, and wyoming but not massachusetts.
+
+Question : What states border new hampshire, new york, and vermont but not oregon?
+LLM A    : maine borders new hampshire, vermont, and new york, but not oregon.
+Correct A: massachusetts borders new hampshire, new york, and vermont but not oregon.
+
+Question : What states border maryland, new york, and west virginia but not alabama?
+LLM A    : maryland borders delaware, pennsylvania, virginia, but not alabama.
+Correct A: pennsylvania borders maryland, new york, and west virginia but not alabama.
+
+Question : What states border alabama, florida, and north carolina but not minnesota?
+LLM A    : alabama borders georgia, louisiana, and tennessee, but not minnesota.
+Correct A: georgia borders alabama, florida, and north carolina but not minnesota.
+
+Question : What states border new jersey, ohio, and west virginia but not utah?
+LLM A    : pennsylvania borders new jersey, ohio, and west virginia but does not border utah.
+Correct A: pennsylvania borders new jersey, ohio, and west virginia but not utah.
+
+Question : What states border maryland, new york, and west virginia but not north carolina?
+LLM A    : maryland borders pennsylvania, virginia, and delaware, but not north carolina.
+Correct A: pennsylvania borders maryland, new york, and west virginia but not north carolina.
+
+Question : What states border colorado, missouri, and wyoming but not florida?
+LLM A    : oklahoma borders colorado, missouri, and wyoming but not florida.
+Correct A: nebraska borders colorado, missouri, and wyoming but not florida.
+
+Question : What states border indiana, tennessee, and west virginia but not oregon?
+LLM A    : indiana borders illinois, kentucky, michigan, ohio, and pennsylvania, but not oregon.
+Correct A: kentucky borders indiana, tennessee, and west virginia but not oregon.
+
+Question : What states border kentucky, michigan, and west virginia but not montana?
+LLM A    : kentucky borders tennessee, virginia, and north carolina, but not montana.
+Correct A: ohio borders kentucky, michigan, and west virginia but not montana.
+
+Question : What states border georgia, mississippi, and virginia but not minnesota?
+LLM A    : georgia borders alabama, florida, and south carolina, but not minnesota.
+Correct A: tennessee borders georgia, mississippi, and virginia but not minnesota.
+
+Question : What states border district of columbia, kentucky, and maryland but not montana?
+LLM A    : maryland borders district of columbia, kentucky, and maryland but does not border montana.
+Correct A: virginia borders district of columbia, kentucky, and maryland but not montana.
+
+Question : What states border alabama, georgia, and virginia but not new hampshire?
+LLM A    : alabama borders florida, georgia, louisiana, and tennessee, but does not border new hampshire.
+Correct A: tennessee borders alabama, georgia, and virginia but not new hampshire.
+
+Question : What states border indiana, tennessee, and west virginia but not wisconsin?
+LLM A    : indiana borders kentucky, ohio, and michigan, but not wisconsin.
+Correct A: kentucky borders indiana, tennessee, and west virginia but not wisconsin.
+
+Question : What states border arkansas, nebraska, and oklahoma but not mississippi?
+LLM A    : oklahoma borders kansas, missouri, new mexico, and texas, but not mississippi.
+Correct A: missouri borders arkansas, nebraska, and oklahoma but not mississippi.
+
+Question : What states border arkansas, georgia, and kentucky but not tennessee?
+LLM A    : oklahoma borders arkansas, georgia, and kentucky but not tennessee.
+Correct A: tennessee borders arkansas, georgia, and kentucky but not tennessee.
+
+Question : What states border kentucky, mississippi, and north carolina but not washington?
+LLM A    : tennessee borders kentucky, mississippi, north carolina, but does not border washington.
+Correct A: tennessee borders kentucky, mississippi, and north carolina but not washington.
+
+Question : What states border colorado, missouri, and texas but not utah?
+LLM A    : oklahoma borders colorado, missouri, and texas, but not utah.
+Correct A: oklahoma borders colorado, missouri, and texas but not utah.
+
+Question : What states border arkansas, missouri, and north carolina but not wyoming?
+LLM A    : oklahoma borders arkansas, missouri, north carolina, but not wyoming.
+Correct A: tennessee borders arkansas, missouri, and north carolina but not wyoming.
+
+Question : What states border arkansas, kansas, and new mexico but not hawaii?
+LLM A    : oklahoma borders arkansas, kansas, new mexico, but not hawaii.
+Correct A: oklahoma borders arkansas, kansas, and new mexico but not hawaii.
+
+Question : What states border alabama, georgia, and kentucky but not arizona?
+LLM A    : alabama borders tennessee, georgia, and florida but not arizona.
+Correct A: tennessee borders alabama, georgia, and kentucky but not arizona.
+
+Question : What states border illinois, indiana, and virginia but not massachusetts?
+LLM A    : illinois borders indiana and virginia but not massachusetts.
+Correct A: kentucky borders illinois, indiana, and virginia but not massachusetts.
+
+Question : What states border district of columbia, pennsylvania, and west virginia but not indiana?
+LLM A    : maryland borders district of columbia, pennsylvania, west virginia, but not indiana.
+Correct A: maryland borders district of columbia, pennsylvania, and west virginia but not indiana.
+
+Question : What states border minnesota, missouri, and nebraska but not south carolina?
+LLM A    : minnesota borders north dakota, south dakota, iowa, wisconsin, and illinois, but not south carolina.
+Correct A: iowa borders minnesota, missouri, and nebraska but not south carolina.
+
+Question : What states border nevada, oregon, and washington but not arizona?
+LLM A    : california borders oregon and washington but not arizona.
+Correct A: idaho borders nevada, oregon, and washington but not arizona.
+
+Question : What states border delaware, maryland, and new jersey but not north carolina?
+LLM A    : pennsylvania borders delaware, maryland, and new jersey, but not north carolina.
+Correct A: pennsylvania borders delaware, maryland, and new jersey but not north carolina.
+
+Question : What states border iowa, kentucky, and missouri but not oregon?
+LLM A    : iowa borders nebraska, minnesota, and wisconsin, but not oregon.
+Correct A: illinois borders iowa, kentucky, and missouri but not oregon.
+
+Question : What states border alabama, arkansas, and missouri but not new mexico?
+LLM A    : oklahoma borders alabama, arkansas, and missouri but not new mexico.
+Correct A: tennessee borders alabama, arkansas, and missouri but not new mexico.
+
+Question : What states border mississippi, oklahoma, and tennessee but not wyoming?
+LLM A    : mississippi borders alabama, arkansas, louisiana, and tennessee, but not wyoming.
+Correct A: arkansas borders mississippi, oklahoma, and tennessee but not wyoming.
+
+Question : What states border arizona, kansas, and utah but not massachusetts?
+LLM A    : arizona borders new mexico, utah, and nevada, but not massachusetts.
+Correct A: colorado borders arizona, kansas, and utah but not massachusetts.
+
+Question : What states border missouri, ohio, and virginia but not maine?
+LLM A    : oklahoma borders arkansas, kansas, missouri, nebraska, and oklahoma, but not maine.
+Correct A: kentucky borders missouri, ohio, and virginia but not maine.
+
+Question : What states border iowa, kansas, and nebraska but not vermont?
+LLM A    : iowa borders minnesota, missouri, nebraska, and south dakota, but not vermont.
+Correct A: missouri borders iowa, kansas, and nebraska but not vermont.
+
+Question : What states border illinois, ohio, and virginia but not wyoming?
+LLM A    : illinois borders indiana, michigan, and wisconsin, but not wyoming.
+Correct A: kentucky borders illinois, ohio, and virginia but not wyoming.
+
+Question : What states border california, nevada, and washington but not pennsylvania?
+LLM A    : california borders oregon, nevada, and washington, but not pennsylvania.
+Correct A: oregon borders california, nevada, and washington but not pennsylvania.
+
+Question : What states border arkansas, kansas, and texas but not new jersey?
+LLM A    : oklahoma borders arkansas, kansas, texas, but not new jersey.
+Correct A: oklahoma borders arkansas, kansas, and texas but not new jersey.
+
+Question : What states border colorado, kansas, and south dakota but not new york?
+LLM A    : oklahoma borders colorado, kansas, south dakota, but not new york.
+Correct A: nebraska borders colorado, kansas, and south dakota but not new york.
+
+Question : What states border illinois, ohio, and tennessee but not new hampshire?
+LLM A    : illinois borders wisconsin, iowa, indiana, and michigan but not new hampshire.
+Correct A: kentucky borders illinois, ohio, and tennessee but not new hampshire.
+
+Question : What states border alabama, kentucky, and north carolina but not idaho?
+LLM A    : alabama borders georgia, florida, and tennessee, but not idaho.
+Correct A: tennessee borders alabama, kentucky, and north carolina but not idaho.
+
+Question : What states border new hampshire, new york, and rhode island but not tennessee?
+LLM A    : maine borders new hampshire, vermont, and rhode island, but not tennessee.
+Correct A: massachusetts borders new hampshire, new york, and rhode island but not tennessee.
+
+Question : What states border nebraska, south dakota, and utah but not district of columbia?
+LLM A    : nebraska borders iowa, kansas, and montana, but not district of columbia.
+Correct A: wyoming borders nebraska, south dakota, and utah but not district of columbia.
+
+Question : What states border minnesota, montana, and wyoming but not hawaii?
+LLM A    : minnesota borders north dakota, south dakota, and wisconsin, but not hawaii.
+Correct A: south dakota borders minnesota, montana, and wyoming but not hawaii.
+
+Question : What states border california, oregon, and utah but not delaware?
+LLM A    : california borders arizona, nevada, oregon, and utah, but not delaware.
+Correct A: nevada borders california, oregon, and utah but not delaware.
+
+Question : What states border arkansas, kansas, and new mexico but not wyoming?
+LLM A    : oklahoma borders arkansas, kansas, new mexico, but not wyoming.
+Correct A: oklahoma borders arkansas, kansas, and new mexico but not wyoming.
+
+Question : What states border kansas, oklahoma, and tennessee but not michigan?
+LLM A    : oklahoma borders arkansas, louisiana, missouri, texas, and tennessee, but does not border michigan.
+Correct A: missouri borders kansas, oklahoma, and tennessee but not michigan.
+
+Question : What states border connecticut, massachusetts, and new jersey but not kentucky?
+LLM A    : connecticut borders rhode island, massachusetts, and new york, but not kentucky.
+Correct A: new york borders connecticut, massachusetts, and new jersey but not kentucky.
+
+Question : What states border colorado, nebraska, and south dakota but not georgia?
+LLM A    : colorado borders wyoming, nebraska, and montana but not georgia.
+Correct A: wyoming borders colorado, nebraska, and south dakota but not georgia.
+
+Question : What states border colorado, iowa, and wyoming but not wisconsin?
+LLM A    : colorado borders nebraska, wyoming, and utah but not wisconsin.
+Correct A: nebraska borders colorado, iowa, and wyoming but not wisconsin.
+
+Question : What states border kentucky, missouri, and north carolina but not illinois?
+LLM A    : tennessee borders kentucky, missouri, north carolina, but not illinois.
+Correct A: tennessee borders kentucky, missouri, and north carolina but not illinois.
+
+Question : What states border new york, ohio, and west virginia but not washington?
+LLM A    : pennsylvania borders new york, ohio, west virginia, but not washington.
+Correct A: pennsylvania borders new york, ohio, and west virginia but not washington.
+
+Question : What states border illinois, ohio, and virginia but not michigan?
+LLM A    : indiana borders illinois, ohio, virginia, but not michigan.
+Correct A: kentucky borders illinois, ohio, and virginia but not michigan.
+
+Question : What states border iowa, kansas, and missouri but not vermont?
+LLM A    : iowa borders nebraska, minnesota, and wisconsin, but not vermont.
+Correct A: nebraska borders iowa, kansas, and missouri but not vermont.
+
+Question : What states border alabama, mississippi, and north carolina but not delaware?
+LLM A    : alabama borders georgia, florida, and tennessee, but not delaware.
+Correct A: tennessee borders alabama, mississippi, and north carolina but not delaware.
+
+Question : What states border kentucky, oklahoma, and tennessee but not wyoming?
+LLM A    : kentucky borders alabama, georgia, mississippi, north carolina, tennessee, and virginia, but does not border wyoming.
+Correct A: missouri borders kentucky, oklahoma, and tennessee but not wyoming.
+
+Question : What states border ohio, virginia, and west virginia but not california?
+LLM A    : ohio borders kentucky, pennsylvania, and west virginia, but not california.
+Correct A: kentucky borders ohio, virginia, and west virginia but not california.
+
+Question : What states border arizona, nevada, and oregon but not alaska?
+LLM A    : arizona borders california, nevada, oregon, but does not border alaska.
+Correct A: california borders arizona, nevada, and oregon but not alaska.
+
+Question : What states border new york, ohio, and west virginia but not maine?
+LLM A    : pennsylvania borders new york, ohio, west virginia, but not maine.
+Correct A: pennsylvania borders new york, ohio, and west virginia but not maine.
+
+Question : What states border arkansas, kansas, and missouri but not washington?
+LLM A    : oklahoma borders arkansas, kansas, missouri, but not washington.
+Correct A: oklahoma borders arkansas, kansas, and missouri but not washington.
+

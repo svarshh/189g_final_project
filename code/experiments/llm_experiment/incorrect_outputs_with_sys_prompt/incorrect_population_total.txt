@@ -1,0 +1,420 @@
+Question : what is Alabama, Texas, and Wyoming's population in total?
+LLM A    : alabama's population is 5.3 million, texas's population is 29.7 million, and wyoming's population is 0.56 million.
+Correct A: alabama, texas, and wyoming's population in total is 37641689.
+
+Question : what is Indiana, Louisiana, and Missouri's population in total?
+LLM A    : indiana, louisiana, and missouri have a combined population of 19,058,344.
+Correct A: indiana, louisiana, and missouri's population in total is 17858720.
+
+Question : what is Florida, North Dakota, and Oregon's population in total?
+LLM A    : florida: 21,769,475 north dakota: 760,077 oregon: 4,319,445
+Correct A: florida, north dakota, and oregon's population in total is 28934779.
+
+Question : what is Louisiana, Maine, and Michigan's population in total?
+LLM A    : the population in total for louisiana, maine, and michigan is 4.5 million.
+Correct A: louisiana, maine, and michigan's population in total is 16215390.
+
+Question : what is Alaska, Kansas, and Louisiana's population in total?
+LLM A    : alaska's population is 739,000, kansas' population is 2.9 million, and louisiana's population is 4.5 million.
+Correct A: alaska, kansas, and louisiana's population in total is 8340876.
+
+Question : what is Alaska, Georgia, and Wisconsin's population in total?
+LLM A    : alaska has a population of 739,000, georgia has a population of 10.7 million, and wisconsin has a population of 5.8 million.
+Correct A: alaska, georgia, and wisconsin's population in total is 18032596.
+
+Question : what is Colorado, Georgia, and Mississippi's population in total?
+LLM A    : 4,567
+Correct A: colorado, georgia, and mississippi's population in total is 20253870.
+
+Question : what is Delaware, Kentucky, and New Hampshire's population in total?
+LLM A    : 2079608
+Correct A: delaware, kentucky, and new hampshire's population in total is 7109420.
+
+Question : what is Hawaii, Maine, and Rhode Island's population in total?
+LLM A    : hawaii, maine, and rhode island's population in total is 18,502,734.
+Correct A: hawaii, maine, and rhode island's population in total is 3982470.
+
+Question : what is Idaho, Virginia, and Washington's population in total?
+LLM A    : 4603178
+Correct A: idaho, virginia, and washington's population in total is 18978860.
+
+Question : what is Indiana, Maryland, and Washington's population in total?
+LLM A    : indiana has a population of 6,785,529, maryland has a population of 6,046,937, and washington has a population of 7,818,723.
+Correct A: indiana, maryland, and washington's population in total is 21336840.
+
+Question : what is Indiana, Nebraska, and Washington's population in total?
+LLM A    : indiana, nebraska, and washington have a population in total of 19,528,370.
+Correct A: indiana, nebraska, and washington's population in total is 17050530.
+
+Question : what is Colorado, Nebraska, and North Carolina's population in total?
+LLM A    : colorado's population is 5,695,564, nebraska's population is 1,942,007, and north carolina's population is 10,439,388.
+Correct A: colorado, nebraska, and north carolina's population in total is 19247620.
+
+Question : what is Massachusetts, New Mexico, and Wyoming's population in total?
+LLM A    : massachusetts has a population of 7,192,830, new mexico has a population of 2,151,196, and wyoming has a population of 567,434.
+Correct A: massachusetts, new mexico, and wyoming's population in total is 9935289.
+
+Question : what is Alaska, Illinois, and Louisiana's population in total?
+LLM A    : alaska has a population of 739,795, illinois has a population of 12,802,473, and louisiana has a population of 4,697,177.
+Correct A: alaska, illinois, and louisiana's population in total is 18129266.
+
+Question : what is California, Montana, and Nebraska's population in total?
+LLM A    : 139,546,027
+Correct A: california, montana, and nebraska's population in total is 42830030.
+
+Question : what is New York, Ohio, and Rhode Island's population in total?
+LLM A    : new york, ohio, and rhode island have a total population of 20.4 million.
+Correct A: new york, ohio, and rhode island's population in total is 33060890.
+
+Question : what is Colorado, New Mexico, and Virginia's population in total?
+LLM A    : colorado, new mexico, and virginia's population in total is 10,438,928.
+Correct A: colorado, new mexico, and virginia's population in total is 17040700.
+
+Question : what is Oregon, Vermont, and Virginia's population in total?
+LLM A    : oregon's population in total is 4.8 million, vermont's population in total is 626,000, and virginia's population in total is 8.5 million.
+Correct A: oregon, vermont, and virginia's population in total is 13827068.
+
+Question : what is Kentucky, Mississippi, and Montana's population in total?
+LLM A    : kentucky, mississippi, and montana's population in total is 4.8 million.
+Correct A: kentucky, mississippi, and montana's population in total is 8712230.
+
+Question : what is Alabama, Ohio, and Oklahoma's population in total?
+LLM A    : alabama's population is 5,024,279, ohio's population is 11,689,441, and oklahoma's population is 3,959,353.
+Correct A: alabama, ohio, and oklahoma's population in total is 21267220.
+
+Question : what is Arizona, Oklahoma, and South Dakota's population in total?
+LLM A    : arizona: 7,393,000
+oklahoma: 3,959,000
+south dakota: 869,000
+Correct A: arizona, oklahoma, and south dakota's population in total is 12749673.
+
+Question : what is Nebraska, Virginia, and Wyoming's population in total?
+LLM A    : nebraska - 1.9 million, virginia - 8.5 million, wyoming - 567,000.
+Correct A: nebraska, virginia, and wyoming's population in total is 11500939.
+
+Question : what is Alabama, Massachusetts, and Virginia's population in total?
+LLM A    : alabama's population is 5,024,279, massachusetts' population is 7,163,877, and virginia's population is 8,531,298.
+Correct A: alabama, massachusetts, and virginia's population in total is 21291190.
+
+Question : what is Connecticut, Florida, and Oregon's population in total?
+LLM A    : connecticut's population is 3,578,644, florida's population is 21,767,841, and oregon's population is 4,319,445.
+Correct A: connecticut, florida, and oregon's population in total is 31837810.
+
+Question : what is Alabama, Colorado, and Texas's population in total?
+LLM A    : alabama's population is 5,024,279, colorado's population is 5,695,564, and texas's population is 29,743,744.
+Correct A: alabama, colorado, and texas's population in total is 43065170.
+
+Question : what is Connecticut, Maine, and New Hampshire's population in total?
+LLM A    : 8.7 million
+Correct A: connecticut, maine, and new hampshire's population in total is 6533360.
+
+Question : what is Colorado, Connecticut, and New Mexico's population in total?
+LLM A    : colorado, connecticut, and new mexico's population in total is 7.6 million.
+Correct A: colorado, connecticut, and new mexico's population in total is 11860120.
+
+Question : what is California, Illinois, and Michigan's population in total?
+LLM A    : california, illinois, and michigan have a total population of 53,971,448.
+Correct A: california, illinois, and michigan's population in total is 62639500.
+
+Question : what is Delaware, New Mexico, and North Carolina's population in total?
+LLM A    : delaware, new mexico, and north carolina's population in total is 7,043,619.
+Correct A: delaware, new mexico, and north carolina's population in total is 14417660.
+
+Question : what is Delaware, Kansas, and Wisconsin's population in total?
+LLM A    : delaware, kansas, and wisconsin have a total population of 7,016,324.
+Correct A: delaware, kansas, and wisconsin's population in total is 10048660.
+
+Question : what is Florida, Mississippi, and Wisconsin's population in total?
+LLM A    : florida: 21,767,000
+mississippi: 2,961,545
+wisconsin: 5,893,027
+Correct A: florida, mississippi, and wisconsin's population in total is 32774060.
+
+Question : what is Alaska, Arizona, and Idaho's population in total?
+LLM A    : alaska has a population of 739,795, arizona has a population of 7,271,873, and idaho has a population of 1,792,460.
+Correct A: alaska, arizona, and idaho's population in total is 10467616.
+
+Question : what is Illinois, South Dakota, and Virginia's population in total?
+LLM A    : illinois' population is 12.8 million, south dakota's population is 863,000, and virginia's population is 8.5 million.
+Correct A: illinois, south dakota, and virginia's population in total is 22596833.
+
+Question : what is Florida, Maryland, and Oklahoma's population in total?
+LLM A    : florida's population is 21,767,000, maryland's population is 6,049,000, and oklahoma's population is 3,959,000.
+Correct A: florida, maryland, and oklahoma's population in total is 34275880.
+
+Question : what is Kentucky, Massachusetts, and Utah's population in total?
+LLM A    : kentucky, massachusetts, and utah's population in total is 4.5 million.
+Correct A: kentucky, massachusetts, and utah's population in total is 15395920.
+
+Question : what is New Mexico, New York, and Pennsylvania's population in total?
+LLM A    : new mexico, new york, and pennsylvania have a population in total of 6.7 million.
+Correct A: new mexico, new york, and pennsylvania's population in total is 35276250.
+
+Question : what is Hawaii, Utah, and Vermont's population in total?
+LLM A    : hawaii's population is 1,429,013, utah's population is 3,251,873, and vermont's population is 626,439.
+Correct A: hawaii, utah, and vermont's population in total is 5663178.
+
+Question : what is Idaho, Nevada, and New York's population in total?
+LLM A    : 134,622,850
+Correct A: idaho, nevada, and new york's population in total is 25349790.
+
+Question : what is Colorado, Hawaii, and Iowa's population in total?
+LLM A    : colorado's population is 5,758,045, hawaii's population is 1,427,538, and iowa's population is 3,190,769.
+Correct A: colorado, hawaii, and iowa's population in total is 10729110.
+
+Question : what is Hawaii, New Hampshire, and New York's population in total?
+LLM A    : hawaii's population is 1,420,000, new hampshire's population is 1,377,508, and new york's population is 20,201,203.
+Correct A: hawaii, new hampshire, and new york's population in total is 22863860.
+
+Question : what is Florida, Maine, and Montana's population in total?
+LLM A    : florida, maine, and montana's population in total is 21,765,894.
+Correct A: florida, maine, and montana's population in total is 26393140.
+
+Question : what is Rhode Island, Washington, and West Virginia's population in total?
+LLM A    : rhode island's population is 1,096,135, washington's population is 7,821,008, and west virginia's population is 1,793,716.
+Correct A: rhode island, washington, and west virginia's population in total is 10949690.
+
+Question : what is Delaware, Kansas, and Utah's population in total?
+LLM A    : delaware, kansas, and utah's population in total is 6,071,852.
+Correct A: delaware, kansas, and utah's population in total is 7621120.
+
+Question : what is Louisiana, North Dakota, and Tennessee's population in total?
+LLM A    : louisiana's population is 4.6 million, north dakota's population is 760,000, and tennessee's population is 6.9 million.
+Correct A: louisiana, north dakota, and tennessee's population in total is 12718699.
+
+Question : what is Maine, Pennsylvania, and Texas's population in total?
+LLM A    : maine, pennsylvania, and texas have a combined population of 173 million.
+Correct A: maine, pennsylvania, and texas's population in total is 46403980.
+
+Question : what is Delaware, Mississippi, and Ohio's population in total?
+LLM A    : delaware: 982,057
+mississippi: 2,961,943
+ohio: 11,774,953
+Correct A: delaware, mississippi, and ohio's population in total is 15952930.
+
+Question : what is Kansas, Utah, and Wisconsin's population in total?
+LLM A    : kansas, utah, and wisconsin's population in total is 2.9 million.
+Correct A: kansas, utah, and wisconsin's population in total is 12545250.
+
+Question : what is Hawaii, Montana, and Texas's population in total?
+LLM A    : hawaii, montana, and texas have a population in total of 13,478,029.
+Correct A: hawaii, montana, and texas's population in total is 34447860.
+
+Question : what is Delaware, Tennessee, and Vermont's population in total?
+LLM A    : delaware, tennessee, and vermont have a combined population of 21,458,007.
+Correct A: delaware, tennessee, and vermont's population in total is 9022888.
+
+Question : what is Alaska, Arkansas, and Georgia's population in total?
+LLM A    : alaska, arkansas, and georgia's population in total is 739,795.
+Correct A: alaska, arkansas, and georgia's population in total is 15148296.
+
+Question : what is Arkansas, Michigan, and Rhode Island's population in total?
+LLM A    : arkansas: 2.9 million
+michigan: 10.0 million
+rhode island: 1.0 million
+Correct A: arkansas, michigan, and rhode island's population in total is 14426030.
+
+Question : what is Alaska, Florida, and Iowa's population in total?
+LLM A    : alaska's population is 739,000, florida's population is 21,767,841, and iowa's population is 3,190,885.
+Correct A: alaska, florida, and iowa's population in total is 27847916.
+
+Question : what is Connecticut, Minnesota, and West Virginia's population in total?
+LLM A    : 20,917,843
+Correct A: connecticut, minnesota, and west virginia's population in total is 11309830.
+
+Question : what is Arizona, Massachusetts, and Oregon's population in total?
+LLM A    : arizona has a population of 7,395,446, massachusetts has a population of 7,076,952, and oregon has a population of 4,311,828.
+Correct A: arizona, massachusetts, and oregon's population in total is 19188600.
+
+Question : what is Iowa, Maine, and Wyoming's population in total?
+LLM A    : iowa, maine, and wyoming's population in total is 3,190,724.
+Correct A: iowa, maine, and wyoming's population in total is 5265109.
+
+Question : what is Georgia, Missouri, and Tennessee's population in total?
+LLM A    : population in total is 10.7 million.
+Correct A: georgia, missouri, and tennessee's population in total is 24887390.
+
+Question : what is Alabama, New Jersey, and North Carolina's population in total?
+LLM A    : alabama's population is 5,024,279, new jersey's population is 9,013,896, and north carolina's population is 10,439,388.
+Correct A: alabama, new jersey, and north carolina's population in total is 26030680.
+
+Question : what is Georgia, New Jersey, and New York's population in total?
+LLM A    : georgia: 10,711,908
+new jersey: 9,004,133
+new york: 20,201,249
+Correct A: georgia, new jersey, and new york's population in total is 40916460.
+
+Question : what is Kentucky, Maryland, and New York's population in total?
+LLM A    : kentucky, maryland, and new york's population in total is 6,043,251.
+Correct A: kentucky, maryland, and new york's population in total is 30932630.
+
+Question : what is Arizona, New York, and Tennessee's population in total?
+LLM A    : arizona's population is 7,394,025, new york's population is 19,545,181, and tennessee's population is 6,910,571.
+Correct A: arizona, new york, and tennessee's population in total is 34996040.
+
+Question : what is Alaska, Minnesota, and Vermont's population in total?
+LLM A    : alaska has a population of 739,795, minnesota has a population of 5,674,123, and vermont has a population of 626,002.
+Correct A: alaska, minnesota, and vermont's population in total is 7225284.
+
+Question : what is Minnesota, Montana, and New Mexico's population in total?
+LLM A    : minnesota, montana, and new mexico's population in total is 5,679,454.
+Correct A: minnesota, montana, and new mexico's population in total is 9115760.
+
+Question : what is Georgia, Kansas, and Oregon's population in total?
+LLM A    : georgia's population is 10,711,908, kansas' population is 2,936,143, and oregon's population is 4,359,002.
+Correct A: georgia, kansas, and oregon's population in total is 18578100.
+
+Question : what is Arizona, New Hampshire, and Rhode Island's population in total?
+LLM A    : arizona's population is 7,397,471, new hampshire's population is 1,377,529, and rhode island's population is 1,096,135.
+Correct A: arizona, new hampshire, and rhode island's population in total is 10228790.
+
+Question : what is Colorado, Maryland, and Pennsylvania's population in total?
+LLM A    : colorado's population is 5,695,564, maryland's population is 6,043,971, and pennsylvania's population is 12,773,800.
+Correct A: colorado, maryland, and pennsylvania's population in total is 25462830.
+
+Question : what is Alaska, Mississippi, and New Hampshire's population in total?
+LLM A    : alaska: 739,795
+mississippi: 2,961,447
+new hampshire: 1,377,529
+Correct A: alaska, mississippi, and new hampshire's population in total is 5102536.
+
+Question : what is Hawaii, Indiana, and Ohio's population in total?
+LLM A    : hawaii, indiana, and ohio's population in total is 18,803,724.
+Correct A: hawaii, indiana, and ohio's population in total is 20361920.
+
+Question : what is Alaska, Florida, and Minnesota's population in total?
+LLM A    : alaska, florida, and minnesota have a combined population of 73,601,279.
+Correct A: alaska, florida, and minnesota's population in total is 30416606.
+
+Question : what is Missouri, New Jersey, and Washington's population in total?
+LLM A    : 7291584
+Correct A: missouri, new jersey, and washington's population in total is 23963990.
+
+Question : what is Georgia, Minnesota, and New Jersey's population in total?
+LLM A    : georgia, minnesota, and new jersey have a total population of 10.5 million people.
+Correct A: georgia, minnesota, and new jersey's population in total is 26752610.
+
+Question : what is Alabama, Louisiana, and North Dakota's population in total?
+LLM A    : 14.95 million
+Correct A: alabama, louisiana, and north dakota's population in total is 10609219.
+
+Question : what is New Hampshire, Oklahoma, and West Virginia's population in total?
+LLM A    : new hampshire's population is 1.34 million, oklahoma's population is 3.95 million, and west virginia's population is 1.79 million.
+Correct A: new hampshire, oklahoma, and west virginia's population in total is 7312220.
+
+Question : what is Idaho, Kansas, and Pennsylvania's population in total?
+LLM A    : 5,147,000
+Correct A: idaho, kansas, and pennsylvania's population in total is 18161630.
+
+Question : what is Arizona, Nevada, and Oklahoma's population in total?
+LLM A    : arizona's population is 7,395,128, nevada's population is 3,046,450, and oklahoma's population is 3,959,353.
+Correct A: arizona, nevada, and oklahoma's population in total is 15139210.
+
+Question : what is Louisiana, Utah, and Washington's population in total?
+LLM A    : louisiana, utah, and washington's population in total is 4.5 million.
+Correct A: louisiana, utah, and washington's population in total is 16230450.
+
+Question : what is California, Mississippi, and West Virginia's population in total?
+LLM A    : california's population is 39,538,223, mississippi's population is 2,961,720, and west virginia's population is 1,793,716.
+Correct A: california, mississippi, and west virginia's population in total is 44376180.
+
+Question : what is Kansas, Ohio, and Rhode Island's population in total?
+LLM A    : kansas, ohio, and rhode island's population in total is 29716384.
+Correct A: kansas, ohio, and rhode island's population in total is 16053500.
+
+Question : what is Nebraska, Oregon, and South Dakota's population in total?
+LLM A    : nebraska: 1.9 million
+oregon: 4.7 million
+south dakota: 860,000
+Correct A: nebraska, oregon, and south dakota's population in total is 7245193.
+
+Question : what is Alabama, Idaho, and Missouri's population in total?
+LLM A    : alabama, idaho, and missouri have a combined population of 21,795,879.
+Correct A: alabama, idaho, and missouri's population in total is 13512730.
+
+Question : what is Kansas, Louisiana, and Ohio's population in total?
+LLM A    : kansas, louisiana, and ohio have a combined population of 17,432,509.
+Correct A: kansas, louisiana, and ohio's population in total is 19539720.
+
+Question : what is Florida, North Dakota, and South Dakota's population in total?
+LLM A    : florida's population in total is 21,767,841, north dakota's population in total is 760,077, and south dakota's population in total is 869,666.
+Correct A: florida, north dakota, and south dakota's population in total is 25574722.
+
+Question : what is Kansas, Texas, and Virginia's population in total?
+LLM A    : kansas, texas, and virginia's population in total is 29,416,507.
+Correct A: kansas, texas, and virginia's population in total is 43731210.
+
+Question : what is Montana, Oregon, and Washington's population in total?
+LLM A    : montana, oregon, and washington's population in total is 16,847,000.
+Correct A: montana, oregon, and washington's population in total is 13493290.
+
+Question : what is Florida, Kentucky, and Louisiana's population in total?
+LLM A    : florida, kentucky, and louisiana's population in total is 21,759,000.
+Correct A: florida, kentucky, and louisiana's population in total is 33073160.
+
+Question : what is Maine, New York, and Washington's population in total?
+LLM A    : maine's population is 1.3 million, new york's population is 20.2 million, and washington's population is 7.5 million.
+Correct A: maine, new york, and washington's population in total is 29466520.
+
+Question : what is California, Montana, and Utah's population in total?
+LLM A    : 39,538,223
+Correct A: california, montana, and utah's population in total is 44370960.
+
+Question : what is Minnesota, Ohio, and South Dakota's population in total?
+LLM A    : minnesota: 5,677,123
+ohio: 11,789,442
+south dakota: 869,000
+Correct A: minnesota, ohio, and south dakota's population in total is 18706883.
+
+Question : what is Arizona, Pennsylvania, and Rhode Island's population in total?
+LLM A    : arizona's population is 7,169,036, pennsylvania's population is 12,802,845, and rhode island's population is 1,096,134.
+Correct A: arizona, pennsylvania, and rhode island's population in total is 21952730.
+
+Question : what is New Mexico, North Carolina, and North Dakota's population in total?
+LLM A    : new mexico: 2,135,796
+north carolina: 10,439,388
+north dakota: 760,077
+Correct A: new mexico, north carolina, and north dakota's population in total is 14154339.
+
+Question : what is Idaho, Montana, and Wisconsin's population in total?
+LLM A    : idaho, montana, and wisconsin have a population of 2 million.
+Correct A: idaho, montana, and wisconsin's population in total is 9166820.
+
+Question : what is Georgia, Mississippi, and Oregon's population in total?
+LLM A    : georgia's population is 10,519,475, mississippi's population is 2,961,941, and oregon's population is 4,375,435.
+Correct A: georgia, mississippi, and oregon's population in total is 18531310.
+
+Question : what is Arkansas, Louisiana, and South Dakota's population in total?
+LLM A    : arkansas has a population of 2.9 million, louisiana has a population of 4.6 million, and south dakota has a population of 867,000.
+Correct A: arkansas, louisiana, and south dakota's population in total is 8645683.
+
+Question : what is Connecticut, Iowa, and South Dakota's population in total?
+LLM A    : connecticut: 3,593,018
+iowa: 3,190,885
+south dakota: 869,667
+Correct A: connecticut, iowa, and south dakota's population in total is 7902713.
+
+Question : what is Missouri, Utah, and Wyoming's population in total?
+LLM A    : missouri, utah, and wyoming's population in total is 29,418,756.
+Correct A: missouri, utah, and wyoming's population in total is 10437059.
+
+Question : what is Georgia, Nebraska, and Oregon's population in total?
+LLM A    : georgia's population is 10,711,908, nebraska's population is 1,942,536, and oregon's population is 4,319,540.
+Correct A: georgia, nebraska, and oregon's population in total is 17611460.
+
+Question : what is Maine, New Mexico, and Texas's population in total?
+LLM A    : maine, new mexico, and texas have a total population of 13.6 million.
+Correct A: maine, new mexico, and texas's population in total is 35403530.
+
+Question : what is Kansas, Mississippi, and Washington's population in total?
+LLM A    : kansas has a population of 2.9 million, mississippi has a population of 2.9 million, and washington has a population of 7.5 million.
+Correct A: kansas, mississippi, and washington's population in total is 13991670.
+
+Question : what is Louisiana, South Carolina, and South Dakota's population in total?
+LLM A    : louisiana, south carolina, and south dakota's population in total is 4,652,779.
+Correct A: louisiana, south carolina, and south dakota's population in total is 11108273.
+
+Question : what is Iowa, Maryland, and New Jersey's population in total?
+LLM A    : iowa's population is 3,190,875, maryland's population is 6,044,149, and new jersey's population is 8,999,270.
+Correct A: iowa, maryland, and new jersey's population in total is 19196000.
+
