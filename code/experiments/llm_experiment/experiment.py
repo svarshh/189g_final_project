@@ -153,9 +153,13 @@ def main():
         exit(1)
     prompt_type = sys.argv[1]
 
+    import os
+
     if(prompt_type == "system_prompt"):
+        os.makedirs('incorrect_outputs_with_sys_prompt', exist_ok=True)
         run_experiment("data_with_sys_prompt.json", "./text_data", True, "experiment_with_sys_prompt.csv", "incorrect_outputs_with_sys_prompt")
     elif(prompt_type == "no_system_prompt"):
+        os.makedirs('incorrect_outputs_no_sys_prompt', exist_ok=True)
         run_experiment("data_no_sys_prompt.json", "./text_data", True, "experiment_no_sys_prompt.csv", "incorrect_outputs_no_sys_prompt")
     else:
         print("Please run one of the following:\npython experiment.py system_prompt \npython experiment.py no_system_prompt")
