@@ -3,7 +3,8 @@
         {
             "category": "Geography US State Abbreviation Knowledge",
             "system_prompt": "Please respond with answers formatted exactly like this (without quotes): \"California's abbreviation is CA.\" Replace California and CA with the appropriate state and abbreviation.  Do not include any angle brackets or other symbols in your answer.", 
-            "text_file": "abbrev.txt" },
+            "text_file": "abbrev.txt" 
+        },
         {
             "category": "Geography US State Capital Knowledge",
             "system_prompt": "Please respond with answers formatted exactly like this (without quotes): California's capital is Sacramento. Replace California and Sacramento with the appropriate state and its capital city. Do not include any angle brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only.",
@@ -21,8 +22,8 @@
             "text_file": "simple_border.txt"
         },
         {
-            "category": "Geography US States Complex Border Questions AND",
-            "system_prompt": "Please follow this EXACT answer format (without quotes): '[QuestionStates] neighbor [AnswerState] in common.' Replace [QuestionStates] with the states in the QUESTION, as a list. Replace [AnswerState] with the states answering the question. DO NOT include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
+            "category": "Geography US States Complex Border and Location questions AND",
+            "system_prompt": "Please follow this exact answer format (without quotes): '[QuestionStates] neighbor [AnswerState] in common.' Replace [QuestionStates] with the states in the QUESTION, as a list. Replace [AnswerState] with the states answering the question. DO NOT include any brackets, quotation marks, or other symbols in your answer. Respond with a single sentence only." ,
             "text_file": "verb_or_question.txt",
             "sample": 100
         },

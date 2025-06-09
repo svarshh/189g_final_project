@@ -71,7 +71,7 @@ def write_to_csv(filename, headers, rows):
         writer.writerow(headers)  # write header
         writer.writerows(rows)    # write data rows
 
-def run_experiment(data_file_name: str, text_data_base_path: str, table_print: bool, csv_file_name: str = None):
+def run_experiment(data_file_name: str, text_data_base_path: str, table_print: bool, csv_file_name: str = None, incorrect_dir_name: str = None):
     import json
     import os
     import random
@@ -120,7 +120,7 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
            
 
         if len(incorrect_qaa_triples) > 0:
-            with open(f"incorrect_outputs/incorrect_{test_case_category['text_file']}", "w") as file:
+            with open(f"{incorrect_dir_name}/incorrect_{test_case_category['text_file']}", "w") as file:
                 for question, llm_answer, correct_answer in incorrect_qaa_triples:
                     file.write(f"Question : {question}\n")
                     file.write(f"LLM A    : {llm_answer.strip().lower()}\n")
@@ -146,4 +146,19 @@ def run_experiment(data_file_name: str, text_data_base_path: str, table_print: b
     if csv_file_name is not None and csv_file_name != "":
         write_to_csv(csv_file_name, headers, rows)
 
-run_experiment("data.json", "./text_data", True, "experiment.csv")
+def main():
+    import sys
+    if(len(sys.argv) != 2):
+        print("Please run one of the following:\npython experiment.py system_prompt \npython experiment.py no_system_prompt")
+        exit(1)
+    prompt_type = sys.argv[1]
+
+    if(prompt_type == "system_prompt"):
+        run_experiment("data_with_sys_prompt.json", "./text_data", True, "experiment_with_sys_prompt.csv", "incorrect_outputs_with_sys_prompt")
+    elif(prompt_type == "no_system_prompt"):
+        run_experiment("data_no_sys_prompt.json", "./text_data", True, "experiment_no_sys_prompt.csv", "incorrect_outputs_no_sys_prompt")
+    else:
+        print("Please run one of the following:\npython experiment.py system_prompt \npython experiment.py no_system_prompt")
+        exit(1)
+if __name__ == "__main__":
+    main()
