@@ -99,26 +99,15 @@
 
 
 \begin{abstract}
-  Compiling a large dataset of domain-specific prompts and correct answers.  Auto-generating datasets for LLM verification 
-  is a non-trivial task that PromptGen will tackle.  Using constraint based programming, PromptGen will auto generate a large 
-  set of prompts along with corresponding answers to verify and finetune/repair an LLM.
+  Compiling a large dataset of domain-specific prompts and correct answers.  Auto-generating datasets for LLM verification is a non-trivial task that PromptGen will tackle.  Using constraint based programming, PromptGen will auto generate a large set of natural language prompts along with corresponding answers to verify an LLM.
+
 \end{abstract}
 
 
 \section{Introduction}
 
 
-Despite high performance accuracies in modern LLMs, 
-these models are still prone to unpredictably producing hallucinated outputs.
- Often, the problem is in verifying whether an LLM is good at a certain task. 
- Another way of thinking about this problem is to think about generating a corpus of 
- text that is good enough to fine-tune an LLM for a certain downstream task. We aim to chip 
- away at this problem by proposing a method that will allow domain experts to codify constraints
-  that exist in their domain, which can be used to generate a dataset to fine-tune/repair an LLM or use 
-  it to verify the effectiveness of an already fine-tuned LLM.
-
-
-
+Despite high performance accuracies in modern LLMs, these models are still prone to unpredictably producing incorrect outputs. Often, the problem is in verifying whether an LLM is good at a certain task. Another way of thinking about this problem is to think about generating a large corpus of text that is good enough to fine-tune an LLM for a certain downstream task. We aim to chip away at this problem by proposing a method that will allow domain experts to codify constraints that exist in their domain, which can be used to generate a dataset to fine-tune/repair an LLM or use it to verify the effectiveness of an LLM.
 
 \subsection{Problem Being Addressed}
 
@@ -250,9 +239,51 @@ The second stage of our evaluation metric will be an empirical measure to try to
 
 \subsection{Baselines}
 As mentioned before, the main baseline that we are comparing our system to is the prompts (Question Answer Pairs) that already exist in the geobase dataset. Our main evaluation criterion is coverage difference, which illustrates how much of the geobase prompts our system can recreate. This is to show that the results of our system is at least as good as human written evaluation sets (the main way to currently evaluate LLMs) and we hope to convince the reader through empirical evidence, that even if the best case result is to recreate the prompts the human can generate, that the declarative and programmatic style of our approach to LLM evaluation dataset generation is cheaper, faster, and easier to change when the underlying requirements of the domain change. 
+\subsection{Tables}
 
 
+All tables must be centered, neat, clean and legible.  The table number and
+title always appear before the table.  See Table~\ref{sample-table}.
 
+
+Place one line space before the table title, one line space after the
+table title, and one line space after the table. The table title must
+be lower case (except for first word and proper nouns); tables are
+numbered consecutively.
+
+
+Note that publication-quality tables \emph{do not contain vertical rules.} We
+strongly suggest the use of the \verb+booktabs+ package, which allows for
+typesetting high-quality, professional tables:
+\begin{center}
+  \url{https://www.ctan.org/pkg/booktabs}
+\end{center}
+This package was used to typeset Table~\ref{sample-table}.
+
+
+\begin{table}
+  \caption{Sample table title}
+  \label{sample-table}
+  \centering
+  \begin{tabular}{lll}
+    \toprule
+    \multicolumn{2}{c}{Part}                   \\
+    \cmidrule(r){1-2}
+    Name     & Description     & Size ($\mu$m) \\
+    \midrule
+    Dendrite & Input terminal  & $\sim$100     \\
+    Axon     & Output terminal & $\sim$10      \\
+    Soma     & Cell body       & up to $10^6$  \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+
+\section{Approach}
+
+\section{Experimental Evaluation}
+
+\section{Conclusion}
 % The documentation for \verb+natbib+ may be found at
 % \begin{center}
 %   \url{http://mirrors.ctan.org/macros/latex/contrib/natbib/natnotes.pdf}
