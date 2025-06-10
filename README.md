@@ -96,7 +96,7 @@ This will produce additional QA datasets and save them to predefined output file
 
 ## 🚀 Running Experiments
 
-All commands below assume you’re in the `code/experiments` directory and the virtual environment is activated.
+Starting off, assume you’re in the `code/experiments` directory and the virtual environment is activated.
 
 ---
 
