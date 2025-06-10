@@ -1,5 +1,5 @@
 
-# ⚙️ Project Setup Instructions
+# ⚙️ PromptGen Setup Instructions
 
 ## 🛠️ Required Software
 
