@@ -1,0 +1,8 @@
+Category,Q's Generated,Q's Asked,Q's Correct,Passed,BLEU,BERT Prec.,BERT Rec.,BERT F1
+State Abbreviation Knowledge,51,51,50,98.0%,98.39,1.00,1.00,1.00
+State Capital Knowledge,51,51,48,94.1%,95.56,0.99,0.99,0.99
+Rivers Knowledge,46,46,4,8.7%,54.09,0.96,0.98,0.97
+State Simple Border Questions,49,49,3,6.1%,45.05,0.97,0.97,0.97
+States Complex Border and Location questions AND,543,100,37,37.0%,74.21,0.97,0.98,0.98
+States Complex Border Questions AND BUT,23601,100,2,2.0%,43.34,0.95,0.95,0.95
+States Complex Total population,19600,100,0,0.0%,29.93,0.89,0.91,0.90

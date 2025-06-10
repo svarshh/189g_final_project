@@ -1,0 +1,29 @@
+{
+ "data": [
+  {
+   "category": "Border Question",
+   "reference_question": "what states border montana?",
+   "system_generated_question": "What states does montana border?"
+  },
+  {
+   "category": "Capital Question",
+   "reference_question": "what is the capital of washington?",
+   "system_generated_question": "What is washington's capital?"
+  },
+  {
+   "category": "Population Question",
+   "reference_question": "how many citizens in alabama?",
+   "system_generated_question": "What is alabama's population?"
+  },
+  {
+   "category": "River in State Question",
+   "reference_question": "what rivers are in utah?",
+   "system_generated_question": "What rivers does utah contain?"
+  },
+  {
+   "category": "Major Cities in State Question",
+   "reference_question": "what are the major cities of texas?",
+   "system_generated_question": "What major cities does texas contain?"
+  }
+ ]
+}
