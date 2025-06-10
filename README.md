@@ -147,7 +147,10 @@ python experiment.py no_system_prompt
 ```
 
 Evaluates LLaMA 2 without system-level prompt guidance.  
-Results are saved in `experiment_no_sys_prompt.csv`.
+
+Results are saved in `experiment_no_sys_prompt.csv`
+
+Incorrect answers saved in  `./incorrect_outputs_no_sys_prompt`
 
 #### Part 2: With System Prompt
 
@@ -156,7 +159,10 @@ python experiment.py system_prompt
 ```
 
 Evaluates LLaMA 2 with system-level prompt guidance to structure the responses.  
-Results are saved in `experiment_with_sys_prompt.csv`.
+
+Results are saved in `experiment_with_sys_prompt.csv`
+
+Incorrect answers saved in  `./incorrect_outputs_with_sys_prompt`
 
 ---
 
