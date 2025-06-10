@@ -28,9 +28,27 @@ ollama pull llama2
 
 This will download the 7B parameter LLaMA 2 model locally for use in evaluation experiments.
 
+
+
 ---
 
-## 📦 Python Environment Setup
+## Ensure the following before running any code
+
+
+### Steps to Run LLaMA 2 Model:
+
+1. **Download and install Ollama and the LLaMA 2 7B model** on your Mac following the Ollama instructions.
+
+2. **Start the LLaMA 2 model server**, making sure it listens on port `11434`. This port must be free and available on your machine.
+
+   For example, using Ollama CLI, you might run something like:
+   ```bash
+   ollama run llama2 --port 11434
+   ```
+
+---
+
+### 📦 Python Environment Setup
 
 1. Navigate to the experiment code folder:
    ```bash
